@@ -1,4 +1,1 @@
-build:
-    stage: build
-    script:
-        - make
+image: node:latest
