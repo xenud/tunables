@@ -1,1 +1,4 @@
 image: node:latest
+pages:
+  script:
+    - ls
