@@ -4228,6 +4228,16 @@
                 "value": 2
             }
         ],
+        "XP_MULTIPLIER": [
+            {
+                "value": 2
+            }
+        ],
+        "JOB_RP_CAP": [
+            {
+                "value": 10000
+            }
+        ],
         "F4C18B94": [
             {
                 "value": 2
