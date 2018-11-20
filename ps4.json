@@ -4,52 +4,20 @@
     "poolSize": 2000,
     "contentlists": [
         [
-            -916471418,
-            -1618926816,
-            -10049140,
-            -995524156,
-            -1280459662,
-            -652948972,
-            1956683927,
-            -1212714605,
-            504321205,
-            -1572297515,
-            -827434692,
-            926587253,
-            -1499510513,
-            354921103,
-            -1390394639,
-            -777091225,
-            132186116,
-            -1054288328,
-            -1486170521,
-            312265423,
-            1555077789,
-            858231015,
-            818579233,
-            985415188,
-            -775350982,
-            160081235,
-            830207987,
-            486505653,
-            -1360851636,
-            1755901537,
-            -538989715,
-            -1397234849,
-            -2001456504,
-            -715488478,
-            132398312,
-            -518422011,
-            282444338,
-            -739162990,
-            -975506260,
-            -788962014,
-            933358100,
-            -1955458525,
-            -231235313,
-            704427996,
-            857062191,
-            -568448176
+            -262212807,
+            589712131,
+            1416278573,
+            2075256425,
+            1160070092,
+            1164231261,
+            -97502038,
+            -1962492699,
+            -567267256,
+            -1237175033,
+            -1946429829,
+            -1752017413,
+            -2125635227,
+            1814872619
         ]
     ],
     "tunables": {
@@ -205,7 +173,7 @@
         ],
         "BOOT_BUTTON_QUICK_MATCH_TYPE": [
             {
-                "value": 223
+                "value": 206
             }
         ],
         "9C4E29E5": [
@@ -1265,237 +1233,237 @@
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_7_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_8_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_9_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_10_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_11_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_12_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_13_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_14_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_15_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_16_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_17_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_18_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_19_PROFESSIONAL_0": [
             {
-                "value": 1468233215
+                "value": 1243494112
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_0_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_1_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_2_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_3_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_4_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_5_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_6_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_7_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_8_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_9_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_10_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_11_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_12_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_13_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_14_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_15_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_16_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_17_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_18_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_19_PROFESSIONAL": [
             {
-                "value": 7
+                "value": 941494461
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_1": [
             {
-                "value": 1886197979
+                "value": 314482639
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_1": [
             {
-                "value": 147500323
+                "value": 368153796
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_1": [
             {
-                "value": 707372225
+                "value": 767538664
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_1": [
             {
-                "value": 1348719285
+                "value": -231349539
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_1": [
             {
-                "value": 680699145
+                "value": 1087858460
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_1": [
             {
-                "value": -2097601644
+                "value": -1399969000
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_1": [
             {
-                "value": 252231768
+                "value": 1622448247
             }
         ],
         "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_1": [
@@ -1625,77 +1593,77 @@
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_3": [
             {
-                "value": 767538664
+                "value": -1999058225
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_3": [
             {
-                "value": -1999058225
+                "value": 2004371279
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_3": [
             {
-                "value": 2004371279
+                "value": 1396140656
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_3": [
             {
-                "value": 1396140656
+                "value": 2038494967
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_3": [
             {
-                "value": 2038494967
+                "value": -639547037
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_3": [
             {
-                "value": 314482639
+                "value": -1580608396
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_3": [
             {
-                "value": -639547037
+                "value": 1020764659
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_7_PROFESSIONAL_3": [
             {
-                "value": -1580608396
+                "value": -1250521980
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_8_PROFESSIONAL_3": [
             {
-                "value": 1020764659
+                "value": 767908930
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_9_PROFESSIONAL_3": [
             {
-                "value": -1250521980
+                "value": 2031238559
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_10_PROFESSIONAL_3": [
             {
-                "value": 368153796
+                "value": 1423559303
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_11_PROFESSIONAL_3": [
             {
-                "value": 767908930
+                "value": -30257399
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_12_PROFESSIONAL_3": [
             {
-                "value": 2031238559
+                "value": 0
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_13_PROFESSIONAL_3": [
             {
-                "value": 1423559303
+                "value": 0
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_14_PROFESSIONAL_3": [
             {
-                "value": -30257399
+                "value": 0
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_15_PROFESSIONAL_3": [
@@ -1740,7 +1708,7 @@
         ],
         "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_3": [
             {
-                "value": 15
+                "value": 12
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_4": [
@@ -3283,3724 +3251,3569 @@
                 "value": true
             }
         ],
-        "D4A0FDC5": [
+        "1CA3755B": [
             {
-                "value": 60000
+                "value": 10000
             }
         ],
-        "7C14338": [
+        "4F113DAB": [
             {
-                "value": 60000
+                "value": 20000
             }
         ],
-        "D379B674": [
-            {
-                "value": 60000
-            }
-        ],
-        "B2A3E3B1": [
-            {
-                "value": 60000
-            }
-        ],
-        "B32C416B": [
-            {
-                "value": 40000
-            }
-        ],
-        "44726F9A": [
-            {
-                "value": 40000
-            }
-        ],
-        "54B47349": [
-            {
-                "value": 4000
-            }
-        ],
-        "4512F497": [
-            {
-                "value": 4000
-            }
-        ],
-        "F21A8055": [
-            {
-                "value": 4000
-            }
-        ],
-        "FF402C5D": [
-            {
-                "value": 4000
-            }
-        ],
-        "D398451B": [
-            {
-                "value": 2000
-            }
-        ],
-        "82068E8": [
-            {
-                "value": 2000
-            }
-        ],
-        "4AC09ECD": [
-            {
-                "value": 0.7
-            }
-        ],
-        "55D1B988": [
-            {
-                "value": 0.7
-            }
-        ],
-        "EE409F6F": [
-            {
-                "value": 0.7
-            }
-        ],
-        "3A4BF64D": [
-            {
-                "value": 0.7
-            }
-        ],
-        "6C349B8C": [
-            {
-                "value": 0.7
-            }
-        ],
-        "46417C4B": [
-            {
-                "value": 0.7
-            }
-        ],
-        "C0208779": [
-            {
-                "value": 0.3
-            }
-        ],
-        "4D711D50": [
-            {
-                "value": 0.3
-            }
-        ],
-        "D05E96B0": [
-            {
-                "value": 0.3
-            }
-        ],
-        "BA31BA79": [
-            {
-                "value": 0.3
-            }
-        ],
-        "B6C65A14": [
-            {
-                "value": 0.3
-            }
-        ],
-        "895061D6": [
-            {
-                "value": 0.3
-            }
-        ],
-        "C5912878": [
+        "FE10A780": [
             {
                 "value": 1000
             }
         ],
-        "ADAFB37D": [
+        "2CA4D18C": [
             {
-                "value": 4000
+                "value": 500
             }
         ],
-        "E75829DA": [
+        "518724CB": [
             {
-                "value": 9000
+                "value": 5000
             }
         ],
-        "241B975B": [
+        "BIKER_SELL_PARTICIPATION_CASH": [
             {
-                "value": 9500
+                "value": 1000
             }
         ],
-        "A22EBB72": [
+        "BIKER_FAKEIDS_PRODUCT_VALUE": [
             {
-                "value": 10500
+                "value": 2000
             }
         ],
-        "9470F0B9": [
+        "BIKER_COUNTERCASH_PRODUCT_VALUE": [
             {
-                "value": 11500
+                "value": 7000
             }
         ],
-        "21EF96D9": [
+        "BIKER_CRACK_PRODUCT_VALUE": [
             {
-                "value": 12500
+                "value": 40000
             }
         ],
-        "53642F8B": [
+        "BIKER_METH_PRODUCT_VALUE": [
             {
-                "value": 13500
+                "value": 17000
             }
         ],
-        "C6BF8259": [
+        "BIKER_WEED_PRODUCT_VALUE": [
             {
-                "value": 15000
+                "value": 3000
             }
         ],
-        "IMPEXP_SELL_BUYER1_OFFER_HARD": [
+        "BIKER_FAKEIDS_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
+            {
+                "value": 400
+            }
+        ],
+        "BIKER_COUNTERCASH_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
+            {
+                "value": 1400
+            }
+        ],
+        "BIKER_CRACK_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
+            {
+                "value": 8000
+            }
+        ],
+        "BIKER_METH_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
+            {
+                "value": 3400
+            }
+        ],
+        "BIKER_WEED_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
+            {
+                "value": 600
+            }
+        ],
+        "BIKER_FAKEIDS_PRODUCT_VALUE_STAFF_UPGRADE": [
+            {
+                "value": 400
+            }
+        ],
+        "BIKER_COUNTERCASH_PRODUCT_VALUE_STAFF_UPGRADE": [
+            {
+                "value": 1400
+            }
+        ],
+        "BIKER_CRACK_PRODUCT_VALUE_STAFF_UPGRADE": [
+            {
+                "value": 8000
+            }
+        ],
+        "BIKER_METH_PRODUCT_VALUE_STAFF_UPGRADE": [
+            {
+                "value": 3400
+            }
+        ],
+        "BIKER_WEED_PRODUCT_VALUE_STAFF_UPGRADE": [
+            {
+                "value": 600
+            }
+        ],
+        "46D75522": [
             {
                 "value": 60000
             }
         ],
-        "IMPEXP_SELL_BUYER1_OFFER_MED": [
+        "EF2C364C": [
             {
-                "value": 37500
+                "value": 18000
             }
         ],
-        "IMPEXP_SELL_BUYER1_OFFER_EASY": [
+        "BIKER_SELL_PARTICIPATION_RP": [
             {
-                "value": 22500
+                "value": 200
             }
         ],
-        "IMPEXP_COLLECTION_BONUS_METAL": [
-            {
-                "value": 75000
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_TROPICAL": [
-            {
-                "value": 75000
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_ELEGANT": [
-            {
-                "value": 75000
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_RALLY": [
-            {
-                "value": 75000
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_PRETTY": [
-            {
-                "value": 52500
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_DECLASSE": [
-            {
-                "value": 52500
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_DANGEROUS": [
-            {
-                "value": 52500
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_MATTE": [
-            {
-                "value": 52500
-            }
-        ],
-        "IMPEXP_COLLECTION_BONUS_MUSCULAR": [
+        "B17107D2": [
             {
                 "value": 30000
             }
         ],
-        "IMPEXP_COLLECTION_BONUS_WEALTHY": [
+        "34E1348D": [
+            {
+                "value": 2000
+            }
+        ],
+        "885E6761": [
             {
                 "value": 30000
             }
         ],
-        "78DFD6A1": [
+        "E6FC0D58": [
             {
-                "value": 3541125
+                "value": 2000
             }
         ],
-        "A2EC8C63": [
+        "B8F79C12": [
             {
-                "value": 2662500
+                "value": 50000
             }
         ],
-        "2E9D4F84": [
+        "A64CEE75": [
             {
-                "value": 2194500
+                "value": 6000
             }
         ],
-        "2F336674": [
+        "A59C2914": [
             {
-                "value": 1650000
+                "value": 6000
             }
         ],
-        "F7247647": [
+        "25A70FCB": [
             {
-                "value": 1911210
+                "value": 1200
             }
         ],
-        "2B7B683D": [
+        "BA02FE": [
             {
-                "value": 1437000
+                "value": 1000
             }
         ],
-        "B8E7F3D0": [
+        "AA253CB3": [
             {
-                "value": 3447360
+                "value": 100
             }
         ],
-        "FA42EF15": [
+        "AC4EAFB3": [
             {
-                "value": 2592000
+                "value": 1000
             }
         ],
-        "7C54A204": [
+        "FD7A1177": [
             {
-                "value": 2298240
+                "value": 200
             }
         ],
-        "B57AD397": [
+        "F6253C81": [
             {
-                "value": 1728000
+                "value": 20000
             }
         ],
-        "4F69EBD3": [
+        "2551460B": [
             {
-                "value": 1053360
+                "value": 1000
             }
         ],
-        "D1A26649": [
+        "2A49BAC5": [
             {
-                "value": 792000
+                "value": 10000
             }
         ],
-        "2FA2D9D4": [
+        "1A865A7C": [
             {
-                "value": 1760500
+                "value": 400
             }
         ],
-        "GR_NEW_SPORTS_CARS_OCELOT_XA_21": [
+        "6DE6CF3A": [
             {
-                "value": 1662500
+                "value": 0.02
             }
         ],
-        "12275AB8": [
+        "98AC0CD9": [
             {
-                "value": 1323000
+                "value": 0.002
             }
         ],
-        "C587576F": [
+        "D4640DA": [
             {
-                "value": 962500
+                "value": 20000
             }
         ],
-        "C4858EA6": [
+        "9D8F69C5": [
             {
-                "value": 801500
+                "value": 2000
             }
         ],
-        "FA5B17E6": [
+        "12CAD0CF": [
             {
-                "value": 70
+                "value": 20000
             }
         ],
-        "53B05F6C": [
+        "A332FE88": [
             {
-                "value": 70000
+                "value": 1000
             }
         ],
-        "A5F5E05F": [
+        "911AD1D8": [
+            {
+                "value": 20000
+            }
+        ],
+        "DA613F9B": [
+            {
+                "value": 1000
+            }
+        ],
+        "7E7CD736": [
+            {
+                "value": 60000
+            }
+        ],
+        "C9746691": [
+            {
+                "value": 4000
+            }
+        ],
+        "17464677": [
+            {
+                "value": 40000
+            }
+        ],
+        "7AF42551": [
+            {
+                "value": 4000
+            }
+        ],
+        "IMPEXP_ITALIGTB_BASE_PRICE": [
+            {
+                "value": 772850
+            }
+        ],
+        "IMPEXP_NERO_BASE_PRICE": [
+            {
+                "value": 936000
+            }
+        ],
+        "98014783": [
+            {
+                "value": 575250
+            }
+        ],
+        "4C7FB019": [
+            {
+                "value": 997750
+            }
+        ],
+        "8B4A986F": [
+            {
+                "value": 1179750
+            }
+        ],
+        "EF2CB2C6": [
+            {
+                "value": 1498250
+            }
+        ],
+        "D0E42BA6": [
+            {
+                "value": 611000
+            }
+        ],
+        "15DC99CC": [
+            {
+                "value": 539500
+            }
+        ],
+        "BIKER_WEBSITE_NAGASAKI_SHOTARO": [
+            {
+                "value": 1335000
+            }
+        ],
+        "48A45B51": [
+            {
+                "value": 1725000
+            }
+        ],
+        "D637463C": [
+            {
+                "value": 2069480
+            }
+        ],
+        "18CD2EE9": [
+            {
+                "value": 1556000
+            }
+        ],
+        "FA179B34": [
+            {
+                "value": 1782200
+            }
+        ],
+        "DF508085": [
+            {
+                "value": 1340000
+            }
+        ],
+        "SMUG_VEHICLES_BUY_IT_NOW_PRICE_V65_MOLOTOK": [
+            {
+                "value": 1915200
+            }
+        ],
+        "SMUG_VEHICLES_TRADE_PRICE_V65_MOLOTOK": [
+            {
+                "value": 1440000
+            }
+        ],
+        "5E2EAC9B": [
+            {
+                "value": 1649200
+            }
+        ],
+        "CBA8DB4C": [
+            {
+                "value": 1240000
+            }
+        ],
+        "D12CBA12": [
+            {
+                "value": 3900000
+            }
+        ],
+        "69F75381": [
+            {
+                "value": 325000
+            }
+        ],
+        "C916887B": [
+            {
+                "value": 4550000
+            }
+        ],
+        "6960525B": [
+            {
+                "value": 650000
+            }
+        ],
+        "APARTMENT_PURCHASE_MODEL_THE_AQUARIUS_FIRST_PURCHASE": [
+            {
+                "value": 5200000
+            }
+        ],
+        "APARTMENT_MOD_UPGRADE_MODEL_THE_AQUARIUS_MOD": [
+            {
+                "value": 1300000
+            }
+        ],
+        "724247B": [
+            {
+                "value": 50000
+            }
+        ],
+        "788A7826": [
+            {
+                "value": 375000
+            }
+        ],
+        "2AFE3315": [
+            {
+                "value": 175000
+            }
+        ],
+        "72C32AD4": [
+            {
+                "value": 157500
+            }
+        ],
+        "71C27DFA": [
+            {
+                "value": 165000
+            }
+        ],
+        "50A56066": [
+            {
+                "value": 150000
+            }
+        ],
+        "B7CC9C67": [
+            {
+                "value": 300000
+            }
+        ],
+        "A7DE8F0F": [
+            {
+                "value": 262500
+            }
+        ],
+        "A7FD587D": [
+            {
+                "value": 275000
+            }
+        ],
+        "5C71595B": [
+            {
+                "value": 250000
+            }
+        ],
+        "F455515D": [
+            {
+                "value": 50000
+            }
+        ],
+        "B97B41C9": [
+            {
+                "value": 150000
+            }
+        ],
+        "63D36122": [
+            {
+                "value": 67500
+            }
+        ],
+        "5D71E2F1": [
+            {
+                "value": 225000
+            }
+        ],
+        "190B658F": [
+            {
+                "value": 237500
+            }
+        ],
+        "CAC84572": [
+            {
+                "value": 317500
+            }
+        ],
+        "8D119E18": [
+            {
+                "value": 157500
+            }
+        ],
+        "925D7D8B": [
+            {
+                "value": 310000
+            }
+        ],
+        "D88F5D48": [
+            {
+                "value": 182500
+            }
+        ],
+        "616926CE": [
+            {
+                "value": 247500
+            }
+        ],
+        "CE29617B": [
+            {
+                "value": 85000
+            }
+        ],
+        "BC21FCBE": [
+            {
+                "value": 170000
+            }
+        ],
+        "65FC2EDA": [
+            {
+                "value": 212500
+            }
+        ],
+        "48A1EEBA": [
+            {
+                "value": 110000
+            }
+        ],
+        "261D8A6A": [
+            {
+                "value": 97500
+            }
+        ],
+        "8A1ED795": [
+            {
+                "value": 325000
+            }
+        ],
+        "171A28CB": [
+            {
+                "value": 125000
+            }
+        ],
+        "56BA578D": [
+            {
+                "value": 12500
+            }
+        ],
+        "881F3444": [
+            {
+                "value": 1770000
+            }
+        ],
+        "E5ECA401": [
+            {
+                "value": 1644000
+            }
+        ],
+        "BAF4BB8": [
+            {
+                "value": 1515000
+            }
+        ],
+        "32EE4646": [
+            {
+                "value": 1387500
+            }
+        ],
+        "CD4E13B9": [
+            {
+                "value": 1260000
+            }
+        ],
+        "BBCACF7F": [
+            {
+                "value": 1113000
+            }
+        ],
+        "E7C1FFB0": [
+            {
+                "value": 1002000
+            }
+        ],
+        "9D927645": [
+            {
+                "value": 879000
+            }
+        ],
+        "C30F9318": [
+            {
+                "value": 750000
+            }
+        ],
+        "C2AD28AE": [
+            {
+                "value": 297000
+            }
+        ],
+        "84973F26": [
+            {
+                "value": 283200
+            }
+        ],
+        "83F583C9": [
+            {
+                "value": 273000
+            }
+        ],
+        "B88384CB": [
+            {
+                "value": 269400
+            }
+        ],
+        "3C37C762": [
+            {
+                "value": 252000
+            }
+        ],
+        "3BDDBD9C": [
+            {
+                "value": 237000
+            }
+        ],
+        "27772EDF": [
+            {
+                "value": 219000
+            }
+        ],
+        "555B01B0": [
+            {
+                "value": 150000
+            }
+        ],
+        "CC45C5A2": [
+            {
+                "value": 145200
+            }
+        ],
+        "6EE4541C": [
+            {
+                "value": 135000
+            }
+        ],
+        "A201001A": [
+            {
+                "value": 126000
+            }
+        ],
+        "185B2ACE": [
+            {
+                "value": 120000
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_DOCUMENT_FORGERY_OFFICE": [
+            {
+                "value": 439200
+            }
+        ],
+        "BIKER_BUSINESS_CITY_DOCUMENT_FORGERY_OFFICE": [
+            {
+                "value": 741000
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_DOCUMENT_FORGERY_OFFICE": [
+            {
+                "value": 390000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_DOCUMENT_FORGERY_OFFICE": [
+            {
+                "value": 585000
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 570960
+            }
+        ],
+        "BIKER_BUSINESS_CITY_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 963300
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 507000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 760500
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_COCAINE_LOCKUP": [
+            {
+                "value": 658800
+            }
+        ],
+        "BIKER_BUSINESS_CITY_COCAINE_LOCKUP": [
+            {
+                "value": 1111500
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_COCAINE_LOCKUP": [
+            {
+                "value": 585000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_COCAINE_LOCKUP": [
+            {
+                "value": 877500
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_METH_LAB": [
+            {
+                "value": 614880
+            }
+        ],
+        "BIKER_BUSINESS_CITY_METH_LAB": [
+            {
+                "value": 1037400
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_METH_LAB": [
+            {
+                "value": 546000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_METH_LAB": [
+            {
+                "value": 819000
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_WEED_FARM": [
+            {
+                "value": 483120
+            }
+        ],
+        "BIKER_BUSINESS_CITY_WEED_FARM": [
+            {
+                "value": 815100
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_WEED_FARM": [
+            {
+                "value": 429000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_WEED_FARM": [
+            {
+                "value": 643500
+            }
+        ],
+        "EXEC1_OFFICE1_LOMBANK": [
+            {
+                "value": 1860000
+            }
+        ],
+        "EXEC1_OFFICE2_MAZE1": [
+            {
+                "value": 600000
+            }
+        ],
+        "EXEC1_OFFICE3_ARCADIUS": [
+            {
+                "value": 1350000
+            }
+        ],
+        "EXEC1_OFFICE4_MAZE2": [
+            {
+                "value": 2400000
+            }
+        ],
+        "7CB4D1EE": [
+            {
+                "value": 30000
+            }
+        ],
+        "EXEC_VIP2_ORG_NAME_CHANGE": [
+            {
+                "value": 150000
+            }
+        ],
+        "DYNASTY8_OFFICE_FONT_COST": [
+            {
+                "value": 45000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_RICH": [
+            {
+                "value": 180000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_COOL": [
+            {
+                "value": 249000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_CONTRAST": [
+            {
+                "value": 300000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_WARM": [
+            {
+                "value": 570000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_CLASSICAL": [
+            {
+                "value": 411000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_VINTAGE": [
+            {
+                "value": 456000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_ICE": [
+            {
+                "value": 600000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_CONSERVATIVE": [
+            {
+                "value": 501000
+            }
+        ],
+        "DYNASTY8_OFFICE_DECOR_POLISHED": [
+            {
+                "value": 546000
+            }
+        ],
+        "DYNASTY8_OFFICE_PERSONNEL_FEMALE": [
+            {
+                "value": 90000
+            }
+        ],
+        "DYNASTY8_OFFICE_PERSONNEL_MALE": [
+            {
+                "value": 90000
+            }
+        ],
+        "DYNASTY8_OFFICE_GUNLOCKER": [
+            {
+                "value": 312000
+            }
+        ],
+        "DYNASTY8_OFFICE_VAULT": [
+            {
+                "value": 201000
+            }
+        ],
+        "DYNASTY8_OFFICE_ACCOMMODATION": [
+            {
+                "value": 477000
+            }
+        ],
+        "6527FA58": [
+            {
+                "value": 130816
+            }
+        ],
+        "17E70345": [
+            {
+                "value": 915000
+            }
+        ],
+        "9A59BF99": [
+            {
+                "value": 720000
+            }
+        ],
+        "7D2FB7D": [
+            {
+                "value": 1950000
+            }
+        ],
+        "3720638F": [
+            {
+                "value": 1251000
+            }
+        ],
+        "DBCE2CEC": [
+            {
+                "value": 1590000
+            }
+        ],
+        "CFBC229E": [
+            {
+                "value": 690000
+            }
+        ],
+        "6283085E": [
+            {
+                "value": 825000
+            }
+        ],
+        "31714DF2": [
             {
                 "value": 63000
             }
         ],
-        "8D3AABC8": [
+        "55FAF286": [
             {
-                "value": 56000
+                "value": 63000
             }
         ],
-        "66510D32": [
+        "8815D6BB": [
             {
-                "value": 52500
+                "value": 63000
             }
         ],
-        "A15AEB04": [
+        "C07BC78A": [
             {
-                "value": 49000
+                "value": 63000
             }
         ],
-        "279C55F0": [
+        "625B0B46": [
             {
-                "value": 42000
+                "value": 63000
             }
         ],
-        "8F6DDEE1": [
+        "9AF5FC7F": [
             {
-                "value": 38500
+                "value": 63000
             }
         ],
-        "8253199C": [
+        "CEDF6451": [
             {
-                "value": 35000
+                "value": 63000
             }
         ],
-        "4FDFFDB1": [
+        "5835198": [
             {
-                "value": 7980
+                "value": 63000
             }
         ],
-        "B66A6689": [
+        "F71DB4CD": [
             {
-                "value": 21000
+                "value": 63000
             }
         ],
-        "9FD231E9": [
+        "ECAAF352": [
             {
-                "value": 19250
+                "value": 24000
             }
         ],
-        "96D78320": [
+        "CE6EFE06": [
             {
-                "value": 10850
+                "value": 24840
             }
         ],
-        "60F80B8E": [
+        "BBB05889": [
             {
-                "value": 17500
+                "value": 25740
             }
         ],
-        "42DC1B6D": [
+        "B101432B": [
             {
-                "value": 28000
+                "value": 26580
             }
         ],
-        "693E8080": [
+        "A02BA180": [
             {
-                "value": 25900
+                "value": 27480
             }
         ],
-        "8CB6C06F": [
+        "86B76E98": [
             {
-                "value": 12600
+                "value": 28320
             }
         ],
-        "C50AD4CD": [
+        "74E6CAF3": [
             {
-                "value": 12600
+                "value": 29160
             }
         ],
-        "STUNT_LIVERY_1_EMPEROR_SHEAVA": [
+        "6A1DB561": [
             {
-                "value": 23940
+                "value": 30060
             }
         ],
-        "STUNT_LIVERY_1_PROGEN_TYRUS": [
+        "5974140E": [
             {
-                "value": 23940
+                "value": 30900
             }
         ],
-        "STUNT_LIVERY_1_DECALSSE_DRIFT_TAMPA": [
+        "D042AEDA": [
             {
-                "value": 23940
+                "value": 32160
             }
         ],
-        "STUNT_LIVERY_1_ANNIS_RE7B": [
+        "5B29C4A6": [
             {
-                "value": 23940
+                "value": 33300
             }
         ],
-        "STUNT_LIVERY_1_OBEY_OMNIS": [
+        "65DFDA12": [
             {
-                "value": 23940
+                "value": 34320
             }
         ],
-        "STUNT_LIVERY_1_LAMPADATI_TROPOS_RALLYE": [
+        "42F79442": [
             {
-                "value": 23940
+                "value": 35340
             }
         ],
-        "STUNT_LIVERY_1_GROTTI_BRIOSO_RA": [
+        "115CB10D": [
             {
-                "value": 23940
+                "value": 36180
             }
         ],
-        "STUNT_LIVERY_1_VAPID_TROPHY_TRUCK": [
+        "94133678": [
             {
-                "value": 23940
+                "value": 36960
             }
         ],
-        "STUNT_LIVERY_1_VAPID_DESERT_RAID": [
+        "9F054C5C": [
             {
-                "value": 23940
+                "value": 37680
             }
         ],
-        "STUNT_LIVERY_1_WESTERN_CLIFFHANGER": [
+        "6FAF6DB1": [
             {
-                "value": 23940
+                "value": 38280
             }
         ],
-        "STUNT_LIVERY_1_NAGASAKI_BF400": [
+        "8A58A303": [
             {
-                "value": 23940
+                "value": 38820
             }
         ],
-        "STUNT_LIVERY_1_OCELOT_LYNX": [
+        "C8E02009": [
             {
-                "value": 23940
+                "value": 39240
             }
         ],
-        "STUNT_LIVERY_1_WESTERN_GARGOYLE": [
+        "A8696050": [
             {
-                "value": 23940
+                "value": 39540
             }
         ],
-        "STUNT_LIVERY_2_EMPEROR_SHEAVA": [
+        "230F55CA": [
             {
-                "value": 31920
+                "value": 69840
             }
         ],
-        "STUNT_LIVERY_2_PROGEN_TYRUS": [
+        "F0B37113": [
             {
-                "value": 31920
+                "value": 71280
             }
         ],
-        "STUNT_LIVERY_2_DECALSSE_DRIFT_TAMPA": [
+        "18A12C0": [
             {
-                "value": 31920
+                "value": 72660
             }
         ],
-        "STUNT_LIVERY_2_ANNIS_RE7B": [
+        "CD4AAA42": [
             {
-                "value": 31920
+                "value": 73980
             }
         ],
-        "STUNT_LIVERY_2_OBEY_OMNIS": [
+        "6BC4E734": [
             {
-                "value": 31920
+                "value": 76500
             }
         ],
-        "STUNT_LIVERY_2_LAMPADATI_TROPOS_RALLYE": [
+        "CC5040C8": [
             {
-                "value": 31920
+                "value": 178200
             }
         ],
-        "STUNT_LIVERY_2_GROTTI_BRIOSO_RA": [
+        "385BA721": [
             {
-                "value": 31920
+                "value": 489000
             }
         ],
-        "STUNT_LIVERY_2_VAPID_TROPHY_TRUCK": [
+        "1EC2ABE": [
             {
-                "value": 31920
+                "value": 147000
             }
         ],
-        "STUNT_LIVERY_2_VAPID_DESERT_RAID": [
+        "F0B4FAF3": [
             {
-                "value": 31920
+                "value": 297000
             }
         ],
-        "STUNT_LIVERY_2_WESTERN_CLIFFHANGER": [
+        "19B8140D": [
             {
-                "value": 31920
+                "value": 1020000
             }
         ],
-        "STUNT_LIVERY_2_NAGASAKI_BF400": [
+        "A5843EB8": [
             {
-                "value": 31920
+                "value": 1002000
             }
         ],
-        "STUNT_LIVERY_2_OCELOT_LYNX": [
+        "18A7212E": [
             {
-                "value": 31920
+                "value": 987000
             }
         ],
-        "STUNT_LIVERY_2_WESTERN_GARGOYLE": [
+        "C5399428": [
             {
-                "value": 31920
+                "value": 915000
             }
         ],
-        "235F55BD": [
+        "AA5FB3D": [
             {
-                "value": 12600
+                "value": 900000
             }
         ],
-        "8DB7AAA5": [
+        "2F48D05B": [
             {
-                "value": 7980
+                "value": 864000
             }
         ],
-        "C960EC84": [
+        "7941F232": [
             {
-                "value": 12600
+                "value": 822000
             }
         ],
-        "644FB69E": [
+        "DC37F7F7": [
             {
-                "value": 70000
+                "value": 792000
             }
         ],
-        "9EE57EE6": [
+        "EB6ABE02": [
+            {
+                "value": 681000
+            }
+        ],
+        "6637DD2": [
+            {
+                "value": 237000
+            }
+        ],
+        "3C866A17": [
+            {
+                "value": 248850
+            }
+        ],
+        "32435591": [
+            {
+                "value": 261300
+            }
+        ],
+        "D5C39CAF": [
+            {
+                "value": 274380
+            }
+        ],
+        "939BF26E": [
+            {
+                "value": 73500
+            }
+        ],
+        "52F6F4AE": [
+            {
+                "value": 78750
+            }
+        ],
+        "C3B920EA": [
+            {
+                "value": 84000
+            }
+        ],
+        "EEC7344F": [
             {
                 "value": 94500
             }
         ],
-        "7235FD75": [
+        "A1D7EDA": [
             {
-                "value": 119000
+                "value": 99750
             }
         ],
-        "C350FFDD": [
+        "46380DE1": [
             {
-                "value": 140000
+                "value": 105000
             }
         ],
-        "SALE_CARMOD_MENU_BITSET_2": [
+        "BIKER_SHOES_BLACK_LACEUP_BOOTS": [
             {
-                "value": 270532608
+                "value": 5623
             }
         ],
-        "83A46CDC": [
+        "BIKER_SHOES_OX_BLOOD_LACEUP_BOOTS": [
             {
-                "value": 6
+                "value": 4713
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_0": [
+        "BIKER_SHOES_CHOCOLATE_LACEUP_BOOTS": [
             {
-                "value": -1409631173
+                "value": 5051
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_1": [
+        "BIKER_SHOES_WORN_BLACK_LACEUP_BOOTS": [
             {
-                "value": -508614749
+                "value": 5135
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_2": [
+        "BIKER_SHOES_WORN_OX_BLOOD_LACEUP_BOOTS": [
             {
-                "value": 192314161
+                "value": 4225
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_3": [
+        "BIKER_SHOES_WORN_CHOCOLATE_LACEUP_BOOTS": [
             {
-                "value": -1262137904
+                "value": 4563
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_4": [
-            {
-                "value": 1594794596
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_5": [
-            {
-                "value": 928712143
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_6": [
-            {
-                "value": -350579516
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_7": [
-            {
-                "value": 271352989
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_8": [
-            {
-                "value": 1532678121
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_9": [
-            {
-                "value": 564845730
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_10": [
-            {
-                "value": 199995684
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_11": [
-            {
-                "value": -1238465109
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_12": [
-            {
-                "value": 817232568
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_13": [
-            {
-                "value": -1287290959
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_14": [
-            {
-                "value": 880181781
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_15": [
-            {
-                "value": 1187522232
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_16": [
-            {
-                "value": 1449248235
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_17": [
-            {
-                "value": 639943353
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_18": [
-            {
-                "value": 939353706
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_19": [
-            {
-                "value": -488260552
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_20": [
-            {
-                "value": -309276274
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCHROME_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCLASSIC_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMATTE_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALLIC_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALS_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORPEARLESCENT_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCREW_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCHROME_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCLASSIC_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMATTE_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALLIC_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALS_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCREW_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_CREWEMBLEM_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCHROME_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCLASSIC_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMATTE_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALLIC_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALS_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORPEARLESCENT_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCREW_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCHROME_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCLASSIC_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMATTE_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALLIC_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALS_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCREW_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_CREWEMBLEM_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCHROME_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCLASSIC_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMATTE_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALLIC_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALS_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORPEARLESCENT_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCREW_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCHROME_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCLASSIC_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMATTE_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALLIC_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALS_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCREW_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_CREWEMBLEM_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCHROME_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCLASSIC_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMATTE_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALLIC_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALS_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORPEARLESCENT_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCREW_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCHROME_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCLASSIC_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMATTE_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALLIC_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALS_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCREW_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_CREWEMBLEM_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCHROME_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCLASSIC_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMATTE_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALLIC_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORMETALS_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORPEARLESCENT_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_PRIMARYCOLORCREW_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCHROME_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCLASSIC_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMATTE_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALLIC_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORMETALS_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_SECONDARYCOLORCREW_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_CREWEMBLEM_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "ACCENTCOLORSUPERMOD": [
-            {
-                "value": 0.7
-            }
-        ],
-        "TRIMCOLORSUPERMOD": [
-            {
-                "value": 0.7
-            }
-        ],
-        "LIGHTCOLORSUPERMOD": [
-            {
-                "value": 0.7
-            }
-        ],
-        "SALE_CARMOD_MENU_BITSET_1": [
-            {
-                "value": 18874432
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L2_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L3_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L4_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L5_EXPENDITURE_TUNABLE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L2_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L3_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L4_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L5_EXPENDITURE_TUNABLE_SUV": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L2_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L3_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L4_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L5_EXPENDITURE_TUNABLE_SPORT": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L2_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L3_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L4_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L5_EXPENDITURE_TUNABLE_SPECIAL": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L2_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L3_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L4_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "CARMOD_UNLOCK_ENGINE_L5_EXPENDITURE_TUNABLE_BIKE": [
-            {
-                "value": 0.7
-            }
-        ],
-        "SALE_CARMOD_MENU_BITSET_0": [
-            {
-                "value": 1024
-            }
-        ],
-        "6562C3E1": [
-            {
-                "value": 26775
-            }
-        ],
-        "5403DEB5": [
-            {
-                "value": 19425
-            }
-        ],
-        "3AF9E87D": [
-            {
-                "value": 26985
-            }
-        ],
-        "73A56DB6": [
-            {
-                "value": 19635
-            }
-        ],
-        "A30C90C8": [
-            {
-                "value": 27195
-            }
-        ],
-        "DC074A3B": [
-            {
-                "value": 19845
-            }
-        ],
-        "FE76821C": [
-            {
-                "value": 27405
-            }
-        ],
-        "F2495361": [
-            {
-                "value": 20055
-            }
-        ],
-        "AEC23F1A": [
-            {
-                "value": 27825
-            }
-        ],
-        "E156C15D": [
-            {
-                "value": 23940
-            }
-        ],
-        "2C1A4A5A": [
-            {
-                "value": 20475
-            }
-        ],
-        "DFEEBCF2": [
-            {
-                "value": 26040
-            }
-        ],
-        "79474439": [
-            {
-                "value": 24255
-            }
-        ],
-        "56C8B1B1": [
-            {
-                "value": 20790
-            }
-        ],
-        "F4FCB3F4": [
-            {
-                "value": 31500
-            }
-        ],
-        "12390108": [
-            {
-                "value": 31920
-            }
-        ],
-        "E409B03B": [
-            {
-                "value": 32270
-            }
-        ],
-        "D5C4C191": [
-            {
-                "value": 32095
-            }
-        ],
-        "8603978B": [
-            {
-                "value": 31745
-            }
-        ],
-        "C25D62A5": [
-            {
-                "value": 32445
-            }
-        ],
-        "A1305246": [
-            {
-                "value": 32970
-            }
-        ],
-        "57A9971B": [
-            {
-                "value": 32795
-            }
-        ],
-        "986E7A28": [
-            {
-                "value": 32620
-            }
-        ],
-        "3279C303": [
-            {
-                "value": 33145
-            }
-        ],
-        "15C1F15E": [
-            {
-                "value": 33670
-            }
-        ],
-        "226E0881": [
-            {
-                "value": 33495
-            }
-        ],
-        "EDFA5DB2": [
-            {
-                "value": 33320
-            }
-        ],
-        "761DAC27": [
-            {
-                "value": 34195
-            }
-        ],
-        "94DB571": [
-            {
-                "value": 34020
-            }
-        ],
-        "1F945D76": [
-            {
-                "value": 33845
-            }
-        ],
-        "823F6A": [
-            {
-                "value": 35000
-            }
-        ],
-        "18E2D79F": [
-            {
-                "value": 29453
-            }
-        ],
-        "2D19CDC1": [
-            {
-                "value": 33471
-            }
-        ],
-        "7C245283": [
-            {
-                "value": 31479
-            }
-        ],
-        "248679CF": [
-            {
-                "value": 35770
-            }
-        ],
-        "71E13B9D": [
-            {
-                "value": 29915
-            }
-        ],
-        "4DABC25F": [
-            {
-                "value": 33996
-            }
-        ],
-        "4DA3B849": [
-            {
-                "value": 29684
-            }
-        ],
-        "C626B950": [
-            {
-                "value": 33733
-            }
-        ],
-        "2D03453E": [
-            {
-                "value": 38500
-            }
-        ],
-        "94DF1CEA": [
-            {
-                "value": 43750
-            }
-        ],
-        "23A55B32": [
-            {
-                "value": 30146
-            }
-        ],
-        "18F58609": [
-            {
-                "value": 34258
-            }
-        ],
-        "BDFC179": [
-            {
-                "value": 33366
-            }
-        ],
-        "5C01D800": [
-            {
-                "value": 37916
-            }
-        ],
-        "C866C4A2": [
-            {
-                "value": 22523
-            }
-        ],
-        "1B2DE068": [
-            {
-                "value": 25596
-            }
-        ],
-        "2510B214": [
-            {
-                "value": 28644
-            }
-        ],
-        "E48F4E74": [
-            {
-                "value": 32550
-            }
-        ],
-        "288AC45F": [
-            {
-                "value": 36383
-            }
-        ],
-        "7BA5B63D": [
-            {
-                "value": 41346
-            }
-        ],
-        "4818A636": [
-            {
-                "value": 40163
-            }
-        ],
-        "6928CE3A": [
-            {
-                "value": 48108
-            }
-        ],
-        "6D8BBB56": [
-            {
-                "value": 40425
-            }
-        ],
-        "C0453142": [
-            {
-                "value": 48370
-            }
-        ],
-        "16A98394": [
-            {
-                "value": 41843
-            }
-        ],
-        "7D3B66C2": [
-            {
-                "value": 49788
-            }
-        ],
-        "EDBD36E7": [
-            {
-                "value": 42875
-            }
-        ],
-        "6EEBAE79": [
-            {
-                "value": 50820
-            }
-        ],
-        "2765B0C1": [
-            {
-                "value": 43852
-            }
-        ],
-        "4E6E070D": [
-            {
-                "value": 51797
-            }
-        ],
-        "2FEF8570": [
-            {
-                "value": 52500
-            }
-        ],
-        "BIKER_CARMODS_ROMPER_RACING": [
+        "BIKER_SHOES_TAN_HARNESS_BOOTS": [
             {
                 "value": 8775
             }
         ],
-        "BIKER_CARMODS_WARP_DRIVE": [
+        "BIKER_SHOES_BLACK_HARNESS_BOOTS": [
             {
-                "value": 9167
+                "value": 8301
             }
         ],
-        "BIKER_CARMODS_SNOWFLAKE": [
+        "BIKER_SHOES_BLACK_SLACK_BOOTS": [
             {
-                "value": 9426
+                "value": 7085
             }
         ],
-        "BIKER_CARMODS_HOLY_SPOKE": [
+        "BIKER_SHOES_OX_BLOOD_SLACK_BOOTS": [
             {
-                "value": 9573
+                "value": 6175
             }
         ],
-        "BIKER_CARMODS_OLD_SKOOL_TRIPLE": [
+        "BIKER_SHOES_CHOCOLATE_SLACK_BOOTS": [
             {
-                "value": 10675
+                "value": 6513
             }
         ],
-        "BIKER_CARMODS_FUTURA": [
+        "BIKER_SHOES_WORN_BLACK_SLACK_BOOTS": [
             {
-                "value": 9499
+                "value": 6598
             }
         ],
-        "BIKER_CARMODS_QUARTER_MILE_KING": [
+        "BIKER_SHOES_WORN_OX_BLOOD_SLACK_BOOTS": [
             {
-                "value": 10073
+                "value": 5688
             }
         ],
-        "BIKER_CARMODS_CARTWHEEL": [
+        "BIKER_SHOES_WORN_CHOCOLATE_SLACK_BOOTS": [
             {
-                "value": 9646
+                "value": 6026
             }
         ],
-        "BIKER_CARMODS_DOUBLE_FIVE": [
+        "BIKER_UPPERS_BLACK_LEATHER_CUT": [
             {
-                "value": 12320
+                "value": 10368
             }
         ],
-        "BIKER_CARMODS_SHURIKEN": [
+        "BIKER_UPPERS_WORN_BLACK_LEATHER_CUT": [
             {
-                "value": 16065
+                "value": 10257
             }
         ],
-        "BIKER_CARMODS_SIMPLE_SIX": [
+        "BIKER_UPPERS_WORN_CHOCOLATE_LEATHER_CUT": [
             {
-                "value": 14553
+                "value": 9828
             }
         ],
-        "BIKER_CARMODS_CELTIC": [
+        "BIKER_UPPERS_WORN_OX_BLOOD_LEATHER_CUT": [
             {
-                "value": 16170
+                "value": 9419
             }
         ],
-        "BIKER_CARMODS_RAZER": [
+        "BIKER_UPPERS_BLACK_DEFENDER_VEST": [
             {
-                "value": 17150
+                "value": 5980
             }
         ],
-        "BIKER_CARMODS_TWISTED": [
+        "BIKER_UPPERS_WORN_BLACK_DEFENDER_VEST": [
             {
-                "value": 16737
+                "value": 5467
             }
         ],
-        "BIKER_CARMODS_MORNING_STAR": [
+        "BIKER_UPPERS_TWO_TONE_DEFENDER_VEST": [
             {
-                "value": 17542
+                "value": 5629
             }
         ],
-        "BIKER_CARMODS_JAGGED_SPOKES": [
+        "BIKER_UPPERS_BLACK_DARTED_VEST": [
             {
-                "value": 19495
+                "value": 5070
             }
         ],
-        "BIKER_CARMODS_EIDOLON": [
+        "BIKER_UPPERS_WORN_BLACK_DARTED_VEST": [
             {
-                "value": 18711
+                "value": 4576
             }
         ],
-        "BIKER_CARMODS_ENIGMA": [
+        "BIKER_UPPERS_BLACK_FLAT_FRONT_CUT": [
             {
-                "value": 19103
+                "value": 5330
             }
         ],
-        "BIKER_CARMODS_BIG_SPOKES": [
+        "BIKER_UPPERS_BROWN_FLAT_FRONT_CUT": [
             {
-                "value": 17931
+                "value": 5213
             }
         ],
-        "BIKER_CARMODS_WEBS": [
+        "BIKER_UPPERS_WORN_BLACK_CLASSIC_BIKER": [
             {
-                "value": 21280
+                "value": 15672
             }
         ],
-        "BIKER_CARMODS_HOTPLATE": [
+        "BIKER_UPPERS_OX_BLOOD_CLASSIC_BIKER": [
             {
-                "value": 21000
+                "value": 15070
             }
         ],
-        "BIKER_CARMODS_BOBSTA": [
+        "BIKER_UPPERS_CHOCOLATE_CLASSIC_BIKER": [
             {
-                "value": 18323
+                "value": 14437
             }
         ],
-        "BIKER_CARMODS_GROUCH": [
+        "BIKER_UPPERS_BLACK_CLASSIC_BIKER": [
             {
-                "value": 19887
+                "value": 16640
             }
         ],
-        "292454D9": [
+        "BIKER_UPPERS_WORN_BLACK_BIKER_CUT": [
             {
-                "value": 0.7
+                "value": 12539
             }
         ],
-        "B8212BFB": [
+        "BIKER_UPPERS_OX_BLOOD_BIKER_CUT": [
             {
-                "value": 0.7
+                "value": 12058
             }
         ],
-        "D3F85BA3": [
+        "BIKER_UPPERS_CHOCOLATE_BIKER_CUT": [
             {
-                "value": 0.7
+                "value": 11551
             }
         ],
-        "CB60EDC9": [
+        "BIKER_UPPERS_BLACK_BIKER_CUT": [
             {
-                "value": 0.7
+                "value": 13312
             }
         ],
-        "CF34D22A": [
+        "BIKER_UPPERS_FITTED_LEATHER_JACKET": [
             {
-                "value": 0.7
+                "value": 10075
             }
         ],
-        "E711E3B0": [
+        "BIKER_UPPERS_STITCHED_LEATHER_BASEBALL_SHIRT": [
             {
-                "value": 0.7
+                "value": 4501
             }
         ],
-        "83D82792": [
+        "BIKER_UPPERS_BLACK_LEATHER_BASEBALL_SHIRT": [
             {
-                "value": 0.7
+                "value": 4355
             }
         ],
-        "36731C10": [
+        "BIKER_UPPERS_GRAY_LEATHER_BASEBALL_SHIRT": [
             {
-                "value": 0.7
+                "value": 4212
             }
         ],
-        "55F163E0": [
+        "BIKER_UPPERS_DIGITAL_SPORTS_BIKER": [
             {
-                "value": 0.7
+                "value": 8801
             }
         ],
-        "883F9E84": [
+        "BIKER_UPPERS_VIPER_SPORTS_BIKER": [
             {
-                "value": 0.7
+                "value": 9711
             }
         ],
-        "CARMOD_UNLOCK_BULLET_PROOF_TYRES_EXPENDITURE_TUNABLE": [
+        "BIKER_UPPERS_CAMO_SPORTS_BIKER": [
             {
-                "value": 0.7
+                "value": 8509
             }
         ],
-        "CARMOD_UNLOCK_BULLET_PROOF_TYRES_EXPENDITURE_TUNABLE_SUV": [
+        "BIKER_UPPERS_BLUE_SPORTS_BIKER": [
             {
-                "value": 0.7
+                "value": 8515
             }
         ],
-        "CARMOD_UNLOCK_BULLET_PROOF_TYRES_EXPENDITURE_TUNABLE_SPORT": [
+        "BIKER_UPPERS_RED_SPORTS_BIKER": [
             {
-                "value": 0.7
+                "value": 8726
             }
         ],
-        "CARMOD_UNLOCK_BULLET_PROOF_TYRES_EXPENDITURE_TUNABLE_SPECIAL": [
+        "BIKER_UPPERS_GREEN_SPORTS_BIKER": [
             {
-                "value": 0.7
+                "value": 8470
             }
         ],
-        "CARMOD_UNLOCK_BULLET_PROOF_TYRES_EXPENDITURE_TUNABLE_BIKE": [
+        "BIKER_UPPERS_YELLOW_SPORTS_BIKER": [
             {
-                "value": 0.7
+                "value": 8450
             }
         ],
-        "49ABB282": [
+        "BIKER_UPPERS_BLACK_BLOUSON_JACKET": [
             {
-                "value": 47938
+                "value": 14794
             }
         ],
-        "C90121C8": [
+        "BIKER_UPPERS_OX_BLOOD_BLOUSON_JACKET": [
             {
-                "value": 55575
+                "value": 14121
             }
         ],
-        "978F284": [
+        "BIKER_UPPERS_CHOCOLATE_BLOUSON_JACKET": [
             {
-                "value": 77350
+                "value": 14099
             }
         ],
-        "87FA6A2B": [
+        "BIKER_UPPERS_WORN_BLACK_BLOUSON_JACKET": [
             {
-                "value": 64188
+                "value": 13185
             }
         ],
-        "17462DA7": [
+        "BIKER_UPPERS_WORN_OX_BLOOD_BLOUSON_JACKET": [
             {
-                "value": 69875
+                "value": 12581
             }
         ],
-        "5AA4CEFF": [
+        "BIKER_UPPERS_WORN_CHOCOLATE_BLOUSON_JACKET": [
             {
-                "value": 107494
+                "value": 12558
             }
         ],
-        "AF7DE203": [
+        "BIKER_UPPERS_RED_PUFFER_JACKET": [
             {
-                "value": 53625
+                "value": 7150
             }
         ],
-        "8FFD6CE2": [
+        "BIKER_UPPERS_DARK_RED_PUFFER_JACKET": [
             {
-                "value": 87750
+                "value": 6442
             }
         ],
-        "8FCADD59": [
+        "BIKER_UPPERS_BLUE_PUFFER_JACKET": [
             {
-                "value": 96850
+                "value": 7049
             }
         ],
-        "26B39A63": [
+        "BIKER_UPPERS_BLACK_PUFFER_JACKET": [
             {
-                "value": 64350
+                "value": 7456
             }
         ],
-        "9C3B8F31": [
+        "BIKER_UPPERS_SEA_GREEN_PUFFER_JACKET": [
             {
-                "value": 68738
+                "value": 6315
             }
         ],
-        "394ACBEA": [
+        "BIKER_UPPERS_MUSTARD_PUFFER_JACKET": [
             {
-                "value": 51724
+                "value": 6919
             }
         ],
-        "AEF905DF": [
+        "BIKER_UPPERS_BROWN_PUFFER_JACKET": [
             {
-                "value": 13878
+                "value": 6273
             }
         ],
-        "2F15C477": [
-            {
-                "value": 41080
-            }
-        ],
-        "671463A7": [
-            {
-                "value": 47450
-            }
-        ],
-        "13B6E4D": [
-            {
-                "value": 32110
-            }
-        ],
-        "B8AC0377": [
-            {
-                "value": 27755
-            }
-        ],
-        "F7F9913B": [
-            {
-                "value": 6825
-            }
-        ],
-        "6761E30": [
-            {
-                "value": 12740
-            }
-        ],
-        "FDB05CC5": [
-            {
-                "value": 15425
-            }
-        ],
-        "5A8636B6": [
-            {
-                "value": 17381
-            }
-        ],
-        "E688717C": [
-            {
-                "value": 22113
-            }
-        ],
-        "A4C31C94": [
-            {
-                "value": 26163
-            }
-        ],
-        "FD0D17AC": [
-            {
-                "value": 19338
-            }
-        ],
-        "4D97B8C4": [
-            {
-                "value": 20290
-            }
-        ],
-        "5FDD5D4F": [
-            {
-                "value": 21239
-            }
-        ],
-        "3204019D": [
-            {
-                "value": 22191
-            }
-        ],
-        "B1F18176": [
-            {
-                "value": 23140
-            }
-        ],
-        "6942ABA": [
-            {
-                "value": 24092
-            }
-        ],
-        "18D5CF3D": [
-            {
-                "value": 25045
-            }
-        ],
-        "D2ED9F30": [
-            {
-                "value": 9152
-            }
-        ],
-        "30D1D7DA": [
-            {
-                "value": 31850
-            }
-        ],
-        "580E286D": [
-            {
-                "value": 16851
-            }
-        ],
-        "B809669C": [
-            {
-                "value": 42900
-            }
-        ],
-        "59861FEC": [
-            {
-                "value": 49530
-            }
-        ],
-        "E8F68949": [
-            {
-                "value": 33540
-            }
-        ],
-        "25B62AB9": [
-            {
-                "value": 29055
-            }
-        ],
-        "C78C576D": [
-            {
-                "value": 6825
-            }
-        ],
-        "388158B8": [
-            {
-                "value": 12740
-            }
-        ],
-        "734FFC3A": [
-            {
-                "value": 15425
-            }
-        ],
-        "7BFA3469": [
-            {
-                "value": 17381
-            }
-        ],
-        "7729069C": [
-            {
-                "value": 22113
-            }
-        ],
-        "46DCA731": [
-            {
-                "value": 26163
-            }
-        ],
-        "DE43A1A": [
-            {
-                "value": 19338
-            }
-        ],
-        "4217A284": [
-            {
-                "value": 20290
-            }
-        ],
-        "FC3D96CD": [
-            {
-                "value": 21239
-            }
-        ],
-        "EA58F304": [
-            {
-                "value": 22191
-            }
-        ],
-        "D89ACF88": [
-            {
-                "value": 23140
-            }
-        ],
-        "C6DD2C0D": [
-            {
-                "value": 24092
-            }
-        ],
-        "C326249F": [
-            {
-                "value": 25045
-            }
-        ],
-        "A1D10F7B": [
-            {
-                "value": 9152
-            }
-        ],
-        "1286A086": [
-            {
-                "value": 31850
-            }
-        ],
-        "7C88D445": [
-            {
-                "value": 18834
-            }
-        ],
-        "D0F51304": [
-            {
-                "value": 53658
-            }
-        ],
-        "444A1DC6": [
-            {
-                "value": 61718
-            }
-        ],
-        "72BC145D": [
-            {
-                "value": 42023
-            }
-        ],
-        "46A69964": [
-            {
-                "value": 37115
-            }
-        ],
-        "1E75E4BF": [
-            {
-                "value": 17290
-            }
-        ],
-        "F971F276": [
-            {
-                "value": 20933
-            }
-        ],
-        "B624081F": [
-            {
-                "value": 23589
-            }
-        ],
-        "655515AA": [
-            {
-                "value": 30011
-            }
-        ],
-        "868E574": [
-            {
-                "value": 26244
-            }
-        ],
-        "87EC647D": [
-            {
-                "value": 27534
-            }
-        ],
-        "77A2C3EA": [
-            {
-                "value": 28824
-            }
-        ],
-        "A4FE1EA0": [
-            {
-                "value": 30115
-            }
-        ],
-        "93477B33": [
-            {
-                "value": 31405
-            }
-        ],
-        "4130D6E7": [
-            {
-                "value": 32698
-            }
-        ],
-        "2CE2AE4B": [
-            {
-                "value": 33989
-            }
-        ],
-        "586F75A6": [
-            {
-                "value": 13117
-            }
-        ],
-        "7F6EB8CF": [
-            {
-                "value": 43225
-            }
-        ],
-        "1F180A41": [
-            {
-                "value": 20816
-            }
-        ],
-        "42078010": [
-            {
-                "value": 49465
-            }
-        ],
-        "C37B60E0": [
-            {
-                "value": 75043
-            }
-        ],
-        "40134283": [
-            {
-                "value": 57541
-            }
-        ],
-        "4C3B61A2": [
-            {
-                "value": 38529
-            }
-        ],
-        "2DEA5292": [
-            {
-                "value": 19237
-            }
-        ],
-        "2BD23914": [
-            {
-                "value": 29868
-            }
-        ],
-        "E137B1A6": [
-            {
-                "value": 44850
-            }
-        ],
-        "6F2B1228": [
-            {
-                "value": 39244
-            }
-        ],
-        "1CC3BE3C": [
-            {
-                "value": 29257
-            }
-        ],
-        "4AFD1AAE": [
-            {
-                "value": 37564
-            }
-        ],
-        "84CF9361": [
-            {
-                "value": 47775
-            }
-        ],
-        "60A39D7D": [
-            {
-                "value": 9913
-            }
-        ],
-        "ED346460": [
-            {
-                "value": 33800
-            }
-        ],
-        "CD036209": [
-            {
-                "value": 25773
-            }
-        ],
-        "58A0D688": [
-            {
-                "value": 22588
-            }
-        ],
-        "7A9FA1C8": [
-            {
-                "value": 18590
-            }
-        ],
-        "9433D1E3": [
-            {
-                "value": 4875
-            }
-        ],
-        "4A4DD9D8": [
-            {
-                "value": 10563
-            }
-        ],
-        "5D8EA462": [
-            {
-                "value": 18688
-            }
-        ],
-        "7630077F": [
-            {
-                "value": 13813
-            }
-        ],
-        "FE4126E1": [
-            {
-                "value": 11895
-            }
-        ],
-        "9A451695": [
-            {
-                "value": 37310
-            }
-        ],
-        "D29E8914": [
-            {
-                "value": 28308
-            }
-        ],
-        "D11E2A54": [
-            {
-                "value": 25123
-            }
-        ],
-        "C48ABF09": [
-            {
-                "value": 21353
-            }
-        ],
-        "931DA92B": [
+        "BIKER_UPPERS_GRAY_PUFFER_JACKET": [
             {
                 "value": 5850
             }
         ],
-        "5695CBAF": [
+        "BIKER_UPPERS_HOT_PINK_PUFFER_JACKET": [
             {
-                "value": 9620
+                "value": 6620
             }
         ],
-        "3730BC2A": [
+        "BIKER_UPPERS_OLIVE_PUFFER_JACKET": [
             {
-                "value": 12968
+                "value": 6211
             }
         ],
-        "BE746F7E": [
+        "BIKER_UPPERS_PURPLE_PUFFER_JACKET": [
             {
-                "value": 15665
+                "value": 6117
             }
         ],
-        "32D85F42": [
+        "BIKER_UPPERS_BEIGE_PUFFER_JACKET": [
             {
-                "value": 22425
+                "value": 5977
             }
         ],
-        "75878420": [
+        "BIKER_UPPERS_ORANGE_PUFFER_JACKET": [
             {
-                "value": 16575
+                "value": 5899
             }
         ],
-        "BE97963F": [
+        "BIKER_UPPERS_CYAN_PUFFER_JACKET": [
             {
-                "value": 17391
+                "value": 6305
             }
         ],
-        "C805A91B": [
+        "BIKER_UPPERS_ICE_PUFFER_JACKET": [
             {
-                "value": 18207
+                "value": 6617
             }
         ],
-        "1312BF34": [
+        "BIKER_UPPERS_LIME_PUFFER_JACKET": [
             {
-                "value": 19019
+                "value": 7001
             }
         ],
-        "AC5AF1C6": [
+        "BIKER_UPPERS_CHOCOLATE_LEATHER_HOODIE": [
             {
-                "value": 19835
+                "value": 8197
             }
         ],
-        "F0E17AD2": [
+        "BIKER_UPPERS_BLACK_LEATHER_HOODIE": [
             {
-                "value": 20651
+                "value": 8483
             }
         ],
-        "32B1F65": [
+        "BIKER_UPPERS_GRAY_LEATHER_HOODIE": [
             {
-                "value": 21466
+                "value": 8024
             }
         ],
-        "43CD635D": [
+        "BIKER_UPPERS_VINTAGE_DENIM_BIKER": [
             {
-                "value": 27300
+                "value": 6786
             }
         ],
-        "1DB8DA15": [
+        "BIKER_UPPERS_INDIGO_DENIM_BIKER": [
             {
-                "value": 6825
+                "value": 7147
             }
         ],
-        "71785A4C": [
+        "BIKER_UPPERS_WASHED_DENIM_BIKER": [
             {
-                "value": 19019
+                "value": 6468
             }
         ],
-        "ABACF104": [
+        "BIKER_UPPERS_CHARCOAL_DENIM_BIKER": [
             {
-                "value": 25948
+                "value": 7722
             }
         ],
-        "A21960C3": [
+        "BIKER_UPPERS_VINTAGE_DENIM_CUT": [
             {
-                "value": 33010
+                "value": 6461
             }
         ],
-        "66E9F949": [
+        "BIKER_UPPERS_INDIGO_DENIM_CUT": [
             {
-                "value": 29809
+                "value": 6822
             }
         ],
-        "160F84FE": [
+        "BIKER_UPPERS_WASHED_DENIM_CUT": [
             {
-                "value": 24473
+                "value": 6143
             }
         ],
-        "E31D177B": [
+        "BIKER_UPPERS_CHARCOAL_DENIM_CUT": [
             {
-                "value": 6825
+                "value": 7397
             }
         ],
-        "5BBDEEBD": [
+        "BIKER_UPPERS_VINTAGE_PATCHED_DENIM_BIKER": [
             {
-                "value": 12740
+                "value": 7761
             }
         ],
-        "6E61D1C3": [
+        "BIKER_UPPERS_INDIGO_PATCHED_DENIM_BIKER": [
             {
-                "value": 15425
+                "value": 8122
             }
         ],
-        "E64066D3": [
+        "BIKER_UPPERS_WASHED_PATCHED_DENIM_BIKER": [
             {
-                "value": 22113
+                "value": 7443
             }
         ],
-        "47504334": [
+        "BIKER_UPPERS_CHARCOAL_PATCHED_DENIM_BIKER": [
             {
-                "value": 26163
+                "value": 8697
             }
         ],
-        "918D933B": [
+        "BIKER_UPPERS_VINTAGE_PATCHED_DENIM_CUT": [
             {
-                "value": 19338
+                "value": 7436
             }
         ],
-        "62DDF674": [
+        "BIKER_UPPERS_INDIGO_PATCHED_DENIM_CUT": [
             {
-                "value": 20290
+                "value": 7797
             }
         ],
-        "88CE755D": [
+        "BIKER_UPPERS_WASHED_PATCHED_DENIM_CUT": [
             {
-                "value": 21239
+                "value": 7118
             }
         ],
-        "E275BB08": [
+        "BIKER_UPPERS_CHARCOAL_PATCHED_DENIM_CUT": [
             {
-                "value": 22191
+                "value": 8372
             }
         ],
-        "5A2C4A4C": [
+        "BIKER_UPPERS_WORN_BLACK_PATCHED_CLASSIC": [
             {
-                "value": 23140
+                "value": 14989
             }
         ],
-        "10321B": [
+        "BIKER_UPPERS_OX_BLOOD_PATCHED_CLASSIC": [
             {
-                "value": 24092
+                "value": 14388
             }
         ],
-        "764E12DF": [
+        "BIKER_UPPERS_CHOCOLATE_PATCHED_CLASSIC": [
             {
-                "value": 25045
+                "value": 13754
             }
         ],
-        "6C5D627": [
+        "BIKER_UPPERS_BLACK_PATCHED_CLASSIC": [
             {
-                "value": 9152
+                "value": 15958
             }
         ],
-        "48B21F58": [
+        "BIKER_UPPERS_WORN_BLACK_PATCHED_CUT": [
             {
-                "value": 31850
+                "value": 11856
             }
         ],
-        "D8885F66": [
+        "BIKER_UPPERS_OX_BLOOD_PATCHED_CUT": [
             {
-                "value": 7313
+                "value": 11375
             }
         ],
-        "FD58BBD5": [
+        "BIKER_UPPERS_CHOCOLATE_PATCHED_CUT": [
             {
-                "value": 7465
+                "value": 10868
             }
         ],
-        "43D8BE3D": [
+        "BIKER_UPPERS_BLACK_PATCHED_CUT": [
             {
-                "value": 11616
+                "value": 12630
             }
         ],
-        "D9EBE2C2": [
+        "BIKER_UPPERS_PATCHED_DARTED_VEST": [
             {
-                "value": 39244
+                "value": 5363
             }
         ],
-        "B4FD7521": [
+        "BIKER_UPPERS_DIGITAL_SPORTS_CUT": [
             {
-                "value": 29003
+                "value": 7826
             }
         ],
-        "BDDCC585": [
+        "BIKER_UPPERS_VIPER_SPORTS_CUT": [
             {
-                "value": 30430
+                "value": 8736
             }
         ],
-        "4652EFA7": [
+        "BIKER_UPPERS_CAMO_SPORTS_CUT": [
             {
-                "value": 31857
+                "value": 7534
             }
         ],
-        "5B28E53E": [
+        "BIKER_UPPERS_BLUE_SPORTS_CUT": [
             {
-                "value": 33283
+                "value": 7540
             }
         ],
-        "A213884D": [
+        "BIKER_UPPERS_RED_SPORTS_CUT": [
             {
-                "value": 34710
+                "value": 7751
             }
         ],
-        "CA638D88": [
+        "BIKER_UPPERS_GREEN_SPORTS_CUT": [
             {
-                "value": 36137
+                "value": 7495
             }
         ],
-        "2B1F525B": [
+        "BIKER_UPPERS_YELLOW_SPORTS_CUT": [
             {
-                "value": 37564
+                "value": 7475
             }
         ],
-        "8DD3ED5A": [
+        "BIKER_UPPERS_ANGELS_OF_DEATH_TEE": [
             {
-                "value": 9152
+                "value": 598
             }
         ],
-        "FC783DA3": [
+        "BIKER_UPPERS_ANGELS_OF_DEATH_AGED_TEE": [
             {
-                "value": 47775
+                "value": 598
             }
         ],
-        "7A13A56D": [
+        "BIKER_UPPERS_ANGELS_OF_DEATH_VIVID_TEE": [
             {
-                "value": 10563
+                "value": 637
             }
         ],
-        "744EA3BE": [
+        "BIKER_UPPERS_OUTLAW_BLACK_TEE": [
             {
-                "value": 16543
+                "value": 1203
             }
         ],
-        "13CA22EF": [
+        "BIKER_UPPERS_OUTLAW_WHITE_TEE": [
             {
-                "value": 4875
+                "value": 1203
             }
         ],
-        "9E6B3FF9": [
+        "BIKER_UPPERS_ASS_KICKING_BLACK_TEE": [
             {
-                "value": 13813
+                "value": 754
             }
         ],
-        "6A481E2A": [
+        "BIKER_UPPERS_ASS_KICKING_WHITE_TEE": [
             {
-                "value": 6825
+                "value": 754
             }
         ],
-        "87484B97": [
+        "BIKER_UPPERS_COMPLAINTS_DEPT_BLACK_TEE": [
             {
-                "value": 12740
+                "value": 878
             }
         ],
-        "68010111": [
+        "BIKER_UPPERS_COMPLAINTS_DEPT_WHITE_TEE": [
             {
-                "value": 15425
+                "value": 878
             }
         ],
-        "BD096C7F": [
+        "BIKER_UPPERS_KNUCKLEDUSTER_BLACK_TEE": [
             {
-                "value": 22113
+                "value": 959
             }
         ],
-        "9739B812": [
+        "BIKER_UPPERS_KNUCKLEDUSTER_WHITE_TEE": [
             {
-                "value": 26163
+                "value": 959
             }
         ],
-        "CA1959C": [
+        "BIKER_UPPERS_DILLIGAF_BLACK_TEE": [
             {
-                "value": 19338
+                "value": 910
             }
         ],
-        "5C56B97A": [
+        "BIKER_UPPERS_DILLIGAF_WHITE_TEE": [
             {
-                "value": 20290
+                "value": 910
             }
         ],
-        "62A74AB1": [
+        "BIKER_UPPERS_FTW_BOMB_BLACK_TEE": [
             {
-                "value": 21239
+                "value": 878
             }
         ],
-        "FB5F9C73": [
+        "BIKER_UPPERS_FTW_BOMB_WHITE_TEE": [
             {
-                "value": 22191
+                "value": 878
             }
         ],
-        "9EA8F2D4": [
-            {
-                "value": 23140
-            }
-        ],
-        "E9236ABF": [
-            {
-                "value": 24092
-            }
-        ],
-        "46F49262": [
-            {
-                "value": 25045
-            }
-        ],
-        "9931AD0D": [
-            {
-                "value": 9152
-            }
-        ],
-        "8D11618B": [
-            {
-                "value": 31850
-            }
-        ],
-        "F9FEF1A2": [
-            {
-                "value": 4875
-            }
-        ],
-        "C8723C3B": [
-            {
-                "value": 10563
-            }
-        ],
-        "F64C155F": [
-            {
-                "value": 18688
-            }
-        ],
-        "EB4DF07F": [
-            {
-                "value": 13813
-            }
-        ],
-        "C7D443AC": [
-            {
-                "value": 17193
-            }
-        ],
-        "65AD007F": [
-            {
-                "value": 39952
-            }
-        ],
-        "125AE3AD": [
-            {
-                "value": 68104
-            }
-        ],
-        "71616B5E": [
-            {
-                "value": 46118
-            }
-        ],
-        "40147D2E": [
-            {
-                "value": 58988
-            }
-        ],
-        "B9357969": [
-            {
-                "value": 17453
-            }
-        ],
-        "B8E975B0": [
-            {
-                "value": 32354
-            }
-        ],
-        "D5A9B74A": [
-            {
-                "value": 55621
-            }
-        ],
-        "1435634E": [
-            {
-                "value": 37242
-            }
-        ],
-        "F36357AF": [
-            {
-                "value": 47814
-            }
-        ],
-        "7FEE5DD5": [
-            {
-                "value": 20449
-            }
-        ],
-        "DA2FE3F": [
-            {
-                "value": 37180
-            }
-        ],
-        "5F53A578": [
-            {
-                "value": 24846
-            }
-        ],
-        "3A22DB03": [
-            {
-                "value": 28350
-            }
-        ],
-        "F8801FC7": [
-            {
-                "value": 14365
-            }
-        ],
-        "EDF2CCB2": [
-            {
-                "value": 28828
-            }
-        ],
-        "2BE7775A": [
-            {
-                "value": 50369
-            }
-        ],
-        "3AB2ABEB": [
-            {
-                "value": 33865
-            }
-        ],
-        "940C71F8": [
-            {
-                "value": 56758
-            }
-        ],
-        "B8E981DD": [
-            {
-                "value": 22308
-            }
-        ],
-        "A0B3ACE2": [
-            {
-                "value": 40560
-            }
-        ],
-        "3D6876CD": [
-            {
-                "value": 27105
-            }
-        ],
-        "D9144681": [
-            {
-                "value": 30927
-            }
-        ],
-        "E3B96F95": [
-            {
-                "value": 42380
-            }
-        ],
-        "11104DEB": [
-            {
-                "value": 48841
-            }
-        ],
-        "6DDAD0B6": [
-            {
-                "value": 62819
-            }
-        ],
-        "EB70B6CC": [
-            {
-                "value": 94803
-            }
-        ],
-        "CA9E7B61": [
-            {
-                "value": 11895
-            }
-        ],
-        "1DBD49AC": [
-            {
-                "value": 13000
-            }
-        ],
-        "F2D6F3E0": [
-            {
-                "value": 19500
-            }
-        ],
-        "1919155": [
-            {
-                "value": 19500
-            }
-        ],
-        "FC910750": [
-            {
-                "value": 19500
-            }
-        ],
-        "A2DA289": [
-            {
-                "value": 19500
-            }
-        ],
-        "E00C4E47": [
-            {
-                "value": 19500
-            }
-        ],
-        "ADCB69C6": [
-            {
-                "value": 22750
-            }
-        ],
-        "BD5908E1": [
-            {
-                "value": 22750
-            }
-        ],
-        "93EBB607": [
-            {
-                "value": 26000
-            }
-        ],
-        "1EE9FFCA": [
-            {
-                "value": 26000
-            }
-        ],
-        "78ED114": [
-            {
-                "value": 26000
-            }
-        ],
-        "4262C6BB": [
-            {
-                "value": 26000
-            }
-        ],
-        "2D149C1F": [
-            {
-                "value": 48750
-            }
-        ],
-        "D0BEE391": [
-            {
-                "value": 39000
-            }
-        ],
-        "C3094826": [
-            {
-                "value": 39000
-            }
-        ],
-        "F97934E9": [
-            {
-                "value": 39000
-            }
-        ],
-        "E42F0A55": [
-            {
-                "value": 32500
-            }
-        ],
-        "889F5353": [
-            {
-                "value": 32500
-            }
-        ],
-        "79FDB610": [
-            {
-                "value": 32500
-            }
-        ],
-        "9F80FDD6": [
-            {
-                "value": 32500
-            }
-        ],
-        "B21422FC": [
-            {
-                "value": 29250
-            }
-        ],
-        "EC0316D5": [
-            {
-                "value": 29250
-            }
-        ],
-        "CEA8DC25": [
-            {
-                "value": 65000
-            }
-        ],
-        "92E512B": [
-            {
-                "value": 65000
-            }
-        ],
-        "DB237516": [
-            {
-                "value": 52000
-            }
-        ],
-        "24E20892": [
-            {
-                "value": 52000
-            }
-        ],
-        "F7CE2E6B": [
-            {
-                "value": 48750
-            }
-        ],
-        "5175E1B9": [
-            {
-                "value": 48750
-            }
-        ],
-        "243D0748": [
-            {
-                "value": 48750
-            }
-        ],
-        "B141A26F": [
-            {
-                "value": 58500
-            }
-        ],
-        "A2EC05C4": [
-            {
-                "value": 58500
-            }
-        ],
-        "CCA7593A": [
-            {
-                "value": 58500
-            }
-        ],
-        "DF452834": [
-            {
-                "value": 3250
-            }
-        ],
-        "C2F53B96": [
-            {
-                "value": 26000
-            }
-        ],
-        "117497B": [
-            {
-                "value": 28275
-            }
-        ],
-        "6D2E601C": [
-            {
-                "value": 29250
-            }
-        ],
-        "7CBDBC48": [
-            {
-                "value": 32338
-            }
-        ],
-        "6B99EDA5": [
-            {
-                "value": 48750
-            }
-        ],
-        "FBF3CED9": [
-            {
-                "value": 37375
-            }
-        ],
-        "40C50C0A": [
-            {
-                "value": 33475
-            }
-        ],
-        "105AB4F3": [
-            {
-                "value": 34938
-            }
-        ],
-        "181C544": [
-            {
-                "value": 35750
-            }
-        ],
-        "959CF61F": [
-            {
-                "value": 39000
-            }
-        ],
-        "721CC68A": [
-            {
-                "value": 65000
-            }
-        ],
-        "PISTOL_AMMO_AMMO_MODIFIER": [
-            {
-                "value": 37
-            }
-        ],
-        "COMBAT_PISTOL_AMMO_MODIFIER": [
-            {
-                "value": 37
-            }
-        ],
-        "PISTOL50_AMMO_MODIFIER": [
-            {
-                "value": 37
-            }
-        ],
-        "AP_PISTOL_AMMO_MODIFIER": [
-            {
-                "value": 55
-            }
-        ],
-        "MICRO_SMG_AMMO_MODIFIER": [
-            {
-                "value": 39
-            }
-        ],
-        "SMG_AMMO_MODIFIER": [
-            {
-                "value": 73
-            }
-        ],
-        "ASSAULT_SMG_AMMO_MODIFIER": [
-            {
-                "value": 73
-            }
-        ],
-        "ASSAULT_RIFLE_AMMO_MODIFIER": [
-            {
-                "value": 70
-            }
-        ],
-        "CARBINE_RIFLE_AMMO_MODIFIER": [
-            {
-                "value": 70
-            }
-        ],
-        "ADVANCED_RIFLE_AMMO_MODIFIER": [
-            {
-                "value": 70
-            }
-        ],
-        "MG_AMMO_MODIFIER": [
-            {
-                "value": 98
-            }
-        ],
-        "COMBAT_MG_AMMO_MODIFIER": [
-            {
-                "value": 180
-            }
-        ],
-        "PUMP_SHOTGUN_AMMO_MODIFIER": [
-            {
-                "value": 16
-            }
-        ],
-        "SAWEDOFF_SHOTGUN_AMMO_MODIFIER": [
-            {
-                "value": 16
-            }
-        ],
-        "BULLPUP_SHOTGUN_AMMO_MODIFIER": [
-            {
-                "value": 16
-            }
-        ],
-        "ASSAULT_SHOTGUN_AMMO_MODIFIER": [
-            {
-                "value": 16
-            }
-        ],
-        "HEAVY_SNIPER_AMMO_MODIFIER": [
-            {
-                "value": 57
-            }
-        ],
-        "SNIPER_RIFLE_AMMO_MODIFIER": [
-            {
-                "value": 94
-            }
-        ],
-        "MINIGUN_AMMO_MODIFIER": [
-            {
-                "value": 98
-            }
-        ],
-        "valentine_Gusenberg_AMMO": [
-            {
-                "value": 54
-            }
-        ],
-        "DLC_WEAPON_ADDON_SNS_PISTOL_AMMO": [
-            {
-                "value": 19
-            }
-        ],
-        "DLC_WEAPON_ADDON_SPECIAL_CARBINE_AMMO": [
-            {
-                "value": 70
-            }
-        ],
-        "DLC_WEAPON_ADDON_HEAVY_PISTOL_AMMO": [
-            {
-                "value": 55
-            }
-        ],
-        "DLC_WEAPON_ADDON_BULLPUP_RIFLE_AMMO": [
-            {
-                "value": 70
-            }
-        ],
-        "DLC_WEAPON_ADDON_VINTAGE_PISTOL_AMMO": [
-            {
-                "value": 21
-            }
-        ],
-        "WEAPONS_INDEPENDENCEDAY_MUSKET_AMMO": [
-            {
-                "value": 2
-            }
-        ],
-        "LTS_HEAVY_SHOTGUN_AMMO": [
-            {
-                "value": 12
-            }
-        ],
-        "LTS_MARKSMAN_RIFLE_AMMO": [
-            {
-                "value": 75
-            }
-        ],
-        "flaregun_Ammo": [
-            {
-                "value": 65
-            }
-        ],
-        "LUXE1_AMMO_COMBAT_PDW_AMMO": [
-            {
-                "value": 73
-            }
-        ],
-        "DLC_WEAPON_MARKSMAN_PISTOL_AMMO": [
-            {
-                "value": 3
-            }
-        ],
-        "AMMO_MACHINE_PISTOL_AMMO": [
-            {
-                "value": 55
-            }
-        ],
-        "DLC_WEAPON_REVOLVER_AMMO": [
-            {
-                "value": 18
-            }
-        ],
-        "AMMO_COMPACT_RIFLE_AMMO": [
-            {
-                "value": 70
-            }
-        ],
-        "AMMO_DOUBLE_BARREL_SHOTGUN_AMMO": [
-            {
-                "value": 4
-            }
-        ],
-        "BIKER_AMMO_SWEEPER_SHOTGUN_AMMO": [
-            {
-                "value": 20
-            }
-        ],
-        "BIKER_AMMO_MINI_SMG_AMMO": [
-            {
-                "value": 49
-            }
-        ],
-        "STICKYBOMB_MODIFIER": [
-            {
-                "value": 390
-            }
-        ],
-        "GRENADE_MODIFIER": [
-            {
-                "value": 163
-            }
-        ],
-        "TEARGAS_MODIFIER": [
-            {
-                "value": 98
-            }
-        ],
-        "BFC92F0B": [
-            {
-                "value": 390
-            }
-        ],
-        "A15F9A72": [
-            {
-                "value": 163
-            }
-        ],
-        "BF058AD": [
-            {
-                "value": 98
-            }
-        ],
-        "WEAPONS_XMAS14_PROXIMITY_MINE": [
-            {
-                "value": 650
-            }
-        ],
-        "BIKER_PRIMARY_PIPE_BOMB": [
-            {
-                "value": 325
-            }
-        ],
-        "GRENADE_LAUNCHER_AMMO_MODIFIER": [
-            {
-                "value": 3250
-            }
-        ],
-        "RPG_AMMO_MODIFIER": [
-            {
-                "value": 650
-            }
-        ],
-        "WEAPONS_XMAS14_HOMING_LAUNCHER_AMMO": [
+        "BIKER_UPPERS_CARPAL_CURSE_BLACK_TEE": [
             {
                 "value": 975
             }
         ],
-        "BIKER_AMMO_COMPACT_GRENADE_LAUNCHER_AMMO": [
+        "BIKER_UPPERS_CARPAL_CURSE_WHITE_TEE": [
             {
-                "value": 325
+                "value": 975
             }
         ],
-        "502A5F5A": [
+        "BIKER_UPPERS_NO_REGRETS_TEE": [
             {
-                "value": 28
+                "value": 1495
             }
         ],
-        "F6984D34": [
+        "BIKER_UPPERS_GFY_WHITE_TEE": [
             {
-                "value": 55
+                "value": 1105
             }
         ],
-        "9D262458": [
+        "BIKER_UPPERS_GFY_BLACK_TEE": [
             {
-                "value": 136
+                "value": 1105
             }
         ],
-        "93EC0878": [
+        "BIKER_UPPERS_RIDE_FREE_TEE": [
             {
-                "value": 53
+                "value": 1635
             }
         ],
-        "C9950948": [
+        "BIKER_UPPERS_SNITCHES_GET_STITCHES_TEE": [
             {
-                "value": 53
+                "value": 1424
             }
         ],
-        "A0B1BB16": [
+        "BIKER_UPPERS_SUPPORTER_BLACK_TEE": [
             {
-                "value": 87
+                "value": 634
             }
         ],
-        "E693953B": [
+        "BIKER_UPPERS_SUPPORTER_WHITE_TEE": [
             {
-                "value": 172
+                "value": 634
             }
         ],
-        "49C33482": [
+        "BIKER_UPPERS_FOREVER_BLACK_TEE": [
             {
-                "value": 506
+                "value": 608
             }
         ],
-        "8F0C27DC": [
+        "BIKER_UPPERS_FOREVER_WHITE_TEE": [
             {
-                "value": 164
+                "value": 608
             }
         ],
-        "25643C93": [
+        "BIKER_UPPERS_LOST_MC_BLACK_TEE": [
             {
-                "value": 164
+                "value": 657
             }
         ],
-        "5F5D3592": [
+        "BIKER_UPPERS_LOST_MC_WHITE_TEE": [
             {
-                "value": 132
+                "value": 657
             }
         ],
-        "F909E1E8": [
+        "BIKER_UPPERS_HERALDIC_SUPPORTER_BLACK_TEE": [
             {
-                "value": 38
+                "value": 748
             }
         ],
-        "BF0ADB58": [
+        "BIKER_UPPERS_HERALDIC_SUPPORTER_WHITE_TEE": [
             {
-                "value": 73
+                "value": 748
             }
         ],
-        "B35D76A3": [
+        "BIKER_UPPERS_LOST_RIDE_FREE_BLACK_TEE": [
             {
-                "value": 217
+                "value": 764
             }
         ],
-        "5B7AA307": [
+        "BIKER_UPPERS_LOST_RIDE_FREE_WHITE_TEE": [
             {
-                "value": 70
+                "value": 748
             }
         ],
-        "8A189713": [
+        "BIKER_UPPERS_UR_TEE": [
             {
-                "value": 70
+                "value": 598
             }
         ],
-        "9705F364": [
+        "BIKER_UPPERS_UR_SOLID_TEE": [
             {
-                "value": 57
+                "value": 618
             }
         ],
-        "3623E993": [
+        "BIKER_UPPERS_UPTOWN_RIDERS_BLACK_TEE": [
             {
-                "value": 50
+                "value": 683
             }
         ],
-        "AA4C5424": [
+        "BIKER_UPPERS_UPTOWN_RIDERS_WHITE_TEE": [
             {
-                "value": 98
+                "value": 650
             }
         ],
-        "4F5330B6": [
+        "BIKER_UPPERS_UR_FLAMES_BLACK_TEE": [
             {
-                "value": 361
+                "value": 731
             }
         ],
-        "28E5C916": [
+        "BIKER_UPPERS_UR_FLAMES_WHITE_TEE": [
             {
-                "value": 117
+                "value": 705
             }
         ],
-        "8A4B8A75": [
+        "BIKER_UPPERS_UR_EMBOSSED_TEE": [
             {
-                "value": 117
+                "value": 787
             }
         ],
-        "452E7C83": [
+        "BIKER_UPPERS_UR_SKULL_BLACK_TEE": [
             {
-                "value": 94
+                "value": 894
             }
         ],
-        "C87E2EA5": [
+        "BIKER_UPPERS_UR_SKULL_WHITE_TEE": [
             {
-                "value": 943
+                "value": 845
             }
         ],
-        "D5F0FA2D": [
+        "BIKER_UPPERS_UPTOWN_RIDERS_LOGO_BLACK_TEE": [
             {
-                "value": 53
+                "value": 777
             }
         ],
-        "82FBFF69": [
+        "BIKER_UPPERS_UPTOWN_RIDERS_LOGO_WHITE_TEE": [
             {
-                "value": 57
+                "value": 777
             }
         ],
-        "E6A7E9EE": [
+        "UPPERS_BLACK_BAGGY_HOODIE": [
             {
-                "value": 14
+                "value": 1203
             }
         ],
-        "45224CB3": [
+        "UPPERS_WHITE_BAGGY_HOODIE": [
             {
-                "value": 44
+                "value": 1102
             }
         ],
-        "7D986F4F": [
+        "UPPERS_CREAM_BOATING_BLAZER": [
             {
-                "value": 14
+                "value": 4969
             }
         ],
-        "2EDD814E": [
+        "UPPERS_RED_BOATING_BLAZER": [
             {
-                "value": 164
+                "value": 4927
             }
         ],
-        "206452B7": [
+        "UPPERS_NAVY_BOATING_BLAZER": [
             {
-                "value": 165
+                "value": 4885
             }
         ],
-        "FE541FB7": [
+        "UPPERS_CYAN_BOATING_BLAZER": [
             {
-                "value": 64
+                "value": 4843
             }
         ],
-        "8F4E4BF4": [
+        "UPPERS_BLACK_BOATING_BLAZER": [
             {
-                "value": 137
+                "value": 4758
             }
         ],
-        "9232E59A": [
+        "UPPERS_WHITE_BOATING_BLAZER": [
             {
-                "value": 65
+                "value": 4800
             }
         ],
-        "DD331357": [
+        "UPPERS_URBAN_CLOSED_PARKA_": [
             {
-                "value": 23
+                "value": 5525
             }
         ],
-        "1E2E76AB": [
+        "UPPERS_FOREST_CLOSED_PARKA": [
             {
-                "value": 70
+                "value": 5801
             }
         ],
-        "7B5A496E": [
+        "UPPERS_URBAN_OPEN_PARKA": [
             {
-                "value": 71
+                "value": 5525
             }
         ],
-        "6FA5F02E": [
+        "UPPERS_FOREST_OPEN_PARKA": [
             {
-                "value": 27
+                "value": 5801
             }
         ],
-        "C91B6725": [
+        "UPPER_URBAN_PATCHED_CLOSED_PARKA": [
             {
-                "value": 59
+                "value": 6783
             }
         ],
-        "AB86CECC": [
+        "UPPER_FOREST_PATCHED_CLOSED_PARKA": [
             {
-                "value": 28
+                "value": 7059
             }
         ],
-        "781DB081": [
+        "UPPER_URBAN_PATCHED_OPEN_PARKA": [
             {
-                "value": 31
+                "value": 6783
             }
         ],
-        "4DB226C6": [
+        "UPPER_FOREST_PATCHED_OPEN_PARKA": [
             {
-                "value": 36
+                "value": 7059
             }
         ],
-        "6858EEE2": [
+        "HAT_NAVY_BLAZER_SHIRT": [
             {
-                "value": 38
+                "value": 358
             }
         ],
-        "B5D40ACD": [
+        "HAT_RED_BLAZER_SHIRT": [
             {
-                "value": 39
+                "value": 387
             }
         ],
-        "CFECEAD9": [
+        "BIKER_MALE_LOWERS_BLACK_LEATHER_PLAIN_": [
             {
-                "value": 117
+                "value": 3861
             }
         ],
-        "E4CA3B9E": [
+        "BIKER_MALE_LOWERS_OX_BLOOD_LEATHER_PLAIN": [
             {
-                "value": 118
+                "value": 3738
             }
         ],
-        "A7E180C8": [
+        "BIKER_MALE_LOWERS_CHOCOLATE_LEATHER_PLAIN": [
             {
-                "value": 98
+                "value": 3624
             }
         ],
-        "9464855B": [
+        "BIKER_MALE_LOWERS_WORN_BLACK_LEATHER_PLAIN": [
             {
-                "value": 390
+                "value": 3478
             }
         ],
-        "417BECA4": [
+        "BIKER_MALE_LOWERS_WORN_OX_BLOOD_LEATHER_PLAIN": [
             {
-                "value": 18
+                "value": 3364
             }
         ],
-        "SALE_CLOTHING_MENU_LOCATE_TYPE_BODYARMOUR": [
+        "BIKER_MALE_LOWERS_WORN_CHOCOLATE_LEATHER_PLAIN": [
             {
-                "value": true
+                "value": 3263
             }
         ],
-        "D01C6074": [
+        "BIKER_MALE_LOWERS_BLACK_LEATHER_PADDED_": [
             {
-                "value": true
+                "value": 4826
             }
         ],
-        "4031663C": [
+        "BIKER_MALE_LOWERS_OX_BLOOD_LEATHER_PADDED": [
             {
-                "value": -1352805971
+                "value": 4674
             }
         ],
-        "304E4676": [
+        "BIKER_MALE_LOWERS_CHOCOLATE_LEATHER_PADDED": [
             {
-                "value": 978453442
+                "value": 4531
             }
         ],
-        "F87456BF": [
+        "BIKER_MALE_LOWERS_WORN_BLACK_LEATHER_PADDED": [
             {
-                "value": -1701351463
+                "value": 4345
             }
         ],
-        "E6AFB336": [
+        "BIKER_MALE_LOWERS_WORN_OX_BLOOD_LEATHER_PADDED": [
             {
-                "value": -649542207
+                "value": 4206
             }
         ],
-        "DA289A28": [
+        "BIKER_MALE_LOWERS_WORN_CHOCOLATE_LEATHER_PADDED": [
             {
-                "value": 1411461530
+                "value": 4079
             }
         ],
-        "PISTOL_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_INDIGO_RIBBED": [
             {
-                "value": true
+                "value": 3562
             }
         ],
-        "SMG_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_MIDNIGHT_RIBBED": [
             {
-                "value": true
+                "value": 3845
             }
         ],
-        "RIFLE_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_FADED_RIBBED": [
             {
-                "value": true
+                "value": 3328
             }
         ],
-        "MG_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_NAVY_RIBBED": [
             {
-                "value": true
+                "value": 3770
             }
         ],
-        "SHOTGUN_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_CLASSIC_RIBBED": [
             {
-                "value": true
+                "value": 3640
             }
         ],
-        "SNIPER_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_DARK_RIBBED": [
             {
-                "value": true
+                "value": 3721
             }
         ],
-        "FLAREGUN_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_SLATE_RIBBED": [
             {
-                "value": true
+                "value": 3478
             }
         ],
-        "MINIGUN_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_BLACK_RIBBED": [
             {
-                "value": true
+                "value": 3871
             }
         ],
-        "GRENADELAUNCHER_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_INDIGO_ROADWORN": [
             {
-                "value": true
+                "value": 2425
             }
         ],
-        "RPG_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_MIDNIGHT_ROADWORN": [
             {
-                "value": true
+                "value": 2603
             }
         ],
-        "HOMINGLAUNCHER_AMMO_DISPLAY_SALES": [
+        "BIKER_MALE_LOWERS_FADED_ROADWORN": [
             {
-                "value": true
+                "value": 2165
             }
         ],
-        "8C8973": [
+        "BIKER_MALE_LOWERS_NAVY_ROADWORN": [
             {
-                "value": true
+                "value": 2587
             }
         ],
-        "7FC0CB75": [
+        "BIKER_MALE_LOWERS_CLASSIC_ROADWORN": [
             {
-                "value": true
+                "value": 2509
             }
         ],
-        "52876910": [
+        "BIKER_MALE_LOWERS_DARK_ROADWORN": [
             {
-                "value": true
+                "value": 2535
             }
         ],
-        "EBCC01B9": [
+        "BIKER_MALE_LOWERS_SLATE_ROADWORN": [
             {
-                "value": true
+                "value": 2330
             }
         ],
-        "E8603787": [
+        "BIKER_MALE_LOWERS_BLACK_ROADWORN": [
             {
-                "value": true
+                "value": 2698
             }
         ],
-        "DC9D57CD": [
+        "BIKER_GLASSES_TAN_OUTLAW_GOGGLES": [
             {
-                "value": true
+                "value": 4332
             }
         ],
-        "BF15ED45": [
+        "BIKER_GLASSES_BLACK_OUTLAW_GOGGLES": [
             {
-                "value": true
+                "value": 4592
             }
         ],
-        "3CD105A4": [
+        "BIKER_GLASSES_MONO_OUTLAW_GOGGLES": [
             {
-                "value": true
+                "value": 4713
             }
         ],
-        "86513368": [
+        "BIKER_GLASSES_OX_BLOOD_OUTLAW_GOGGLES": [
             {
-                "value": true
+                "value": 4469
             }
         ],
-        "E20F8337": [
+        "BIKER_GLASSES_BLUE_OUTLAW_GOGGLES": [
             {
-                "value": true
+                "value": 4388
             }
         ],
-        "F97AFF34": [
+        "BIKER_GLASSES_BEIGE_OUTLAW_GOGGLES": [
             {
-                "value": true
+                "value": 4306
             }
         ],
-        "724CD5E9": [
+        "BIKER_GLASSES_TROPICAL_URBAN_SKI": [
             {
-                "value": true
+                "value": 2018
             }
         ],
-        "1BA270A4": [
+        "BIKER_GLASSES_YELLOW_URBAN_SKI": [
             {
-                "value": true
+                "value": 2080
             }
         ],
-        "2BC9C0EA": [
+        "BIKER_GLASSES_GREEN_URBAN_SKI": [
             {
-                "value": true
+                "value": 1901
             }
         ],
-        "B2CC004F": [
+        "BIKER_GLASSES_DUSK_URBAN_SKI": [
             {
-                "value": true
+                "value": 1882
             }
         ],
-        "6455AC78": [
+        "BIKER_GLASSES_GRAYSCALE_URBAN_SKI": [
             {
-                "value": true
+                "value": 1814
             }
         ],
-        "6678CBC4": [
+        "BIKER_GLASSES_PINK_URBAN_SKI": [
             {
-                "value": true
+                "value": 2145
             }
         ],
-        "9F3491A3": [
+        "BIKER_GLASSES_ORANGE_URBAN_SKI": [
             {
-                "value": true
+                "value": 2139
             }
         ],
-        "70B6458F": [
+        "BIKER_GLASSES_BROWN_URBAN_SKI": [
             {
-                "value": true
+                "value": 1830
             }
         ],
-        "E0919E8A": [
+        "BIKER_ACCESSORIES_LIGHT_WRIST_CHAIN_L": [
             {
-                "value": true
+                "value": 11076
             }
         ],
-        "70BE88BC": [
+        "BIKER_ACCESSORIES_CHUNKY_WRIST_CHAIN_L": [
             {
-                "value": true
+                "value": 12402
             }
         ],
-        "8A7C33D6": [
+        "BIKER_ACCESSORIES_SQUARE_WRIST_CHAIN_L": [
             {
-                "value": true
+                "value": 11739
             }
         ],
-        "EE27C95": [
+        "BIKER_ACCESSORIES_SKULL_WRIST_CHAIN_L": [
             {
-                "value": true
+                "value": 13832
             }
         ],
-        "C2DFBEB7": [
+        "BIKER_ACCESSORIES_TREAD_WRIST_CHAIN_L": [
             {
-                "value": true
+                "value": 14788
             }
         ],
-        "A06E7CF0": [
+        "BIKER_ACCESSORIES_GEAR_WRIST_CHAINS_L": [
             {
-                "value": true
+                "value": 10972
             }
         ],
-        "7BE8FEF9": [
+        "BIKER_ACCESSORIES_SPIKED_GAUNTLET_L": [
             {
-                "value": true
+                "value": 13179
             }
         ],
-        "CE79D759": [
+        "BIKER_ACCESSORIES_BLACK_GAUNTLET_L": [
             {
-                "value": true
+                "value": 6728
             }
         ],
-        "4F0F44B0": [
+        "BIKER_ACCESSORIES_CHOCOLATE_GAUNTLET_L": [
             {
-                "value": true
+                "value": 5866
             }
         ],
-        "4EA3C9FA": [
+        "BIKER_ACCESSORIES_TAN_GAUNTLET_L": [
             {
-                "value": true
+                "value": 5691
             }
         ],
-        "4A86D018": [
+        "BIKER_ACCESSORIES_OX_BLOOD_GAUNTLET_L": [
             {
-                "value": true
+                "value": 6305
             }
         ],
-        "5B086E71": [
+        "BIKER_ACCESSORIES_LIGHT_WRIST_CHAIN_R": [
             {
-                "value": true
+                "value": 11076
             }
         ],
-        "614A86CE": [
+        "BIKER_ACCESSORIES_CHUNKY_WRIST_CHAIN_R": [
             {
-                "value": true
+                "value": 12402
             }
         ],
-        "55B7F888": [
+        "BIKER_ACCESSORIES_SQUARE_WRIST_CHAIN_R": [
             {
-                "value": true
+                "value": 11739
             }
         ],
-        "B466DFF8": [
+        "BIKER_ACCESSORIES_SKULL_WRIST_CHAIN_R": [
             {
-                "value": true
+                "value": 13832
             }
         ],
-        "PLAYERKIT_SUPERLIGHTARMOUR_EXPENDITURE_TUNABLE": [
+        "BIKER_ACCESSORIES_TREAD_WRIST_CHAIN_R": [
             {
-                "value": 0.65
+                "value": 14788
             }
         ],
-        "PLAYERKIT_LIGHTARMOUR_EXPENDITURE_TUNABLE": [
+        "BIKER_ACCESSORIES_GEAR_WRIST_CHAINS_R": [
             {
-                "value": 0.65
+                "value": 10972
             }
         ],
-        "PLAYERKIT_STANDARDARMOUR_EXPENDITURE_TUNABLE": [
+        "BIKER_ACCESSORIES_SPIKED_GAUNTLET_R": [
             {
-                "value": 0.65
+                "value": 13179
             }
         ],
-        "PLAYERKIT_HEAVYARMOUR_EXPENDITURE_TUNABLE": [
+        "BIKER_ACCESSORIES_BLACK_GAUNTLET_R": [
             {
-                "value": 0.65
+                "value": 6728
             }
         ],
-        "PLAYERKIT_SUPERHEAVYARMOUR_EXPENDITURE_TUNABLE": [
+        "BIKER_ACCESSORIES_CHOCOLATE_GAUNTLET_R": [
             {
-                "value": 0.65
+                "value": 5866
             }
         ],
-        "64EC32DF": [
+        "BIKER_ACCESSORIES_TAN_GAUNTLET_R": [
             {
-                "value": 0.7
+                "value": 5691
             }
         ],
-        "67C7C27B": [
+        "BIKER_ACCESSORIES_OX_BLOOD_GAUNTLET_R": [
             {
-                "value": 0.7
+                "value": 6305
             }
         ],
-        "E8DD3221": [
+        "BIKER_HATS_BLACK_TIED": [
             {
-                "value": 0.7
+                "value": 3845
             }
         ],
-        "4D8032D5": [
+        "BIKER_HATS_UPTOWN_RIDERS_TIED": [
             {
-                "value": 0.7
+                "value": 3260
             }
         ],
-        "9575EE": [
+        "BIKER_HATS_RIDE_FREE_TIED": [
             {
-                "value": 0.7
+                "value": 3416
             }
         ],
-        "750994F0": [
+        "BIKER_HATS_ACE_OF_SPADES_TIED": [
             {
-                "value": 0.7
+                "value": 3640
             }
         ],
-        "D90A793D": [
+        "BIKER_HATS_SKULL_AND_SNAKE_TIED": [
             {
-                "value": 0.7
+                "value": 3491
             }
         ],
-        "9B9DDAD3": [
+        "BIKER_HATS_OX_AND_HATCHETS_TIED": [
             {
-                "value": 0.7
+                "value": 3582
             }
         ],
-        "E84369E4": [
+        "BIKER_HATS_STARS_AND_STRIPES_TIED": [
             {
-                "value": 0.7
+                "value": 3819
             }
         ],
-        "EBA94ED6": [
+        "HAT_CREAM_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 813
             }
         ],
-        "7A5818CC": [
+        "HAT_RED_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 891
             }
         ],
-        "A8268D95": [
+        "HAT_BLUE_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 832
             }
         ],
-        "279D2105": [
+        "HAT_CYAN_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 842
             }
         ],
-        "57A1BF73": [
+        "HAT_WHITE_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 822
             }
         ],
-        "2FFCDE9F": [
+        "HAT_ASH_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 861
             }
         ],
-        "D6BB006F": [
+        "HAT_NAVY_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 871
             }
         ],
-        "57123535": [
+        "HAT_DARK_RED_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 881
             }
         ],
-        "1E845A": [
+        "HAT_SLATE_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 852
             }
         ],
-        "D7F46A27": [
+        "HAT_MOSS_MOD_PORK_PIE": [
             {
-                "value": 0.7
+                "value": 972
             }
         ],
-        "977391EE": [
+        "BIKER_HELMETS_BLACK_SPIKED": [
             {
-                "value": 0.7
+                "value": 15886
             }
         ],
-        "D4D2C2FD": [
+        "BIKER_HELMETS_CARBON_SPIKED": [
             {
-                "value": 0.7
+                "value": 19747
+            }
+        ],
+        "BIKER_HELMETS_ORANGE_FIBER_SPIKED": [
+            {
+                "value": 17160
+            }
+        ],
+        "BIKER_HELMETS_STAR_AND_STRIPES_SPIKED": [
+            {
+                "value": 18460
+            }
+        ],
+        "BIKER_HELMETS_GREEN_SPIKED": [
+            {
+                "value": 16471
+            }
+        ],
+        "BIKER_HELMETS_FEATHERS_SPIKED": [
+            {
+                "value": 16367
+            }
+        ],
+        "BIKER_HELMETS_OX_AND_HATCHETS_SPIKED": [
+            {
+                "value": 17228
+            }
+        ],
+        "BIKER_HELMETS_RIDE_FREE_SPIKED": [
+            {
+                "value": 16858
+            }
+        ],
+        "BIKER_HELMETS_ACE_OF_SPADES_SPIKED": [
+            {
+                "value": 17349
+            }
+        ],
+        "BIKER_HELMETS_SKULL_AND_SNAKE_SPIKED": [
+            {
+                "value": 17079
+            }
+        ],
+        "BIKER_HELMETS_SKULL_CAP": [
+            {
+                "value": 9783
+            }
+        ],
+        "BIKER_HELMETS_VISORED_SKULL_CAP": [
+            {
+                "value": 10888
+            }
+        ],
+        "BIKER_HELMETS_FINNED_SKULL_CAP": [
+            {
+                "value": 13033
+            }
+        ],
+        "BIKER_HELMETS_SPIKED_SKULL_CAP": [
+            {
+                "value": 14138
+            }
+        ],
+        "BIKER_HELMETS_BLACK_DOME": [
+            {
+                "value": 12636
+            }
+        ],
+        "BIKER_HELMETS_CARBON_DOME": [
+            {
+                "value": 16497
+            }
+        ],
+        "BIKER_HELMETS_ORANGE_FIBER_DOME": [
+            {
+                "value": 13910
+            }
+        ],
+        "BIKER_HELMETS_STAR_AND_STRIPES_DOME": [
+            {
+                "value": 15210
+            }
+        ],
+        "BIKER_HELMETS_GREEN_DOME": [
+            {
+                "value": 13221
+            }
+        ],
+        "BIKER_HELMETS_FEATHERS_DOME": [
+            {
+                "value": 13117
+            }
+        ],
+        "BIKER_HELMETS_OX_AND_HATCHETS_DOME": [
+            {
+                "value": 13978
+            }
+        ],
+        "BIKER_HELMETS_RIDE_FREE_DOME": [
+            {
+                "value": 13608
+            }
+        ],
+        "BIKER_HELMETS_ACE_OF_SPADES_DOME": [
+            {
+                "value": 14099
+            }
+        ],
+        "BIKER_HELMETS_SKULL_AND_SNAKE_DOME": [
+            {
+                "value": 13829
+            }
+        ],
+        "BIKER_HELMETS_CHROMED_DOME": [
+            {
+                "value": 22750
+            }
+        ],
+        "HELMET_BLUE_ROUNDEL_MOD": [
+            {
+                "value": 4875
+            }
+        ],
+        "HELMET_BLUE_FAGGIO_MOD": [
+            {
+                "value": 5818
+            }
+        ],
+        "HELMET_GREEN_ROUNDEL_MOD": [
+            {
+                "value": 4713
+            }
+        ],
+        "HELMET_GREEN_FAGGIO_MOD": [
+            {
+                "value": 5655
+            }
+        ],
+        "HELMET_CREAM_MOD_CANVAS": [
+            {
+                "value": 488
+            }
+        ],
+        "HELMET_RED_MOD_CANVAS": [
+            {
+                "value": 566
+            }
+        ],
+        "HELMET_BLUE_MOD_CANVAS": [
+            {
+                "value": 507
+            }
+        ],
+        "HELMET_CYAN_MOD_CANVAS": [
+            {
+                "value": 517
+            }
+        ],
+        "HELMET_WHITE_MOD_CANVAS": [
+            {
+                "value": 497
+            }
+        ],
+        "HELMET_ASH_MOD_CANVAS": [
+            {
+                "value": 536
+            }
+        ],
+        "HELMET_NAVY_MOD_CANVAS": [
+            {
+                "value": 546
+            }
+        ],
+        "HELMET_DARK_RED_MOD_CANVAS": [
+            {
+                "value": 556
+            }
+        ],
+        "HELMET_SLATE_MOD_CANVAS": [
+            {
+                "value": 527
+            }
+        ],
+        "HELMET_MOSS_MOD_CANVAS": [
+            {
+                "value": 647
+            }
+        ],
+        "BIKER_MASKS_OX_BLOOD_DOME_FILTER": [
+            {
+                "value": 12714
+            }
+        ],
+        "BIKER_MASKS_CHOCOLATE_DOME_FILTER": [
+            {
+                "value": 12301
+            }
+        ],
+        "BIKER_MASKS_BLACK_DOME_FILTER": [
+            {
+                "value": 13033
+            }
+        ],
+        "BIKER_MASKS_TAN_DOME_FILTER": [
+            {
+                "value": 11846
+            }
+        ],
+        "BIKER_MASKS_OX_BLOOD_DOME_VENT": [
+            {
+                "value": 13351
+            }
+        ],
+        "BIKER_MASKS_CHOCOLATE_DOME_VENT": [
+            {
+                "value": 12916
+            }
+        ],
+        "BIKER_MASKS_BLACK_DOME_VENT": [
+            {
+                "value": 13683
+            }
+        ],
+        "BIKER_MASKS_TAN_DOME_VENT": [
+            {
+                "value": 12438
+            }
+        ],
+        "BIKER_FEMALE_SHOES_BLACK_CALF_BOOTS": [
+            {
+                "value": 9783
+            }
+        ],
+        "BIKER_FEMALE_SHOES_OX_BLOOD_CALF_BOOTS": [
+            {
+                "value": 9347
+            }
+        ],
+        "BIKER_FEMALE_SHOES_TAN_CALF_BOOTS": [
+            {
+                "value": 9633
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_BLACK_TORN_SLEEVELESS_CROP": [
+            {
+                "value": 1209
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_GRAY_TORN_SLEEVELESS_CROP": [
+            {
+                "value": 884
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_WINE_TORN_SLEEVELESS_CROP": [
+            {
+                "value": 949
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CREAM_TORN_SLEEVELESS_CROP": [
+            {
+                "value": 715
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_MOCHA_TORN_SLEEVELESS_CROP": [
+            {
+                "value": 835
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CAMO_TORN_SLEEVELESS_CROP": [
+            {
+                "value": 1160
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_BLACK_TORN_TEE": [
+            {
+                "value": 1297
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_GRAY_TORN_TEE": [
+            {
+                "value": 972
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_WINE_TORN_TEE": [
+            {
+                "value": 1037
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CREAM_TORN_TEE": [
+            {
+                "value": 803
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_MOCHA_TORN_TEE": [
+            {
+                "value": 923
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CAMO_TORN_TEE": [
+            {
+                "value": 1248
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_BLACK_TORN_SHORT_CROP": [
+            {
+                "value": 1255
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_GRAY_TORN_SHORT_CROP": [
+            {
+                "value": 930
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_WINE_TORN_SHORT_CROP": [
+            {
+                "value": 995
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CREAM_TORN_SHORT_CROP": [
+            {
+                "value": 761
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_MOCHA_TORN_SHORT_CROP": [
+            {
+                "value": 881
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CAMO_TORN_SHORT_CROP": [
+            {
+                "value": 1206
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_INDIGO_TIED_SHIRT": [
+            {
+                "value": 1674
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_VINTAGE_TIED_SHIRT": [
+            {
+                "value": 1706
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CHARCOAL_TIED_SHIRT": [
+            {
+                "value": 2477
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_WASHED_BLACK_TIED_SHIRT": [
+            {
+                "value": 2113
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_WINE_CHECKED_TIED_SHIRT": [
+            {
+                "value": 1836
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_CHARCOAL_CHECKED_TIED_SHIRT": [
+            {
+                "value": 2275
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_BLUE_CHECKED_TIED_SHIRT": [
+            {
+                "value": 1983
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_MOSS_CHECKED_TIED_SHIRT": [
+            {
+                "value": 1593
+            }
+        ],
+        "BIKER_FEMALE_UPPERS_LEATHER_HALTER_VEST": [
+            {
+                "value": 9750
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_JEANS_DIRTY_WASH_RIBBED": [
+            {
+                "value": 3552
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_JEANS_BLACK_RIBBED": [
+            {
+                "value": 3835
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_JEANS_DEEP_BLUE_RIBBED": [
+            {
+                "value": 3318
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_JEANS_STONEWASH_RIBBED": [
+            {
+                "value": 3760
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_JEANS_VINTAGE_RIBBED": [
+            {
+                "value": 3630
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_JEANS_HARD_WASHED_RIBBED": [
+            {
+                "value": 3712
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_DIRTY_WASH_ROADWORN": [
+            {
+                "value": 2415
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_BLACK_ROADWORN": [
+            {
+                "value": 2594
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_DEEP_BLUE_ROADWORN": [
+            {
+                "value": 2155
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_STONEWASH_ROADWORN": [
+            {
+                "value": 2577
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_VINTAGE_ROADWORN": [
+            {
+                "value": 2499
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_HARD_WASHED_ROADWORN": [
+            {
+                "value": 2525
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_BLACK_PLAIN": [
+            {
+                "value": 3949
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_MOCHA_PLAIN": [
+            {
+                "value": 3825
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_RED_PLAIN": [
+            {
+                "value": 3712
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_BLACK_QUILTED": [
+            {
+                "value": 4924
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_MOCHA_QUILTED": [
+            {
+                "value": 4771
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_RED_QUILTED": [
+            {
+                "value": 4628
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_LEATHERS_BLACK_RIBBED": [
+            {
+                "value": 3939
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_LEATHERS_MOCHA_RIBBED": [
+            {
+                "value": 3819
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_LEATHERS_RED_RIBBED": [
+            {
+                "value": 3702
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_INDIGO_DENIMS_AND_STOCKINGS": [
+            {
+                "value": 1622
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_SLATE_DENIMS_AND_STOCKINGS": [
+            {
+                "value": 1528
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_BLACK_DENIMS_AND_STOCKINGS": [
+            {
+                "value": 1632
+            }
+        ],
+        "BIKER_FEMALE_LOWERS_ASH_DENIMS_AND_STOCKINGS": [
+            {
+                "value": 1310
+            }
+        ],
+        "3D2350A0": [
+            {
+                "value": 130000
+            }
+        ],
+        "5B583FC6": [
+            {
+                "value": 130000
+            }
+        ],
+        "5FE2A713": [
+            {
+                "value": 130000
+            }
+        ],
+        "8F8BBE73": [
+            {
+                "value": 130000
+            }
+        ],
+        "DE38E8AB": [
+            {
+                "value": 130000
+            }
+        ],
+        "FF899B1B": [
+            {
+                "value": 130000
+            }
+        ],
+        "7B39AC12": [
+            {
+                "value": 130000
+            }
+        ],
+        "4ED7F804": [
+            {
+                "value": 130000
+            }
+        ],
+        "BIKER_BOTH_GENDERS_DEMON_RIDER": [
+            {
+                "value": 4368
+            }
+        ],
+        "BIKER_BOTH_GENDERS_BOTH_BARRELS": [
+            {
+                "value": 7020
+            }
+        ],
+        "BIKER_BOTH_GENDERS_ROSE_TRIBUTE": [
+            {
+                "value": 10933
+            }
+        ],
+        "BIKER_BOTH_GENDERS_WEB_RIDER": [
+            {
+                "value": 7053
+            }
+        ],
+        "BIKER_BOTH_GENDERS_DRAGONS_FURY": [
+            {
+                "value": 11668
+            }
+        ],
+        "BIKER_BOTH_GENDERS_MADE_IN_AMERICA": [
+            {
+                "value": 6000
+            }
+        ],
+        "BIKER_BOTH_GENDERS_CHOPPER_FREEDOM": [
+            {
+                "value": 6760
+            }
+        ],
+        "BIKER_BOTH_GENDERS_SWOOPING_EAGLE": [
+            {
+                "value": 3315
+            }
+        ],
+        "BIKER_BOTH_GENDERS_FREEDOM_WHEELS": [
+            {
+                "value": 5710
+            }
+        ],
+        "BIKER_BOTH_GENDERS_MORBID_ARACHNID": [
+            {
+                "value": 4128
+            }
+        ],
+        "BIKER_BOTH_GENDERS_SKULL_OF_TAURUS": [
+            {
+                "value": 7378
+            }
+        ],
+        "BIKER_BOTH_GENDERS_RIP_MY_BROTHERS": [
+            {
+                "value": 8028
+            }
+        ],
+        "BIKER_BOTH_GENDERS_URBAN_STUNTER": [
+            {
+                "value": 3240
+            }
+        ],
+        "BIKER_BOTH_GENDERS_DEMON_CROSSBONES": [
+            {
+                "value": 7241
+            }
+        ],
+        "BIKER_BOTH_GENDERS_LADY_MORTALITY": [
+            {
+                "value": 5395
+            }
+        ],
+        "BIKER_BOTH_GENDERS_RIDE_OR_DIE": [
+            {
+                "value": 5834
+            }
+        ],
+        "BIKER_BOTH_GENDERS_MACABRE_TREE": [
+            {
+                "value": 5850
+            }
+        ],
+        "BIKER_BOTH_GENDERS_CLAWED_BEAST": [
+            {
+                "value": 10173
+            }
+        ],
+        "BIKER_BOTH_GENDERS_SKELETAL_CHOPPER": [
+            {
+                "value": 4973
+            }
+        ],
+        "BIKER_BOTH_GENDERS_GRUESOME_TALONS": [
+            {
+                "value": 6435
+            }
+        ],
+        "BIKER_BOTH_GENDERS_CRANIAL_ROSE": [
+            {
+                "value": 6334
+            }
+        ],
+        "BIKER_BOTH_GENDERS_FLAMING_REAPER": [
+            {
+                "value": 8905
+            }
+        ],
+        "BIKER_BOTH_GENDERS_WESTERN_INSIGNIA": [
+            {
+                "value": 6100
+            }
+        ],
+        "BIKER_BOTH_GENDERS_WESTERN_MC": [
+            {
+                "value": 6500
+            }
+        ],
+        "BIKER_BOTH_GENDERS_LIVE_TO_RIDE": [
+            {
+                "value": 9958
+            }
+        ],
+        "TATTOO_GOOD_LUCK": [
+            {
+                "value": 8418
+            }
+        ],
+        "TATTOO_AMERICAN_DREAM": [
+            {
+                "value": 7150
+            }
+        ],
+        "TATTOO_BAD_LUCK": [
+            {
+                "value": 4524
+            }
+        ],
+        "TATTOO_DUSK_RIDER": [
+            {
+                "value": 9438
+            }
+        ],
+        "TATTOO_BONE_WRENCH": [
+            {
+                "value": 6260
+            }
+        ],
+        "TATTOO_BROTHERS_FOR_LIFE": [
+            {
+                "value": 6377
+            }
+        ],
+        "TATTOO_GEAR_HEAD": [
+            {
+                "value": 5590
+            }
+        ],
+        "TATTOO_WESTERN_EAGLE": [
+            {
+                "value": 4976
+            }
+        ],
+        "TATTOO_EAGLE_EMBLEM": [
+            {
+                "value": 2850
+            }
+        ],
+        "TATTOO_BROTHERHOOD_OF_BIKES": [
+            {
+                "value": 6484
+            }
+        ],
+        "TATTOO_CHAIN_FIST": [
+            {
+                "value": 3757
+            }
+        ],
+        "TATTOO_SKULL_AND_SWORD": [
+            {
+                "value": 6045
+            }
+        ],
+        "TATTOO_SCORCHED_SOUL": [
+            {
+                "value": 8122
+            }
+        ],
+        "TATTOO_FTW": [
+            {
+                "value": 2535
+            }
+        ],
+        "TATTOO_GAS_GUZZLER": [
+            {
+                "value": 7118
+            }
+        ],
+        "TATTOO_AMERICAN_MADE": [
+            {
+                "value": 8853
+            }
+        ],
+        "TATTOO_NO_REGRETS": [
+            {
+                "value": 5408
+            }
+        ],
+        "TATTOO_GRIM_RIDER": [
+            {
+                "value": 5112
+            }
+        ],
+        "TATTOO_RIDE_FOREVER": [
+            {
+                "value": 4453
+            }
+        ],
+        "TATTOO_RIDE_FREE": [
+            {
+                "value": 7735
+            }
+        ],
+        "TATTOO_RIDE_HARD_DIE_FAST": [
+            {
+                "value": 4108
+            }
+        ],
+        "TATTOO_SKULL_CHAIN": [
+            {
+                "value": 3240
+            }
+        ],
+        "TATTOO_SNAKE_BIKE": [
+            {
+                "value": 8775
+            }
+        ],
+        "TATTOO_STFU": [
+            {
+                "value": 5805
+            }
+        ],
+        "TATTOO_THESE_COLORS_DONT_RUN": [
+            {
+                "value": 5714
+            }
+        ],
+        "TATTOO_UNFORGIVEN": [
+            {
+                "value": 5668
+            }
+        ],
+        "TATTOO_BONE_CRUISER": [
+            {
+                "value": 9724
+            }
+        ],
+        "TATTOO_LAUGHING_SKULL": [
+            {
+                "value": 9012
+            }
+        ],
+        "TATTOO_POISON_SCORPION": [
+            {
+                "value": 7147
+            }
+        ],
+        "TATTOO_MUM": [
+            {
+                "value": 6793
+            }
+        ],
+        "TATTOO_BIKER_MOUNT": [
+            {
+                "value": 5938
+            }
+        ],
+        "TATTOO_MUFFLER_HELMET": [
+            {
+                "value": 5460
+            }
+        ],
+        "TATTOO_REAPER_VULTURE": [
+            {
+                "value": 5190
+            }
+        ],
+        "WESTERN_STYLIZED": [
+            {
+                "value": 2681
+            }
+        ],
+        "TATTOO_FAGGIO": [
+            {
+                "value": 4157
+            }
+        ],
+        "TATTOO_WE_ARE_THE_MODS": [
+            {
+                "value": 4618
+            }
+        ],
+        "E4AF8BB3": [
+            {
+                "value": 4194304
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_0": [
+            {
+                "value": 1140903537
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_1": [
+            {
+                "value": 819603492
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_2": [
+            {
+                "value": 656151720
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_3": [
+            {
+                "value": -1787858611
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_4": [
+            {
+                "value": -1953735289
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_5": [
+            {
+                "value": 1609762389
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_6": [
+            {
+                "value": -835034398
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_7": [
+            {
+                "value": -351691644
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_8": [
+            {
+                "value": 1491073087
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_9": [
+            {
+                "value": 783197149
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_10": [
+            {
+                "value": 1576305536
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_11": [
+            {
+                "value": -935372780
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_14": [
+            {
+                "value": -1163543327
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_15": [
+            {
+                "value": -1531145969
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_16": [
+            {
+                "value": 385545610
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_17": [
+            {
+                "value": -384329280
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_18": [
+            {
+                "value": 1527446965
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_19": [
+            {
+                "value": 1147523179
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_20": [
+            {
+                "value": 916927726
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_21": [
+            {
+                "value": 568003414
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_22": [
+            {
+                "value": 1440872691
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_23": [
+            {
+                "value": -47691907
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_24": [
+            {
+                "value": 724509582
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_25": [
+            {
+                "value": 958545812
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_26": [
+            {
+                "value": 107698723
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_27": [
+            {
+                "value": 201876829
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_28": [
+            {
+                "value": -639336170
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_29": [
+            {
+                "value": -310990790
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_30": [
+            {
+                "value": -735677030
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_31": [
+            {
+                "value": -1527212225
+            }
+        ],
+        "INDIVIDUAL_TATTOO_SALE_HASH_LABELS_32": [
+            {
+                "value": 892710863
+            }
+        ],
+        "77DEE4B0": [
+            {
+                "value": -1001566712
+            }
+        ],
+        "F9AA6849": [
+            {
+                "value": 1864278956
+            }
+        ],
+        "DB632BBB": [
+            {
+                "value": -1588295657
+            }
+        ],
+        "CC90E86": [
+            {
+                "value": -745378670
+            }
+        ],
+        "FFBEF472": [
+            {
+                "value": 462912667
+            }
+        ],
+        "463181CA": [
+            {
+                "value": 114643735
+            }
+        ],
+        "1C682E38": [
+            {
+                "value": -260266394
+            }
+        ],
+        "B49D6144": [
+            {
+                "value": -356672792
+            }
+        ],
+        "8A4F0CA8": [
+            {
+                "value": -227923403
+            }
+        ],
+        "9198A3F": [
+            {
+                "value": 1519716805
+            }
+        ],
+        "FEE475D5": [
+            {
+                "value": -912398367
+            }
+        ],
+        "6DA7D35A": [
+            {
+                "value": -1218165906
+            }
+        ],
+        "6397BF3A": [
+            {
+                "value": 594549628
+            }
+        ],
+        "E60AC422": [
+            {
+                "value": 1234462660
+            }
+        ],
+        "BBA26F52": [
+            {
+                "value": 2137019227
+            }
+        ],
+        "2A78CCFD": [
+            {
+                "value": 890289853
+            }
+        ],
+        "201BB843": [
+            {
+                "value": 1998471915
+            }
+        ],
+        "2FD8A2F": [
+            {
+                "value": 763146153
+            }
+        ],
+        "F8B775A3": [
+            {
+                "value": 1665375030
+            }
+        ],
+        "2983573A": [
+            {
+                "value": -1496997031
+            }
+        ],
+        "1D843F3C": [
+            {
+                "value": 1607112024
+            }
+        ],
+        "4BDB1BDD": [
+            {
+                "value": -1851983620
+            }
+        ],
+        "42190859": [
+            {
+                "value": -1132343599
+            }
+        ],
+        "6E4EE0C4": [
+            {
+                "value": 1845637575
+            }
+        ],
+        "3D6A7F08": [
+            {
+                "value": -2089591627
+            }
+        ],
+        "6B8F5B51": [
+            {
+                "value": 419137479
+            }
+        ],
+        "614146B5": [
+            {
+                "value": 1608488334
+            }
+        ],
+        "493099A4": [
+            {
+                "value": -1859258326
+            }
+        ],
+        "95D332E8": [
+            {
+                "value": -304893580
+            }
+        ],
+        "A814D76B": [
+            {
+                "value": -1180418982
+            }
+        ],
+        "1FBAE496": [
+            {
+                "value": 648000
+            }
+        ],
+        "37E9CB7A": [
+            {
+                "value": 4000
+            }
+        ],
+        "6DD368B5": [
+            {
+                "value": 1000
+            }
+        ],
+        "933DDE2B": [
+            {
+                "value": 6000
+            }
+        ],
+        "7109BE56": [
+            {
+                "value": 1200000
+            }
+        ],
+        "5F428C82": [
+            {
+                "value": 2000
             }
         ],
         "5589583D": [
@@ -7040,7 +6853,7 @@
         ],
         "TUNABLE_VERSION": [
             {
-                "value": 285
+                "value": 290
             }
         ],
         "YOUTUBE_ENABLED": [
