@@ -4,6 +4,27 @@
     "poolSize": 2000,
     "bonus": [
         [
+            -200117532,
+            -216238287,
+            -1489144039,
+            1152990253,
+            -216697583
+        ],
+        [
+            -958302176,
+            -1043366432,
+            -1980072735,
+            1984575209,
+            -1041858603
+        ],
+        [
+            815149717,
+            933181252,
+            2091464604,
+            2151513180,
+            932263264
+        ],
+        [
             1865232570,
             1727609808,
             -132423385,
@@ -1767,37 +1788,37 @@
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_1": [
             {
-                "value": 314482639
+                "value": 1886197979
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_1": [
             {
-                "value": 368153796
+                "value": 147500323
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_1": [
             {
-                "value": 767538664
+                "value": 707372225
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_1": [
             {
-                "value": -231349539
+                "value": 1348719285
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_1": [
             {
-                "value": 1087858460
+                "value": 680699145
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_1": [
             {
-                "value": -1399969000
+                "value": -2097601644
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_1": [
             {
-                "value": 1622448247
+                "value": 252231768
             }
         ],
         "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_1": [
@@ -1927,77 +1948,77 @@
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_3": [
             {
-                "value": -1999058225
+                "value": 767538664
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_3": [
             {
-                "value": 2004371279
+                "value": -1999058225
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_3": [
             {
-                "value": 1396140656
+                "value": 2004371279
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_3": [
             {
-                "value": 2038494967
+                "value": 1396140656
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_3": [
             {
-                "value": -639547037
+                "value": 2038494967
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_3": [
             {
-                "value": -1580608396
+                "value": 314482639
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_3": [
             {
-                "value": 1020764659
+                "value": -639547037
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_7_PROFESSIONAL_3": [
             {
-                "value": -1250521980
+                "value": -1580608396
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_8_PROFESSIONAL_3": [
             {
-                "value": 767908930
+                "value": 1020764659
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_9_PROFESSIONAL_3": [
             {
-                "value": 2031238559
+                "value": -1250521980
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_10_PROFESSIONAL_3": [
             {
-                "value": 1423559303
+                "value": 368153796
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_11_PROFESSIONAL_3": [
             {
-                "value": -30257399
+                "value": 767908930
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_12_PROFESSIONAL_3": [
             {
-                "value": 0
+                "value": 2031238559
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_13_PROFESSIONAL_3": [
             {
-                "value": 0
+                "value": 1423559303
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_14_PROFESSIONAL_3": [
             {
-                "value": 0
+                "value": -30257399
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_15_PROFESSIONAL_3": [
@@ -2042,7 +2063,7 @@
         ],
         "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_3": [
             {
-                "value": 12
+                "value": 15
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_4": [
