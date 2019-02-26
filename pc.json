@@ -364,6 +364,21 @@
         ]
     ],
     "tunables": {
+        "EXPECTEDBGSNUMBERBGSK": [
+            {
+                "value": 404956758
+            }
+        ],
+        "POSIXTIMEBGSK": [
+            {
+                "value": 1551193815
+            }
+        ],
+        "DISABLEWHENONMISSIONBGSK": [
+            {
+                "value": true
+            }
+        ],
         "BDA4EA22": [
             {
                 "value": true
