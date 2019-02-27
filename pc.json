@@ -364,6 +364,16 @@
         ]
     ],
     "tunables": {
+        "1691925D": [
+            {
+                "value": true
+            }
+        ],
+        "38DCB3B4": [
+            {
+                "value": true
+            }
+        ],
         "EXPECTEDBGSNUMBERBGSK": [
             {
                 "value": 404956758
@@ -3601,7 +3611,7 @@
         ],
         "TUNABLE_VERSION": [
             {
-                "value": 700
+                "value": 705
             }
         ],
         "YOUTUBE_ENABLED": [
