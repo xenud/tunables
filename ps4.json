@@ -168,6 +168,36 @@
         ]
     ],
     "tunables": {
+        "F8BF7B2A": [
+            {
+                "value": 0
+            }
+        ],
+        "904B26A4": [
+            {
+                "value": 0
+            }
+        ],
+        "5B469F2D": [
+            {
+                "value": 0
+            }
+        ],
+        "CCF8F4F3": [
+            {
+                "value": 0
+            }
+        ],
+        "604FE3F": [
+            {
+                "value": 0
+            }
+        ],
+        "AEE153BF": [
+            {
+                "value": true
+            }
+        ],
         "BDA4EA22": [
             {
                 "value": true
@@ -5065,7 +5095,7 @@
         ],
         "TUNABLE_VERSION": [
             {
-                "value": 710
+                "value": 711
             }
         ],
         "YOUTUBE_ENABLED": [
