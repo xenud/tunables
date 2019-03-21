@@ -4,13 +4,87 @@
     "poolSize": 2000,
     "contentlists": [
         [
-            448017251,
-            -911292833,
-            635041735,
-            -1249801701,
-            -390281989,
-            -237152520,
-            172848409
+            -1946912507,
+            -901024591,
+            -1508205741,
+            -1244328718,
+            -1467265123,
+            1196137704,
+            436053958,
+            -593717353,
+            -1405227191,
+            647802565,
+            523910364,
+            -1691501263,
+            627468514,
+            -895707132,
+            -854934627,
+            1899920989,
+            -1042629233,
+            1737223162,
+            460417197,
+            50782770,
+            -1977251312,
+            1703484625,
+            205513612,
+            -950489515,
+            -1094634062,
+            1014062999,
+            627690245,
+            1689266854,
+            -592700745,
+            -1720575676,
+            -2072019775,
+            1282087080,
+            -1681695804,
+            2132726654,
+            -1169398770,
+            574110492,
+            -86634142,
+            385582451,
+            -930300631,
+            722949790,
+            2057454442,
+            1680964176,
+            -449886057,
+            1728598703,
+            1260035809,
+            -1244647140,
+            1148769436,
+            1908053510,
+            -2022946392,
+            -1214982391,
+            112830602,
+            -1740420091,
+            1537816377,
+            462099877,
+            -1908327849,
+            879680961,
+            -1026785630,
+            -1618909542,
+            -676464750,
+            1256981484,
+            -1567049612,
+            -1109691839,
+            1130630001,
+            1302517978,
+            -826221878,
+            974386143,
+            2146189171,
+            676248752,
+            1766515238,
+            320187430,
+            900286614,
+            841234355,
+            -1399163460,
+            1831595552,
+            -623081873,
+            -479609350,
+            1284922669,
+            -1917247554,
+            1077812914,
+            -1466964783,
+            -159662140
         ]
     ],
     "tunables": {
@@ -381,7 +455,7 @@
         ],
         "BOOT_BUTTON_QUICK_MATCH_TYPE": [
             {
-                "value": 206
+                "value": 184
             }
         ],
         "NPCFLOWINVITEINTERVALINSECONDS": [
@@ -1201,7 +1275,7 @@
         ],
         "74A7E7E1": [
             {
-                "value": 6
+                "value": 7
             }
         ],
         "COLLISION_OFF_IN_PREMIUM_RACES": [
@@ -1216,237 +1290,237 @@
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_7_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_8_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_9_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_10_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_11_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_12_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_13_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_14_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_15_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_16_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_17_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_18_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_19_PROFESSIONAL_0": [
             {
-                "value": 911666870
+                "value": 1468131113
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_0_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_1_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_2_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_3_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_4_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_5_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_6_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_7_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_8_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_9_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_10_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_11_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_12_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_13_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_14_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_15_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_16_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_17_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_18_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_VEH_CLASS_BS_ID_19_PROFESSIONAL": [
             {
-                "value": 989294410
+                "value": 8
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_1": [
             {
-                "value": 1554106869
+                "value": 1886197979
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_1": [
             {
-                "value": -1672376118
+                "value": 147500323
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_1": [
             {
-                "value": 879445413
+                "value": 707372225
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_1": [
             {
-                "value": -511932566
+                "value": 1348719285
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_1": [
             {
-                "value": -1534863254
+                "value": 680699145
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_1": [
             {
-                "value": -967987750
+                "value": -2097601644
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_1": [
             {
-                "value": -1248780547
+                "value": 252231768
             }
         ],
         "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_1": [
@@ -1696,102 +1770,102 @@
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_4": [
             {
-                "value": 548823713
+                "value": 1554106869
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_4": [
             {
-                "value": 783280626
+                "value": 548823713
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_4": [
             {
-                "value": -1515332454
+                "value": 783280626
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_4": [
             {
-                "value": -123383311
+                "value": -1515332454
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_4": [
             {
-                "value": 79175228
+                "value": -511932566
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_4": [
             {
-                "value": 1305671303
+                "value": -123383311
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_4": [
             {
-                "value": -1039908503
+                "value": 79175228
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_7_PROFESSIONAL_4": [
             {
-                "value": 1366944232
+                "value": 1305671303
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_8_PROFESSIONAL_4": [
             {
-                "value": -1925176961
+                "value": -1248780547
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_9_PROFESSIONAL_4": [
             {
-                "value": 1395125606
+                "value": -1039908503
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_10_PROFESSIONAL_4": [
             {
-                "value": 837478845
+                "value": 1366944232
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_11_PROFESSIONAL_4": [
             {
-                "value": 1736385937
+                "value": -1925176961
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_12_PROFESSIONAL_4": [
             {
-                "value": 892462550
+                "value": 879445413
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_13_PROFESSIONAL_4": [
             {
-                "value": 917563037
+                "value": 1395125606
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_14_PROFESSIONAL_4": [
             {
-                "value": -164376077
+                "value": 837478845
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_15_PROFESSIONAL_4": [
             {
-                "value": 0
+                "value": 1736385937
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_16_PROFESSIONAL_4": [
             {
-                "value": 0
+                "value": -1672376118
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_17_PROFESSIONAL_4": [
             {
-                "value": 0
+                "value": 892462550
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_18_PROFESSIONAL_4": [
             {
-                "value": 0
+                "value": 917563037
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_19_PROFESSIONAL_4": [
             {
-                "value": 0
+                "value": -164376077
             }
         ],
         "FM_CORONA_PLAYLIST_PROFFESIONAL_BLIPNUMBER_5": [
@@ -1811,7 +1885,7 @@
         ],
         "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_4": [
             {
-                "value": 15
+                "value": 20
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_5": [
@@ -2939,614 +3013,164 @@
                 "value": true
             }
         ],
-        "B17107D2": [
-            {
-                "value": 30000
-            }
-        ],
-        "34E1348D": [
-            {
-                "value": 2000
-            }
-        ],
-        "885E6761": [
-            {
-                "value": 30000
-            }
-        ],
-        "E6FC0D58": [
-            {
-                "value": 2000
-            }
-        ],
-        "B8F79C12": [
-            {
-                "value": 50000
-            }
-        ],
-        "A64CEE75": [
-            {
-                "value": 6000
-            }
-        ],
-        "A59C2914": [
-            {
-                "value": 6000
-            }
-        ],
-        "25A70FCB": [
-            {
-                "value": 1200
-            }
-        ],
-        "BA02FE": [
-            {
-                "value": 1000
-            }
-        ],
-        "AA253CB3": [
-            {
-                "value": 100
-            }
-        ],
-        "AC4EAFB3": [
-            {
-                "value": 1000
-            }
-        ],
-        "FD7A1177": [
-            {
-                "value": 200
-            }
-        ],
-        "F6253C81": [
-            {
-                "value": 20000
-            }
-        ],
-        "2551460B": [
-            {
-                "value": 1000
-            }
-        ],
-        "2A49BAC5": [
-            {
-                "value": 10000
-            }
-        ],
-        "1A865A7C": [
-            {
-                "value": 400
-            }
-        ],
-        "6DE6CF3A": [
-            {
-                "value": 0.02
-            }
-        ],
-        "98AC0CD9": [
-            {
-                "value": 0.002
-            }
-        ],
-        "D4640DA": [
-            {
-                "value": 20000
-            }
-        ],
-        "9D8F69C5": [
-            {
-                "value": 2000
-            }
-        ],
-        "12CAD0CF": [
-            {
-                "value": 20000
-            }
-        ],
-        "A332FE88": [
-            {
-                "value": 1000
-            }
-        ],
-        "911AD1D8": [
-            {
-                "value": 20000
-            }
-        ],
-        "DA613F9B": [
-            {
-                "value": 1000
-            }
-        ],
-        "7E7CD736": [
-            {
-                "value": 60000
-            }
-        ],
-        "C9746691": [
-            {
-                "value": 4000
-            }
-        ],
-        "17464677": [
-            {
-                "value": 40000
-            }
-        ],
-        "7AF42551": [
-            {
-                "value": 4000
-            }
-        ],
-        "37E9CB7A": [
-            {
-                "value": 4000
-            }
-        ],
-        "6DD368B5": [
-            {
-                "value": 1000
-            }
-        ],
-        "933DDE2B": [
-            {
-                "value": 6000
-            }
-        ],
-        "7109BE56": [
-            {
-                "value": 1200000
-            }
-        ],
-        "5F428C82": [
-            {
-                "value": 2000
-            }
-        ],
-        "BIKER_SELL_PARTICIPATION_CASH": [
-            {
-                "value": 1000
-            }
-        ],
-        "BIKER_FAKEIDS_PRODUCT_VALUE": [
-            {
-                "value": 2000
-            }
-        ],
-        "BIKER_COUNTERCASH_PRODUCT_VALUE": [
-            {
-                "value": 7000
-            }
-        ],
-        "BIKER_CRACK_PRODUCT_VALUE": [
-            {
-                "value": 40000
-            }
-        ],
-        "BIKER_METH_PRODUCT_VALUE": [
-            {
-                "value": 17000
-            }
-        ],
-        "BIKER_WEED_PRODUCT_VALUE": [
-            {
-                "value": 3000
-            }
-        ],
-        "BIKER_FAKEIDS_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
-            {
-                "value": 400
-            }
-        ],
-        "BIKER_COUNTERCASH_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
-            {
-                "value": 1400
-            }
-        ],
-        "BIKER_CRACK_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
-            {
-                "value": 8000
-            }
-        ],
-        "BIKER_METH_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
-            {
-                "value": 3400
-            }
-        ],
-        "BIKER_WEED_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
-            {
-                "value": 600
-            }
-        ],
-        "BIKER_FAKEIDS_PRODUCT_VALUE_STAFF_UPGRADE": [
-            {
-                "value": 400
-            }
-        ],
-        "BIKER_COUNTERCASH_PRODUCT_VALUE_STAFF_UPGRADE": [
-            {
-                "value": 1400
-            }
-        ],
-        "BIKER_CRACK_PRODUCT_VALUE_STAFF_UPGRADE": [
-            {
-                "value": 8000
-            }
-        ],
-        "BIKER_METH_PRODUCT_VALUE_STAFF_UPGRADE": [
-            {
-                "value": 3400
-            }
-        ],
-        "BIKER_WEED_PRODUCT_VALUE_STAFF_UPGRADE": [
-            {
-                "value": 600
-            }
-        ],
-        "46D75522": [
-            {
-                "value": 60000
-            }
-        ],
-        "EF2C364C": [
-            {
-                "value": 18000
-            }
-        ],
-        "4CE75898": [
-            {
-                "value": true
-            }
-        ],
-        "B671E054": [
-            {
-                "value": true
-            }
-        ],
-        "43E39B9E": [
-            {
-                "value": 84000
-            }
-        ],
-        "5C23D5AC": [
-            {
-                "value": 63000
-            }
-        ],
-        "BE5297C6": [
-            {
-                "value": 2047500
-            }
-        ],
-        "BEA52FF0": [
-            {
-                "value": 2723175
-            }
-        ],
-        "BIKER_WEBSITE_SHITZU_HAKUCHOU_DRAG": [
-            {
-                "value": 683200
-            }
-        ],
-        "EA580D70": [
-            {
-                "value": 249200
-            }
-        ],
-        "DECB5B2C": [
-            {
-                "value": 10500
-            }
-        ],
-        "BIKER_WEBSITE_NAGASAKI_SHOTARO": [
-            {
-                "value": 1335000
-            }
-        ],
-        "C2AD28AE": [
-            {
-                "value": 247500
-            }
-        ],
-        "84973F26": [
-            {
-                "value": 236000
-            }
-        ],
-        "83F583C9": [
-            {
-                "value": 227500
-            }
-        ],
-        "B88384CB": [
-            {
-                "value": 224500
-            }
-        ],
-        "3C37C762": [
-            {
-                "value": 210000
-            }
-        ],
-        "3BDDBD9C": [
-            {
-                "value": 197500
-            }
-        ],
-        "27772EDF": [
-            {
-                "value": 182500
-            }
-        ],
-        "555B01B0": [
-            {
-                "value": 125000
-            }
-        ],
-        "CC45C5A2": [
-            {
-                "value": 121000
-            }
-        ],
-        "6EE4541C": [
-            {
-                "value": 112500
-            }
-        ],
-        "A201001A": [
-            {
-                "value": 105000
-            }
-        ],
-        "185B2ACE": [
+        "BD5B72": [
             {
                 "value": 100000
             }
         ],
-        "EFF52C44": [
+        "A89CD58B": [
             {
-                "value": 40000
+                "value": 10000
             }
         ],
-        "A1B50FC5": [
+        "C8A6ADEA": [
             {
-                "value": 43250
+                "value": 2000
             }
         ],
-        "201A8C8E": [
+        "A0884A01": [
             {
-                "value": 46500
+                "value": 400
             }
         ],
-        "1BE0841A": [
+        "IMPEXP_SELL_BUYER1_OFFER_HARD": [
             {
-                "value": 49750
+                "value": 60000
             }
         ],
-        "4C8E6575": [
+        "IMPEXP_SELL_BUYER1_OFFER_MED": [
             {
-                "value": 53000
+                "value": 37500
             }
         ],
-        "36953983": [
-            {
-                "value": 56250
-            }
-        ],
-        "5923FEA4": [
-            {
-                "value": 59500
-            }
-        ],
-        "88F6DE49": [
-            {
-                "value": 66000
-            }
-        ],
-        "25951787": [
-            {
-                "value": 75000
-            }
-        ],
-        "DA058DA4": [
-            {
-                "value": 37000
-            }
-        ],
-        "C87DEA95": [
-            {
-                "value": 69000
-            }
-        ],
-        "1A0E2399": [
+        "IMPEXP_SELL_BUYER1_OFFER_EASY": [
             {
                 "value": 22500
             }
         ],
-        "C34AF60C": [
+        "IMPEXP_COLLECTION_BONUS_METAL": [
             {
-                "value": 49000
+                "value": 75000
             }
         ],
-        "9789E7D4": [
+        "IMPEXP_COLLECTION_BONUS_TROPICAL": [
             {
-                "value": 40500
+                "value": 75000
             }
         ],
-        "256E8397": [
+        "IMPEXP_COLLECTION_BONUS_ELEGANT": [
             {
-                "value": 82000
+                "value": 75000
             }
         ],
-        "95BBD5F8": [
+        "IMPEXP_COLLECTION_BONUS_RALLY": [
             {
-                "value": 50000
+                "value": 75000
             }
         ],
-        "B4466F32": [
+        "IMPEXP_COLLECTION_BONUS_PRETTY": [
             {
-                "value": 25000
+                "value": 52500
             }
         ],
-        "E683D3AC": [
+        "IMPEXP_COLLECTION_BONUS_DECLASSE": [
             {
-                "value": 25750
+                "value": 52500
             }
         ],
-        "D8A937F7": [
+        "IMPEXP_COLLECTION_BONUS_DANGEROUS": [
             {
-                "value": 26500
+                "value": 52500
             }
         ],
-        "CB1A007": [
+        "IMPEXP_COLLECTION_BONUS_MATTE": [
             {
-                "value": 27250
+                "value": 52500
             }
         ],
-        "FAEBFC7C": [
+        "IMPEXP_COLLECTION_BONUS_MUSCULAR": [
             {
-                "value": 28000
+                "value": 30000
             }
         ],
-        "2D2F6102": [
+        "IMPEXP_COLLECTION_BONUS_WEALTHY": [
             {
-                "value": 28750
+                "value": 30000
             }
         ],
-        "1FE0C665": [
+        "4AE28307": [
             {
-                "value": 29500
+                "value": 1695000
             }
         ],
-        "333B6D1A": [
+        "2FA2D9D4": [
             {
-                "value": 30250
+                "value": 1509000
             }
         ],
-        "64F9D096": [
+        "BUSINESS_VEHICLES_ZENTORNO": [
             {
-                "value": 31000
+                "value": 435000
             }
         ],
-        "CB9F6255": [
+        "EXEC1_PROGEN_X80_PROTO": [
             {
-                "value": 62500
+                "value": 1620000
             }
         ],
-        "BD10163E": [
+        "4C7FB019": [
             {
-                "value": 25000
+                "value": 921000
             }
         ],
-        "E1E36B04": [
+        "210A7AA0": [
             {
-                "value": 160000
+                "value": 1077000
             }
         ],
-        "9520F99F": [
+        "EXEC1_OFFICE1_LOMBANK": [
             {
-                "value": 265000
+                "value": 1550000
             }
         ],
-        "BIKER_BUSINESS_PALETO_BAY_DOCUMENT_FORGERY_OFFICE": [
+        "EXEC1_OFFICE2_MAZE1": [
             {
-                "value": 366000
+                "value": 500000
             }
         ],
-        "BIKER_BUSINESS_CITY_DOCUMENT_FORGERY_OFFICE": [
+        "EXEC1_OFFICE3_ARCADIUS": [
             {
-                "value": 617500
+                "value": 1125000
             }
         ],
-        "BIKER_BUSINESS_COUNTRYSIDE_DOCUMENT_FORGERY_OFFICE": [
+        "EXEC1_OFFICE4_MAZE2": [
             {
-                "value": 325000
+                "value": 2000000
             }
         ],
-        "BIKER_BUSINESS_ELYSIAN_DOCUMENT_FORGERY_OFFICE": [
+        "A1F0F088": [
             {
-                "value": 487500
+                "value": 575000
             }
         ],
-        "BIKER_BUSINESS_PALETO_BAY_COUNTERFEIT_CASH_FACTOY": [
+        "B771730": [
             {
-                "value": 475800
+                "value": 427500
             }
         ],
-        "BIKER_BUSINESS_CITY_COUNTERFEIT_CASH_FACTOY": [
+        "562EE153": [
             {
-                "value": 802750
+                "value": 372500
             }
         ],
-        "BIKER_BUSINESS_COUNTRYSIDE_COUNTERFEIT_CASH_FACTOY": [
+        "B170E09B": [
             {
-                "value": 422500
+                "value": 450000
             }
         ],
-        "BIKER_BUSINESS_ELYSIAN_COUNTERFEIT_CASH_FACTOY": [
+        "E864526E": [
             {
-                "value": 633750
-            }
-        ],
-        "BIKER_BUSINESS_PALETO_BAY_COCAINE_LOCKUP": [
-            {
-                "value": 549000
-            }
-        ],
-        "BIKER_BUSINESS_CITY_COCAINE_LOCKUP": [
-            {
-                "value": 926250
-            }
-        ],
-        "BIKER_BUSINESS_COUNTRYSIDE_COCAINE_LOCKUP": [
-            {
-                "value": 487500
-            }
-        ],
-        "BIKER_BUSINESS_ELYSIAN_COCAINE_LOCKUP": [
-            {
-                "value": 731250
-            }
-        ],
-        "BIKER_BUSINESS_PALETO_BAY_METH_LAB": [
-            {
-                "value": 512400
-            }
-        ],
-        "BIKER_BUSINESS_CITY_METH_LAB": [
-            {
-                "value": 864500
-            }
-        ],
-        "BIKER_BUSINESS_COUNTRYSIDE_METH_LAB": [
-            {
-                "value": 455000
-            }
-        ],
-        "BIKER_BUSINESS_ELYSIAN_METH_LAB": [
-            {
-                "value": 682500
-            }
-        ],
-        "BIKER_BUSINESS_PALETO_BAY_WEED_FARM": [
-            {
-                "value": 402600
-            }
-        ],
-        "BIKER_BUSINESS_CITY_WEED_FARM": [
-            {
-                "value": 679250
-            }
-        ],
-        "BIKER_BUSINESS_COUNTRYSIDE_WEED_FARM": [
-            {
-                "value": 357500
-            }
-        ],
-        "BIKER_BUSINESS_ELYSIAN_WEED_FARM": [
-            {
-                "value": 536250
+                "value": true
             }
         ],
         "5589583D": [
