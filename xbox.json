@@ -4,29 +4,30 @@
     "poolSize": 2000,
     "contentlists": [
         [
-            1688101364,
-            -550323676,
-            1757476594,
-            1783348696,
-            1935151844,
-            -2082215830,
-            1255740163
-        ],
-        [
-            -1110113086,
-            -1478961683,
-            -1385444810,
-            1120209088,
-            -326744801,
-            -20560501,
-            40047286,
-            -1020823163,
-            1900950166,
-            -620639513,
-            1135382911,
-            -1398812135,
-            -484390118,
-            1264161214
+            -1783096842,
+            117046863,
+            -1472495046,
+            701402291,
+            -674157465,
+            -1553450503,
+            453218313,
+            1402727652,
+            -222490443,
+            1088485257,
+            -734381007,
+            -494913080,
+            1522182131,
+            438693752,
+            628786438,
+            366032970,
+            826041220,
+            472855495,
+            1688755087,
+            -876573993,
+            224746124,
+            1221029931,
+            -1511180115,
+            -1681918704
         ]
     ],
     "tunables": {
@@ -65,14 +66,14 @@
                 "value": true
             }
         ],
-        "C981EFA6": [
-            {
-                "value": 1
-            }
-        ],
         "BFF7DFEE": [
             {
                 "value": 1538488800
+            }
+        ],
+        "C981EFA6": [
+            {
+                "value": 1
             }
         ],
         "EBB0FBD6": [
@@ -402,7 +403,7 @@
         ],
         "BOOT_BUTTON_QUICK_MATCH_TYPE": [
             {
-                "value": 206
+                "value": 184
             }
         ],
         "NPCFLOWINVITEINTERVALINSECONDS": [
@@ -1137,7 +1138,7 @@
         ],
         "74A7E7E1": [
             {
-                "value": 9
+                "value": 10
             }
         ],
         "COLLISION_OFF_IN_PREMIUM_RACES": [
@@ -1352,37 +1353,37 @@
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_1": [
             {
-                "value": -956740426
+                "value": 1886197979
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_1_PROFESSIONAL_1": [
             {
-                "value": -2010649512
+                "value": 147500323
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_2_PROFESSIONAL_1": [
             {
-                "value": 1715013866
+                "value": 707372225
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_3_PROFESSIONAL_1": [
             {
-                "value": -2139531222
+                "value": 1348719285
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_4_PROFESSIONAL_1": [
             {
-                "value": -1002504182
+                "value": 680699145
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_5_PROFESSIONAL_1": [
             {
-                "value": 1753312343
+                "value": -2097601644
             }
         ],
         "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_6_PROFESSIONAL_1": [
             {
-                "value": -1376235962
+                "value": 252231768
             }
         ],
         "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_1": [
@@ -2925,6 +2926,11 @@
                 "value": true
             }
         ],
+        "CAA53575": [
+            {
+                "value": 2
+            }
+        ],
         "VEHICLEWEBSITE_SALE": [
             {
                 "value": true
@@ -2935,369 +2941,574 @@
                 "value": true
             }
         ],
-        "92EB29ED": [
-            {
-                "value": 3000
-            }
-        ],
-        "E2024F6C": [
-            {
-                "value": 2000
-            }
-        ],
-        "23CA894B": [
-            {
-                "value": 3000
-            }
-        ],
-        "F954AF51": [
-            {
-                "value": 1000
-            }
-        ],
-        "2E449A80": [
-            {
-                "value": 200
-            }
-        ],
-        "30AC38FB": [
-            {
-                "value": 10000
-            }
-        ],
-        "5899703B": [
-            {
-                "value": 2000
-            }
-        ],
-        "B81C73B0": [
-            {
-                "value": 2000
-            }
-        ],
-        "17FE0D4": [
-            {
-                "value": 60000
-            }
-        ],
-        "E30DA33E": [
-            {
-                "value": 225000
-            }
-        ],
-        "C6EB36A5": [
-            {
-                "value": 33750
-            }
-        ],
-        "29D25E23": [
-            {
-                "value": 33750
-            }
-        ],
-        "A60620D5": [
+        "EA7910CB": [
             {
                 "value": true
             }
         ],
-        "89F2E01A": [
+        "IMPEXP_SPECTER_BASE_PRICE": [
             {
-                "value": 121500
+                "value": 419300
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_0": [
+        "D0BF5E57": [
             {
-                "value": 2370534026
+                "value": 34650
             }
         ],
-        "F7247647": [
+        "485A4BBA": [
             {
-                "value": 1911210
+                "value": 34650
             }
         ],
-        "2B7B683D": [
+        "4C328D85": [
             {
-                "value": 1437000
+                "value": 25987
             }
         ],
-        "BC64AC10": [
+        "14046B7C": [
             {
-                "value": 1395000
+                "value": 157500
             }
         ],
-        "3EF4DEE1": [
+        "87EEDD55": [
             {
-                "value": 1855350
+                "value": 157500
             }
         ],
-        "A4B6388D": [
+        "B24C2AB7": [
             {
-                "value": 48600
+                "value": 70000
             }
         ],
-        "734BA22B": [
+        "18591E2": [
             {
-                "value": 900000
+                "value": 22750
             }
         ],
-        "C3E94B21": [
+        "75C2F984": [
             {
-                "value": 735000
+                "value": 234000
             }
         ],
-        "55D4BC2E": [
+        "A618556": [
             {
-                "value": 840000
+                "value": 111000
             }
         ],
-        "1F96F4F0": [
+        "5FC9DB0F": [
             {
-                "value": 87000
+                "value": 201000
             }
         ],
-        "6D53C29E": [
+        "D650E17D": [
             {
-                "value": 192000
+                "value": 222000
             }
         ],
-        "F0670A6A": [
+        "4CD28EDB": [
+            {
+                "value": 240000
+            }
+        ],
+        "MOD_SHOP_UPGRADE_DECLASSE_VOODOO_CUSTOM": [
+            {
+                "value": 252000
+            }
+        ],
+        "B4F9DC1A": [
+            {
+                "value": 477000
+            }
+        ],
+        "UPGRADE_BRAVADO_BANSHEE_900R_UPGRADE": [
+            {
+                "value": 339000
+            }
+        ],
+        "CAR_MODS_WILLARD_FACTION_CUSTOM_DONK_UPGRADE": [
+            {
+                "value": 417000
+            }
+        ],
+        "F8215826": [
+            {
+                "value": 198000
+            }
+        ],
+        "A151659B": [
+            {
+                "value": 294000
+            }
+        ],
+        "E7E13DC8": [
+            {
+                "value": 249000
+            }
+        ],
+        "6B43CFE7": [
+            {
+                "value": 225000
+            }
+        ],
+        "A0067B1D": [
+            {
+                "value": 144000
+            }
+        ],
+        "IMPEXP_ITALIGTB2_UPGRADE_PRICE": [
+            {
+                "value": 297000
+            }
+        ],
+        "IMPEXP_SPECTER2_UPGRADE_PRICE": [
+            {
+                "value": 151200
+            }
+        ],
+        "IMPEXP_NERO2_UPGRADE_PRICE": [
+            {
+                "value": 363000
+            }
+        ],
+        "IMPEXP_ELEGY_UPGRADE_PRICE": [
+            {
+                "value": 542400
+            }
+        ],
+        "IMPEXP_COMET3_UPGRADE_PRICE": [
+            {
+                "value": 387000
+            }
+        ],
+        "IMPEXP_FCR2_UPGRADE_PRICE": [
+            {
+                "value": 117600
+            }
+        ],
+        "IMPEXP_DIABLOUS2_UPGRADE_PRICE": [
             {
                 "value": 147000
             }
         ],
-        "46DF9519": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_0": [
             {
-                "value": 117000
+                "value": -482719877
             }
         ],
-        "61DF3F12": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_1": [
             {
-                "value": 573000
+                "value": 1074745671
             }
         ],
-        "1F097F88": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_2": [
             {
-                "value": 69000
+                "value": 1093792632
             }
         ],
-        "F9719C1": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_3": [
             {
-                "value": 69000
+                "value": 196747873
             }
         ],
-        "277835D0": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_4": [
             {
-                "value": 69000
+                "value": -2022483795
             }
         ],
-        "94D79A4C": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_5": [
             {
-                "value": 69000
+                "value": -757735410
             }
         ],
-        "ADEA6898": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_6": [
             {
-                "value": 69000
+                "value": 1790834270
             }
         ],
-        "B31A124B": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_7": [
             {
-                "value": 69000
+                "value": 227291787
             }
         ],
-        "9706F691": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_8": [
             {
-                "value": 69000
+                "value": -1361687965
             }
         ],
-        "D38F62C1": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_9": [
             {
-                "value": 69000
+                "value": -1790546981
             }
         ],
-        "2867C6B6": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_10": [
             {
-                "value": 69000
+                "value": 1896491931
             }
         ],
-        "A144B8AC": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_11": [
             {
-                "value": 69000
+                "value": -2040426790
             }
         ],
-        "CEC7A898": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_12": [
             {
-                "value": 69000
+                "value": 523724515
             }
         ],
-        "1CC52056": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_13": [
             {
-                "value": 69000
+                "value": -295689028
             }
         ],
-        "33BFAD01": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_14": [
             {
-                "value": 69000
+                "value": 633712403
             }
         ],
-        "BF0B1853": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_15": [
             {
-                "value": 69000
+                "value": -2039755226
             }
         ],
-        "607E320B": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_16": [
             {
-                "value": 1662500
+                "value": -1126264336
             }
         ],
-        "D5C8AD4": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_17": [
             {
-                "value": 1603000
+                "value": 223258115
             }
         ],
-        "CDC26B12": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_18": [
             {
-                "value": 1543500
+                "value": 1119641113
             }
         ],
-        "10403C38": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_19": [
             {
-                "value": 1484000
+                "value": -1797613329
             }
         ],
-        "64394471": [
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_20": [
             {
-                "value": 1424500
+                "value": -899509638
             }
         ],
-        "6CFDA02F": [
+        "4E091A37": [
             {
-                "value": 1365000
+                "value": 18000
             }
         ],
-        "BE083224": [
+        "7B9EEC75": [
             {
-                "value": 1225000
+                "value": 45000
             }
         ],
-        "F770E070": [
+        "A79A0FC9": [
             {
-                "value": 1155000
+                "value": 75000
             }
         ],
-        "B18C971F": [
+        "2FCF582B": [
             {
-                "value": 1085000
+                "value": 120000
             }
         ],
-        "FF20771": [
+        "A38DA133": [
             {
-                "value": 1015000
+                "value": 150000
             }
         ],
-        "C1771A10": [
+        "F8FE075B": [
             {
-                "value": 815500
+                "value": 165000
             }
         ],
-        "F995FA79": [
+        "182F8F84": [
             {
-                "value": 122500
+                "value": 174000
             }
         ],
-        "305367F3": [
+        "969F12E3": [
             {
-                "value": 150500
+                "value": 18000
             }
         ],
-        "317C6A39": [
+        "CE278F80": [
             {
-                "value": 203000
+                "value": 18000
             }
         ],
-        "C40EB9E": [
+        "FA2A3944": [
             {
-                "value": 185500
+                "value": 18000
             }
         ],
-        "84DCAF6A": [
+        "DEFA0169": [
             {
-                "value": 518000
+                "value": 15000
             }
         ],
-        "B8A70220": [
+        "EDAEA5A0": [
             {
-                "value": 35000
+                "value": 10800
             }
         ],
-        "E2950C56": [
+        "DDF055A3": [
             {
-                "value": 73500
+                "value": 16920
             }
         ],
-        "64511B81": [
+        "6FAEF1F6": [
             {
-                "value": 122500
+                "value": 5040
             }
         ],
-        "488DF6A5": [
+        "5E519531": [
             {
-                "value": 59500
+                "value": 5400
             }
         ],
-        "9B169BF4": [
+        "726046B5": [
             {
-                "value": 84000
+                "value": 5400
             }
         ],
-        "123E4716": [
+        "4BCA1307": [
             {
-                "value": 808500
+                "value": 5400
             }
         ],
-        "6A7E1AAB": [
+        "D857275E": [
             {
-                "value": 245700
+                "value": 5040
             }
         ],
-        "8E01F48A": [
+        "759A8567": [
             {
-                "value": 418950
+                "value": 5400
             }
         ],
-        "17E70345": [
+        "77834BF5": [
             {
-                "value": 1067500
+                "value": 12240
             }
         ],
-        "9A59BF99": [
+        "38C704A6": [
             {
-                "value": 840000
+                "value": 8040
             }
         ],
-        "7D2FB7D": [
+        "B753BDE6": [
             {
-                "value": 2275000
+                "value": 5400
             }
         ],
-        "3720638F": [
+        "763BC7F6": [
             {
-                "value": 1459500
+                "value": 8040
             }
         ],
-        "DBCE2CEC": [
+        "196FB9D6": [
             {
-                "value": 1855000
+                "value": 11160
             }
         ],
-        "CFBC229E": [
+        "283EDD18": [
             {
-                "value": 805000
+                "value": 11160
             }
         ],
-        "CAA53575": [
+        "3C0364D3": [
             {
-                "value": 2
+                "value": 11160
+            }
+        ],
+        "AB3090F9": [
+            {
+                "value": 11160
+            }
+        ],
+        "795489C9": [
+            {
+                "value": 5220
+            }
+        ],
+        "DB23267": [
+            {
+                "value": 6600
+            }
+        ],
+        "B4E44FAE": [
+            {
+                "value": 6600
+            }
+        ],
+        "65B4613F": [
+            {
+                "value": 6600
+            }
+        ],
+        "7837BA32": [
+            {
+                "value": 5220
+            }
+        ],
+        "3B65A6FD": [
+            {
+                "value": 6600
+            }
+        ],
+        "SALE_CARMOD_MENU_BITSET_2": [
+            {
+                "value": 67116096
+            }
+        ],
+        "571B7A8F": [
+            {
+                "value": -1657406772
+            }
+        ],
+        "8662591C": [
+            {
+                "value": 165420993
+            }
+        ],
+        "78A0BD99": [
+            {
+                "value": -602618829
+            }
+        ],
+        "13BEF3D7": [
+            {
+                "value": -324344481
+            }
+        ],
+        "4420D49A": [
+            {
+                "value": -1099921173
+            }
+        ],
+        "E9129E17": [
+            {
+                "value": -809686140
+            }
+        ],
+        "36EAB9C6": [
+            {
+                "value": -1578283039
+            }
+        ],
+        "4587D700": [
+            {
+                "value": -1279167607
+            }
+        ],
+        "13A3F339": [
+            {
+                "value": -665144855
+            }
+        ],
+        "885D5E46": [
+            {
+                "value": 1962899502
+            }
+        ],
+        "7592B8B1": [
+            {
+                "value": -2082171400
+            }
+        ],
+        "AEDFAB4A": [
+            {
+                "value": -1713519870
+            }
+        ],
+        "5A1601B8": [
+            {
+                "value": 433799931
+            }
+        ],
+        "4149D020": [
+            {
+                "value": -312546489
+            }
+        ],
+        "2F0B2BA3": [
+            {
+                "value": -14315820
+            }
+        ],
+        "24BE1709": [
+            {
+                "value": -218073194
+            }
+        ],
+        "1288729E": [
+            {
+                "value": -1904300396
+            }
+        ],
+        "DCCF8729": [
+            {
+                "value": -102499416
+            }
+        ],
+        "A866296": [
+            {
+                "value": -1976722371
+            }
+        ],
+        "A86A1F7F": [
+            {
+                "value": 2138146497
+            }
+        ],
+        "77493D3E": [
+            {
+                "value": -1858622899
+            }
+        ],
+        "1BF0868E": [
+            {
+                "value": -1528966759
+            }
+        ],
+        "2A37231B": [
+            {
+                "value": 860616598
+            }
+        ],
+        "2F722D91": [
+            {
+                "value": -1663757066
+            }
+        ],
+        "3DABCA04": [
+            {
+                "value": -967588644
+            }
+        ],
+        "F783BDB1": [
+            {
+                "value": 260167479
+            }
+        ],
+        "C68DCB7A": [
+            {
+                "value": 6600
+            }
+        ],
+        "87A1F70": [
+            {
+                "value": 9000
+            }
+        ],
+        "31E23E0F": [
+            {
+                "value": 15000
             }
         ],
         "5589583D": [
@@ -3392,35 +3603,15 @@
         ],
         "CASH_MULTIPLIER": [
             {
-                "value": 3
+                "value": 2
             }
         ],
         "XP_MULTIPLIER": [
             {
-                "value": 3
+                "value": 2
             }
         ],
         "JOB_RP_CAP": [
-            {
-                "value": 10000
-            }
-        ],
-        "ADVERSARY_MATCH_BONUS_TIME_MULTIPLIER": [
-            {
-                "value": 200
-            }
-        ],
-        "F4C18B94": [
-            {
-                "value": 2
-            }
-        ],
-        "42291054": [
-            {
-                "value": 2
-            }
-        ],
-        "EFD68C16": [
             {
                 "value": 10000
             }
