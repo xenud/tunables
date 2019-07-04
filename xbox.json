@@ -4,87 +4,15 @@
     "poolSize": 2000,
     "contentlists": [
         [
-            63766943,
-            304821496,
-            1420872607,
-            2025351322,
-            -180572539,
-            -1730729848,
-            186822269,
-            -1377022338,
-            1093314166,
-            1453562254,
-            337416671,
-            -120836174,
-            937230265,
-            -1052944277,
-            -1685988996,
-            -990553064,
-            239614544,
-            1933582724,
-            -1171693190,
-            998852664,
-            1896370427,
-            -869525898,
-            1815133417,
-            1087130278,
-            -2041627084,
-            -417724696,
-            1792527089,
-            1386176188,
-            -1634416791,
-            672040286,
-            1366501865,
-            -688008393
-        ],
-        [
-            -1946912507,
-            -901024591,
-            -1508205741,
-            -1244328718,
-            -1467265123,
-            1196137704,
-            436053958,
-            -593717353,
-            -1405227191,
-            647802565,
-            523910364,
-            -1691501263,
-            627468514,
-            -895707132,
-            -854934627,
-            1899920989,
-            -1042629233,
-            1737223162,
-            460417197,
-            50782770,
-            -1977251312,
-            1703484625,
-            205513612,
-            -950489515,
-            -1094634062,
-            1014062999,
-            627690245,
-            1689266854,
-            -592700745,
-            -1720575676,
-            -2072019775,
-            1282087080,
-            -1681695804,
-            2132726654,
-            -1169398770,
-            574110492,
-            -86634142,
-            385582451,
-            -930300631,
-            722949790,
-            2057454442,
-            1680964176,
-            137694874,
-            -173579029,
-            1691122344,
-            -2145095419,
-            -745506659
+            -615966200,
+            1356601135,
+            -31392702,
+            519505192,
+            -1039969555,
+            1933122059,
+            33049207,
+            -134585879,
+            -1269356441
         ]
     ],
     "tunables": {
@@ -465,7 +393,7 @@
         ],
         "BOOT_BUTTON_QUICK_MATCH_TYPE": [
             {
-                "value": 246
+                "value": 224
             }
         ],
         "NPCFLOWINVITEINTERVALINSECONDS": [
@@ -815,12 +743,12 @@
         ],
         "PERMANENTCAPREPEATOFFENDER2": [
             {
-                "value": 1314002
+                "value": 2628004
             }
         ],
         "PERMANENTCAPREPEATOFFENDER1": [
             {
-                "value": 1314002
+                "value": 2628004
             }
         ],
         "NUMBER_OF_MINUTES_FOR_CAP_RECOVERY": [
@@ -1200,7 +1128,7 @@
         ],
         "74A7E7E1": [
             {
-                "value": 21
+                "value": 0
             }
         ],
         "COLLISION_OFF_IN_PREMIUM_RACES": [
@@ -3058,484 +2986,2484 @@
                 "value": true
             }
         ],
-        "BD5B72": [
+        "9F0606CF": [
             {
-                "value": 100000
+                "value": 90000
             }
         ],
-        "A89CD58B": [
+        "CC952B01": [
             {
-                "value": 10000
+                "value": 1500
             }
         ],
-        "C8A6ADEA": [
+        "125EBF1D": [
+            {
+                "value": 30000
+            }
+        ],
+        "4250A851": [
+            {
+                "value": 30000
+            }
+        ],
+        "7F0990FE": [
+            {
+                "value": 30000
+            }
+        ],
+        "9245F42D": [
+            {
+                "value": 30000
+            }
+        ],
+        "8EB260C1": [
+            {
+                "value": 30000
+            }
+        ],
+        "458AF58D": [
+            {
+                "value": 30000
+            }
+        ],
+        "5DCDA271": [
+            {
+                "value": 30000
+            }
+        ],
+        "86844FC6": [
+            {
+                "value": 30000
+            }
+        ],
+        "D27D1E3F": [
+            {
+                "value": 30000
+            }
+        ],
+        "CD8E4D46": [
+            {
+                "value": 200
+            }
+        ],
+        "1C95A29D": [
+            {
+                "value": 500
+            }
+        ],
+        "3EB066CA": [
+            {
+                "value": 1000
+            }
+        ],
+        "677639": [
+            {
+                "value": 1500
+            }
+        ],
+        "D75DA426": [
             {
                 "value": 2000
             }
         ],
-        "A0884A01": [
+        "344BCFC9": [
             {
-                "value": 400
+                "value": 3000
             }
         ],
-        "776FFEDF": [
+        "B2CCCCD5": [
             {
-                "value": true
+                "value": 4000
             }
         ],
-        "FA5B17E6": [
+        "630EB0AA": [
             {
-                "value": 70
+                "value": 5000
             }
         ],
-        "53B05F6C": [
+        "8BB481F5": [
             {
-                "value": 70000
+                "value": 6000
             }
         ],
-        "A5F5E05F": [
+        "13F9156C": [
             {
-                "value": 63000
+                "value": 7000
             }
         ],
-        "8D3AABC8": [
+        "DC452609": [
             {
-                "value": 56000
+                "value": 8000
             }
         ],
-        "66510D32": [
+        "81AEEB46": [
             {
-                "value": 52500
+                "value": 9000
             }
         ],
-        "A15AEB04": [
+        "39FFDC01": [
             {
-                "value": 49000
+                "value": 10000
             }
         ],
-        "279C55F0": [
+        "72945069": [
             {
-                "value": 42000
+                "value": 11000
             }
         ],
-        "8F6DDEE1": [
+        "32E7D10D": [
             {
-                "value": 38500
+                "value": 12000
             }
         ],
-        "8253199C": [
+        "6D90C9BE": [
             {
-                "value": 35000
+                "value": 14000
             }
         ],
-        "4FDFFDB1": [
+        "130914A8": [
             {
-                "value": 7980
+                "value": 16000
             }
         ],
-        "B66A6689": [
+        "3A29546C": [
             {
-                "value": 21000
+                "value": 18000
             }
         ],
-        "9FD231E9": [
+        "EAAA356B": [
             {
-                "value": 19250
+                "value": 20000
             }
         ],
-        "96D78320": [
+        "E9066AD6": [
             {
-                "value": 10850
+                "value": 20000
             }
         ],
-        "60F80B8E": [
+        "D4A0FDC5": [
             {
-                "value": 17500
+                "value": 60000
             }
         ],
-        "42DC1B6D": [
+        "7C14338": [
+            {
+                "value": 60000
+            }
+        ],
+        "D379B674": [
+            {
+                "value": 60000
+            }
+        ],
+        "B2A3E3B1": [
+            {
+                "value": 60000
+            }
+        ],
+        "B32C416B": [
+            {
+                "value": 40000
+            }
+        ],
+        "44726F9A": [
+            {
+                "value": 40000
+            }
+        ],
+        "54B47349": [
+            {
+                "value": 4000
+            }
+        ],
+        "4512F497": [
+            {
+                "value": 4000
+            }
+        ],
+        "F21A8055": [
+            {
+                "value": 4000
+            }
+        ],
+        "FF402C5D": [
+            {
+                "value": 4000
+            }
+        ],
+        "D398451B": [
+            {
+                "value": 2000
+            }
+        ],
+        "82068E8": [
+            {
+                "value": 2000
+            }
+        ],
+        "4AC09ECD": [
+            {
+                "value": 0.7
+            }
+        ],
+        "55D1B988": [
+            {
+                "value": 0.7
+            }
+        ],
+        "EE409F6F": [
+            {
+                "value": 0.7
+            }
+        ],
+        "3A4BF64D": [
+            {
+                "value": 0.7
+            }
+        ],
+        "6C349B8C": [
+            {
+                "value": 0.7
+            }
+        ],
+        "46417C4B": [
+            {
+                "value": 0.7
+            }
+        ],
+        "C0208779": [
+            {
+                "value": 0.3
+            }
+        ],
+        "4D711D50": [
+            {
+                "value": 0.3
+            }
+        ],
+        "D05E96B0": [
+            {
+                "value": 0.3
+            }
+        ],
+        "BA31BA79": [
+            {
+                "value": 0.3
+            }
+        ],
+        "B6C65A14": [
+            {
+                "value": 0.3
+            }
+        ],
+        "895061D6": [
+            {
+                "value": 0.3
+            }
+        ],
+        "EXEC_CONTRABAND_FILM_REEL_VALUE": [
+            {
+                "value": 190000
+            }
+        ],
+        "EXEC_CONTRABAND_SASQUATCH_HIDE_VALUE": [
+            {
+                "value": 210000
+            }
+        ],
+        "EXEC_CONTRABAND_GOLDEN_MINIGUN_VALUE": [
+            {
+                "value": 230000
+            }
+        ],
+        "EXEC_CONTRABAND_ORNAMENTAL_EGG_VALUE": [
+            {
+                "value": 250000
+            }
+        ],
+        "EXEC_CONTRABAND_XL_DIAMOND_VALUE": [
+            {
+                "value": 270000
+            }
+        ],
+        "EXEC_CONTRABAND_POCKET_WATCH_VALUE": [
+            {
+                "value": 300000
+            }
+        ],
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD1": [
+            {
+                "value": 20000
+            }
+        ],
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD2": [
+            {
+                "value": 22000
+            }
+        ],
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD3": [
+            {
+                "value": 24000
+            }
+        ],
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD4": [
+            {
+                "value": 26000
+            }
+        ],
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD5": [
+            {
+                "value": 27000
+            }
+        ],
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD6": [
             {
                 "value": 28000
             }
         ],
-        "693E8080": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD7": [
             {
-                "value": 25900
+                "value": 29000
             }
         ],
-        "8CB6C06F": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD8": [
             {
-                "value": 12600
+                "value": 30000
             }
         ],
-        "C50AD4CD": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD9": [
             {
-                "value": 12600
+                "value": 31000
             }
         ],
-        "STUNT_LIVERY_1_EMPEROR_SHEAVA": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD10": [
             {
-                "value": 23940
+                "value": 32000
             }
         ],
-        "STUNT_LIVERY_1_PROGEN_TYRUS": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD11": [
             {
-                "value": 23940
+                "value": 33000
             }
         ],
-        "STUNT_LIVERY_1_DECALSSE_DRIFT_TAMPA": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD12": [
             {
-                "value": 23940
+                "value": 34000
             }
         ],
-        "STUNT_LIVERY_1_ANNIS_RE7B": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD13": [
             {
-                "value": 23940
+                "value": 35000
             }
         ],
-        "STUNT_LIVERY_1_OBEY_OMNIS": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD14": [
             {
-                "value": 23940
+                "value": 35500
             }
         ],
-        "STUNT_LIVERY_1_LAMPADATI_TROPOS_RALLYE": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD15": [
             {
-                "value": 23940
+                "value": 36000
             }
         ],
-        "STUNT_LIVERY_1_GROTTI_BRIOSO_RA": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD16": [
             {
-                "value": 23940
+                "value": 36500
             }
         ],
-        "STUNT_LIVERY_1_VAPID_TROPHY_TRUCK": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD17": [
             {
-                "value": 23940
+                "value": 37000
             }
         ],
-        "STUNT_LIVERY_1_VAPID_DESERT_RAID": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD18": [
             {
-                "value": 23940
+                "value": 37500
             }
         ],
-        "STUNT_LIVERY_1_WESTERN_CLIFFHANGER": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD19": [
             {
-                "value": 23940
+                "value": 38000
             }
         ],
-        "STUNT_LIVERY_1_NAGASAKI_BF400": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD20": [
             {
-                "value": 23940
+                "value": 39000
             }
         ],
-        "STUNT_LIVERY_1_OCELOT_LYNX": [
+        "EXEC_CONTRABAND_SALE_VALUE_THRESHOLD21": [
             {
-                "value": 23940
+                "value": 40000
             }
         ],
-        "STUNT_LIVERY_1_WESTERN_GARGOYLE": [
+        "E2897E28": [
             {
-                "value": 23940
+                "value": 18000
             }
         ],
-        "STUNT_LIVERY_2_EMPEROR_SHEAVA": [
+        "BIKER_SELL_PARTICIPATION_CASH": [
             {
-                "value": 31920
+                "value": 1000
             }
         ],
-        "STUNT_LIVERY_2_PROGEN_TYRUS": [
+        "BIKER_FAKEIDS_PRODUCT_VALUE": [
             {
-                "value": 31920
+                "value": 2000
             }
         ],
-        "STUNT_LIVERY_2_DECALSSE_DRIFT_TAMPA": [
+        "BIKER_COUNTERCASH_PRODUCT_VALUE": [
             {
-                "value": 31920
+                "value": 7000
             }
         ],
-        "STUNT_LIVERY_2_ANNIS_RE7B": [
+        "BIKER_CRACK_PRODUCT_VALUE": [
             {
-                "value": 31920
+                "value": 40000
             }
         ],
-        "STUNT_LIVERY_2_OBEY_OMNIS": [
+        "BIKER_METH_PRODUCT_VALUE": [
             {
-                "value": 31920
+                "value": 17000
             }
         ],
-        "STUNT_LIVERY_2_LAMPADATI_TROPOS_RALLYE": [
+        "BIKER_WEED_PRODUCT_VALUE": [
             {
-                "value": 31920
+                "value": 3000
             }
         ],
-        "STUNT_LIVERY_2_GROTTI_BRIOSO_RA": [
+        "BIKER_FAKEIDS_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
             {
-                "value": 31920
+                "value": 400
             }
         ],
-        "STUNT_LIVERY_2_VAPID_TROPHY_TRUCK": [
+        "BIKER_COUNTERCASH_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
             {
-                "value": 31920
+                "value": 1400
             }
         ],
-        "STUNT_LIVERY_2_VAPID_DESERT_RAID": [
+        "BIKER_CRACK_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
             {
-                "value": 31920
+                "value": 8000
             }
         ],
-        "STUNT_LIVERY_2_WESTERN_CLIFFHANGER": [
+        "BIKER_METH_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
             {
-                "value": 31920
+                "value": 3400
             }
         ],
-        "STUNT_LIVERY_2_NAGASAKI_BF400": [
+        "BIKER_WEED_PRODUCT_VALUE_EQUIPMENT_UPGRADE": [
             {
-                "value": 31920
+                "value": 600
             }
         ],
-        "STUNT_LIVERY_2_OCELOT_LYNX": [
+        "BIKER_FAKEIDS_PRODUCT_VALUE_STAFF_UPGRADE": [
             {
-                "value": 31920
+                "value": 400
             }
         ],
-        "STUNT_LIVERY_2_WESTERN_GARGOYLE": [
+        "BIKER_COUNTERCASH_PRODUCT_VALUE_STAFF_UPGRADE": [
             {
-                "value": 31920
+                "value": 1400
             }
         ],
-        "235F55BD": [
+        "BIKER_CRACK_PRODUCT_VALUE_STAFF_UPGRADE": [
             {
-                "value": 12600
+                "value": 8000
             }
         ],
-        "8DB7AAA5": [
+        "BIKER_METH_PRODUCT_VALUE_STAFF_UPGRADE": [
             {
-                "value": 7980
+                "value": 3400
             }
         ],
-        "C960EC84": [
+        "BIKER_WEED_PRODUCT_VALUE_STAFF_UPGRADE": [
             {
-                "value": 12600
+                "value": 600
             }
         ],
-        "644FB69E": [
+        "46D75522": [
             {
-                "value": 70000
+                "value": 60000
             }
         ],
-        "9EE57EE6": [
+        "EF2C364C": [
             {
-                "value": 94500
+                "value": 18000
             }
         ],
-        "7235FD75": [
+        "F954AF51": [
             {
-                "value": 119000
+                "value": 1000
             }
         ],
-        "C350FFDD": [
+        "30AC38FB": [
             {
-                "value": 140000
+                "value": 10000
             }
         ],
-        "SALE_CARMOD_MENU_BITSET_2": [
+        "5899703B": [
             {
-                "value": 404750336
+                "value": 2000
             }
         ],
-        "83A46CDC": [
+        "B81C73B0": [
             {
-                "value": 6
+                "value": 2000
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_1": [
+        "E30DA33E": [
             {
-                "value": -1409631173
+                "value": 150000
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_2": [
+        "C6EB36A5": [
             {
-                "value": -508614749
+                "value": 22500
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_3": [
+        "29D25E23": [
             {
-                "value": 192314161
+                "value": 22500
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_4": [
+        "D7C0521F": [
             {
-                "value": -1262137904
+                "value": true
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_5": [
+        "1965BB0F": [
             {
-                "value": 1594794596
+                "value": true
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_6": [
+        "B4788E08": [
             {
-                "value": -1740532535
+                "value": 0.6
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_7": [
+        "FB0B5CEA": [
             {
-                "value": -1031476913
+                "value": 0.6
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_8": [
+        "3C149EEC": [
             {
-                "value": 271352989
+                "value": 0.6
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_9": [
+        "E4AF8BB3": [
             {
-                "value": 1532678121
+                "value": 128
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_10": [
+        "VEHICLE_INDEPENDENCEDAY_MONSTER": [
             {
-                "value": 564845730
+                "value": 445208
             }
         ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_11": [
-            {
-                "value": 199995684
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_12": [
-            {
-                "value": -1238465109
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_13": [
-            {
-                "value": 817232568
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_14": [
-            {
-                "value": -1287290959
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_15": [
-            {
-                "value": 880181781
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_16": [
-            {
-                "value": 1187522232
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_17": [
-            {
-                "value": 1449248235
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_18": [
-            {
-                "value": 639943353
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_19": [
-            {
-                "value": 939353706
-            }
-        ],
-        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_20": [
-            {
-                "value": -488260552
-            }
-        ],
-        "571B7A8F": [
-            {
-                "value": -309276274
-            }
-        ],
-        "22E3E7A3": [
-            {
-                "value": 1113000
-            }
-        ],
-        "15DC99CC": [
-            {
-                "value": 539500
-            }
-        ],
-        "EC43ACC4": [
-            {
-                "value": 1088750
-            }
-        ],
-        "27484620": [
-            {
-                "value": 646750
-            }
-        ],
-        "7010BCF3": [
-            {
-                "value": 279500
-            }
-        ],
-        "CE87BA58": [
-            {
-                "value": 1277250
-            }
-        ],
-        "9E4CF575": [
-            {
-                "value": 216000
-            }
-        ],
-        "72BE8F30": [
-            {
-                "value": 513500
-            }
-        ],
-        "LUXE2_PROGEN_T20": [
-            {
-                "value": 1540000
-            }
-        ],
-        "IMPEXP_NERO_BASE_PRICE": [
-            {
-                "value": 1008000
-            }
-        ],
-        "GR_NEW_SPORTS_CARS_OCELOT_XA_21": [
-            {
-                "value": 1662500
-            }
-        ],
-        "889736B7": [
-            {
-                "value": 1785000
-            }
-        ],
-        "BIKER_WEBSITE_NAGASAKI_SHOTARO": [
-            {
-                "value": 1335000
-            }
-        ],
-        "43E39B9E": [
+        "DFD65E45": [
             {
                 "value": 72000
             }
         ],
-        "E2629198": [
+        "71584F23": [
+            {
+                "value": 18000
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_1": [
+            {
+                "value": -952091823
+            }
+        ],
+        "AB167D9A": [
+            {
+                "value": 9000
+            }
+        ],
+        "BBD81F1D": [
+            {
+                "value": 9600
+            }
+        ],
+        "69AB4A1": [
+            {
+                "value": 10200
+            }
+        ],
+        "1154CA15": [
+            {
+                "value": 10800
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_2": [
+            {
+                "value": -665245345
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_3": [
+            {
+                "value": 1049163197
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_4": [
+            {
+                "value": -177872008
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_9": [
+            {
+                "value": -366752524
+            }
+        ],
+        "F4C44622": [
+            {
+                "value": 9000
+            }
+        ],
+        "WEAPONS_INDEPENDENCEDAY_MUSKET_AMMO": [
+            {
+                "value": 1
+            }
+        ],
+        "35139E7B": [
+            {
+                "value": 39000
+            }
+        ],
+        "iINDIVIDUAL_WEAPON_SALE_HASH_LABELS_1": [
+            {
+                "value": 2138347493
+            }
+        ],
+        "EB2FD6C0": [
+            {
+                "value": 300
+            }
+        ],
+        "iINDIVIDUAL_WEAPON_SALE_HASH_LABELS_2": [
+            {
+                "value": 82051787
+            }
+        ],
+        "2C0B7ED1": [
+            {
+                "value": 18000
+            }
+        ],
+        "iINDIVIDUAL_WEAPON_SALE_HASH_LABELS_3": [
+            {
+                "value": -1786471098
+            }
+        ],
+        "ENABLE_INDEPENDENCE_LIVERY_WEAPONS": [
+            {
+                "value": true
+            }
+        ],
+        "644FB69E": [
+            {
+                "value": 60000
+            }
+        ],
+        "9EE57EE6": [
+            {
+                "value": 81000
+            }
+        ],
+        "7235FD75": [
+            {
+                "value": 102000
+            }
+        ],
+        "C350FFDD": [
+            {
+                "value": 120000
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_5": [
+            {
+                "value": -1038926467
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_6": [
+            {
+                "value": -800007688
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_7": [
+            {
+                "value": 727748618
+            }
+        ],
+        "INDIVIDUAL_VEHICLE_SALE_HASH_LABELS_8": [
+            {
+                "value": 1109310854
+            }
+        ],
+        "721CC68A": [
+            {
+                "value": 60000
+            }
+        ],
+        "11AD0EF8": [
+            {
+                "value": -1656451024
+            }
+        ],
+        "670972E8": [
+            {
+                "value": 30000
+            }
+        ],
+        "PISTOL_AMMO_AMMO_MODIFIER": [
+            {
+                "value": 14
+            }
+        ],
+        "COMBAT_PISTOL_AMMO_MODIFIER": [
+            {
+                "value": 14
+            }
+        ],
+        "PISTOL50_AMMO_MODIFIER": [
+            {
+                "value": 14
+            }
+        ],
+        "AP_PISTOL_AMMO_MODIFIER": [
+            {
+                "value": 21
+            }
+        ],
+        "MICRO_SMG_AMMO_MODIFIER": [
+            {
+                "value": 15
+            }
+        ],
+        "SMG_AMMO_MODIFIER": [
+            {
+                "value": 28
+            }
+        ],
+        "ASSAULT_SMG_AMMO_MODIFIER": [
+            {
+                "value": 28
+            }
+        ],
+        "ASSAULT_RIFLE_AMMO_MODIFIER": [
+            {
+                "value": 27
+            }
+        ],
+        "CARBINE_RIFLE_AMMO_MODIFIER": [
+            {
+                "value": 27
+            }
+        ],
+        "ADVANCED_RIFLE_AMMO_MODIFIER": [
+            {
+                "value": 27
+            }
+        ],
+        "MG_AMMO_MODIFIER": [
+            {
+                "value": 38
+            }
+        ],
+        "COMBAT_MG_AMMO_MODIFIER": [
+            {
+                "value": 69
+            }
+        ],
+        "PUMP_SHOTGUN_AMMO_MODIFIER": [
+            {
+                "value": 6
+            }
+        ],
+        "SAWEDOFF_SHOTGUN_AMMO_MODIFIER": [
+            {
+                "value": 6
+            }
+        ],
+        "BULLPUP_SHOTGUN_AMMO_MODIFIER": [
+            {
+                "value": 6
+            }
+        ],
+        "ASSAULT_SHOTGUN_AMMO_MODIFIER": [
+            {
+                "value": 6
+            }
+        ],
+        "HEAVY_SNIPER_AMMO_MODIFIER": [
+            {
+                "value": 22
+            }
+        ],
+        "SNIPER_RIFLE_AMMO_MODIFIER": [
+            {
+                "value": 36
+            }
+        ],
+        "MINIGUN_AMMO_MODIFIER": [
+            {
+                "value": 38
+            }
+        ],
+        "valentine_Gusenberg_AMMO": [
+            {
+                "value": 21
+            }
+        ],
+        "DLC_WEAPON_ADDON_SNS_PISTOL_AMMO": [
+            {
+                "value": 7
+            }
+        ],
+        "DLC_WEAPON_ADDON_SPECIAL_CARBINE_AMMO": [
+            {
+                "value": 27
+            }
+        ],
+        "DLC_WEAPON_ADDON_HEAVY_PISTOL_AMMO": [
+            {
+                "value": 21
+            }
+        ],
+        "DLC_WEAPON_ADDON_BULLPUP_RIFLE_AMMO": [
+            {
+                "value": 27
+            }
+        ],
+        "DLC_WEAPON_ADDON_VINTAGE_PISTOL_AMMO": [
+            {
+                "value": 8
+            }
+        ],
+        "LTS_HEAVY_SHOTGUN_AMMO": [
+            {
+                "value": 5
+            }
+        ],
+        "LTS_MARKSMAN_RIFLE_AMMO": [
+            {
+                "value": 29
+            }
+        ],
+        "flaregun_Ammo": [
+            {
+                "value": 25
+            }
+        ],
+        "LUXE1_AMMO_COMBAT_PDW_AMMO": [
+            {
+                "value": 28
+            }
+        ],
+        "DLC_WEAPON_MARKSMAN_PISTOL_AMMO": [
+            {
+                "value": 1
+            }
+        ],
+        "AMMO_MACHINE_PISTOL_AMMO": [
+            {
+                "value": 21
+            }
+        ],
+        "DLC_WEAPON_REVOLVER_AMMO": [
+            {
+                "value": 7
+            }
+        ],
+        "AMMO_COMPACT_RIFLE_AMMO": [
+            {
+                "value": 27
+            }
+        ],
+        "AMMO_DOUBLE_BARREL_SHOTGUN_AMMO": [
+            {
+                "value": 2
+            }
+        ],
+        "BIKER_AMMO_SWEEPER_SHOTGUN_AMMO": [
+            {
+                "value": 8
+            }
+        ],
+        "BIKER_AMMO_MINI_SMG_AMMO": [
+            {
+                "value": 19
+            }
+        ],
+        "STICKYBOMB_MODIFIER": [
+            {
+                "value": 150
+            }
+        ],
+        "GRENADE_MODIFIER": [
+            {
+                "value": 63
+            }
+        ],
+        "TEARGAS_MODIFIER": [
+            {
+                "value": 38
+            }
+        ],
+        "BFC92F0B": [
+            {
+                "value": 150
+            }
+        ],
+        "A15F9A72": [
+            {
+                "value": 63
+            }
+        ],
+        "BF058AD": [
+            {
+                "value": 38
+            }
+        ],
+        "WEAPONS_XMAS14_PROXIMITY_MINE": [
+            {
+                "value": 250
+            }
+        ],
+        "BIKER_PRIMARY_PIPE_BOMB": [
+            {
+                "value": 125
+            }
+        ],
+        "GRENADE_LAUNCHER_AMMO_MODIFIER": [
+            {
+                "value": 1250
+            }
+        ],
+        "RPG_AMMO_MODIFIER": [
+            {
+                "value": 250
+            }
+        ],
+        "WEAPONS_XMAS14_HOMING_LAUNCHER_AMMO": [
+            {
+                "value": 375
+            }
+        ],
+        "BIKER_AMMO_COMPACT_GRENADE_LAUNCHER_AMMO": [
+            {
+                "value": 125
+            }
+        ],
+        "502A5F5A": [
+            {
+                "value": 11
+            }
+        ],
+        "F6984D34": [
+            {
+                "value": 21
+            }
+        ],
+        "9D262458": [
+            {
+                "value": 52
+            }
+        ],
+        "93EC0878": [
+            {
+                "value": 20
+            }
+        ],
+        "C9950948": [
+            {
+                "value": 20
+            }
+        ],
+        "A0B1BB16": [
+            {
+                "value": 34
+            }
+        ],
+        "E693953B": [
+            {
+                "value": 66
+            }
+        ],
+        "49C33482": [
+            {
+                "value": 195
+            }
+        ],
+        "8F0C27DC": [
+            {
+                "value": 63
+            }
+        ],
+        "25643C93": [
+            {
+                "value": 63
+            }
+        ],
+        "5F5D3592": [
+            {
+                "value": 51
+            }
+        ],
+        "F909E1E8": [
+            {
+                "value": 15
+            }
+        ],
+        "BF0ADB58": [
+            {
+                "value": 28
+            }
+        ],
+        "B35D76A3": [
+            {
+                "value": 84
+            }
+        ],
+        "5B7AA307": [
+            {
+                "value": 27
+            }
+        ],
+        "8A189713": [
+            {
+                "value": 27
+            }
+        ],
+        "9705F364": [
+            {
+                "value": 22
+            }
+        ],
+        "3623E993": [
+            {
+                "value": 19
+            }
+        ],
+        "AA4C5424": [
+            {
+                "value": 38
+            }
+        ],
+        "4F5330B6": [
+            {
+                "value": 139
+            }
+        ],
+        "28E5C916": [
+            {
+                "value": 45
+            }
+        ],
+        "8A4B8A75": [
+            {
+                "value": 45
+            }
+        ],
+        "452E7C83": [
+            {
+                "value": 36
+            }
+        ],
+        "C87E2EA5": [
+            {
+                "value": 363
+            }
+        ],
+        "D5F0FA2D": [
+            {
+                "value": 20
+            }
+        ],
+        "82FBFF69": [
+            {
+                "value": 22
+            }
+        ],
+        "E6A7E9EE": [
+            {
+                "value": 5
+            }
+        ],
+        "45224CB3": [
+            {
+                "value": 17
+            }
+        ],
+        "7D986F4F": [
+            {
+                "value": 6
+            }
+        ],
+        "2EDD814E": [
+            {
+                "value": 63
+            }
+        ],
+        "206452B7": [
+            {
+                "value": 64
+            }
+        ],
+        "FE541FB7": [
+            {
+                "value": 25
+            }
+        ],
+        "8F4E4BF4": [
+            {
+                "value": 53
+            }
+        ],
+        "9232E59A": [
+            {
+                "value": 25
+            }
+        ],
+        "DD331357": [
+            {
+                "value": 9
+            }
+        ],
+        "1E2E76AB": [
+            {
+                "value": 27
+            }
+        ],
+        "7B5A496E": [
+            {
+                "value": 27
+            }
+        ],
+        "6FA5F02E": [
+            {
+                "value": 11
+            }
+        ],
+        "C91B6725": [
+            {
+                "value": 23
+            }
+        ],
+        "AB86CECC": [
+            {
+                "value": 11
+            }
+        ],
+        "781DB081": [
+            {
+                "value": 12
+            }
+        ],
+        "4DB226C6": [
+            {
+                "value": 14
+            }
+        ],
+        "6858EEE2": [
+            {
+                "value": 15
+            }
+        ],
+        "B5D40ACD": [
+            {
+                "value": 15
+            }
+        ],
+        "CFECEAD9": [
+            {
+                "value": 45
+            }
+        ],
+        "E4CA3B9E": [
+            {
+                "value": 46
+            }
+        ],
+        "A7E180C8": [
+            {
+                "value": 38
+            }
+        ],
+        "9464855B": [
+            {
+                "value": 150
+            }
+        ],
+        "417BECA4": [
+            {
+                "value": 7
+            }
+        ],
+        "799CC7BB": [
+            {
+                "value": 69
+            }
+        ],
+        "1E893A62": [
+            {
+                "value": 38
+            }
+        ],
+        "6D744305": [
+            {
+                "value": -1352805971
+            }
+        ],
+        "7F61E6E0": [
+            {
+                "value": 978453442
+            }
+        ],
+        "83BB731B": [
+            {
+                "value": -1701351463
+            }
+        ],
+        "F576D690": [
+            {
+                "value": -649542207
+            }
+        ],
+        "30644C66": [
+            {
+                "value": 1411461530
+            }
+        ],
+        "PISTOL_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "SMG_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "RIFLE_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "MG_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "SHOTGUN_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "SNIPER_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "FLAREGUN_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "MINIGUN_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "GRENADELAUNCHER_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "RPG_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "HOMINGLAUNCHER_AMMO_DISPLAY_SALES": [
+            {
+                "value": true
+            }
+        ],
+        "8C8973": [
+            {
+                "value": true
+            }
+        ],
+        "7FC0CB75": [
+            {
+                "value": true
+            }
+        ],
+        "52876910": [
+            {
+                "value": true
+            }
+        ],
+        "EBCC01B9": [
+            {
+                "value": true
+            }
+        ],
+        "E8603787": [
+            {
+                "value": true
+            }
+        ],
+        "DC9D57CD": [
+            {
+                "value": true
+            }
+        ],
+        "BF15ED45": [
+            {
+                "value": true
+            }
+        ],
+        "3CD105A4": [
+            {
+                "value": true
+            }
+        ],
+        "86513368": [
+            {
+                "value": true
+            }
+        ],
+        "E20F8337": [
+            {
+                "value": true
+            }
+        ],
+        "F97AFF34": [
+            {
+                "value": true
+            }
+        ],
+        "724CD5E9": [
+            {
+                "value": true
+            }
+        ],
+        "1BA270A4": [
+            {
+                "value": true
+            }
+        ],
+        "2BC9C0EA": [
+            {
+                "value": true
+            }
+        ],
+        "B2CC004F": [
+            {
+                "value": true
+            }
+        ],
+        "6455AC78": [
+            {
+                "value": true
+            }
+        ],
+        "6678CBC4": [
+            {
+                "value": true
+            }
+        ],
+        "9F3491A3": [
+            {
+                "value": true
+            }
+        ],
+        "70B6458F": [
+            {
+                "value": true
+            }
+        ],
+        "E0919E8A": [
+            {
+                "value": true
+            }
+        ],
+        "70BE88BC": [
+            {
+                "value": true
+            }
+        ],
+        "8A7C33D6": [
+            {
+                "value": true
+            }
+        ],
+        "EE27C95": [
+            {
+                "value": true
+            }
+        ],
+        "C2DFBEB7": [
+            {
+                "value": true
+            }
+        ],
+        "A06E7CF0": [
+            {
+                "value": true
+            }
+        ],
+        "2229AFF1": [
+            {
+                "value": 716052705
+            }
+        ],
+        "EAC54129": [
+            {
+                "value": -1343691746
+            }
+        ],
+        "DC83A4A6": [
+            {
+                "value": -652013618
+            }
+        ],
+        "C3E94B21": [
+            {
+                "value": 735000
+            }
+        ],
+        "55D4BC2E": [
+            {
+                "value": 840000
+            }
+        ],
+        "1F96F4F0": [
+            {
+                "value": 87000
+            }
+        ],
+        "6D53C29E": [
+            {
+                "value": 192000
+            }
+        ],
+        "F0670A6A": [
+            {
+                "value": 147000
+            }
+        ],
+        "46DF9519": [
+            {
+                "value": 117000
+            }
+        ],
+        "61DF3F12": [
+            {
+                "value": 573000
+            }
+        ],
+        "1F097F88": [
+            {
+                "value": 69000
+            }
+        ],
+        "F9719C1": [
+            {
+                "value": 69000
+            }
+        ],
+        "277835D0": [
+            {
+                "value": 69000
+            }
+        ],
+        "94D79A4C": [
+            {
+                "value": 69000
+            }
+        ],
+        "ADEA6898": [
+            {
+                "value": 69000
+            }
+        ],
+        "B31A124B": [
+            {
+                "value": 69000
+            }
+        ],
+        "9706F691": [
+            {
+                "value": 69000
+            }
+        ],
+        "D38F62C1": [
+            {
+                "value": 69000
+            }
+        ],
+        "2867C6B6": [
+            {
+                "value": 69000
+            }
+        ],
+        "A144B8AC": [
+            {
+                "value": 69000
+            }
+        ],
+        "CEC7A898": [
+            {
+                "value": 69000
+            }
+        ],
+        "1CC52056": [
+            {
+                "value": 69000
+            }
+        ],
+        "33BFAD01": [
+            {
+                "value": 69000
+            }
+        ],
+        "BF0B1853": [
+            {
+                "value": 69000
+            }
+        ],
+        "48A45B51": [
+            {
+                "value": 2070000
+            }
+        ],
+        "E4AF952B": [
+            {
+                "value": 82500
+            }
+        ],
+        "B837F018": [
+            {
+                "value": 82500
+            }
+        ],
+        "3A00B52A": [
+            {
+                "value": 82500
+            }
+        ],
+        "FFBA58D8": [
+            {
+                "value": 82500
+            }
+        ],
+        "CA0C2ECF": [
+            {
+                "value": 82500
+            }
+        ],
+        "D6EA26C8": [
+            {
+                "value": 82500
+            }
+        ],
+        "38413735": [
+            {
+                "value": 82500
+            }
+        ],
+        "27417D9C": [
+            {
+                "value": 82500
+            }
+        ],
+        "62CC5A0A": [
+            {
+                "value": 82500
+            }
+        ],
+        "75BADB88": [
+            {
+                "value": 147000
+            }
+        ],
+        "B1C2110E": [
+            {
+                "value": 453000
+            }
+        ],
+        "F980E745": [
+            {
+                "value": 120000
+            }
+        ],
+        "881F3444": [
+            {
+                "value": 1770000
+            }
+        ],
+        "E5ECA401": [
+            {
+                "value": 1644000
+            }
+        ],
+        "BAF4BB8": [
+            {
+                "value": 1515000
+            }
+        ],
+        "32EE4646": [
+            {
+                "value": 1387500
+            }
+        ],
+        "CD4E13B9": [
+            {
+                "value": 1260000
+            }
+        ],
+        "BBCACF7F": [
+            {
+                "value": 1113000
+            }
+        ],
+        "E7C1FFB0": [
+            {
+                "value": 1002000
+            }
+        ],
+        "9D927645": [
+            {
+                "value": 879000
+            }
+        ],
+        "C30F9318": [
+            {
+                "value": 750000
+            }
+        ],
+        "17E70345": [
+            {
+                "value": 915000
+            }
+        ],
+        "9A59BF99": [
+            {
+                "value": 720000
+            }
+        ],
+        "7D2FB7D": [
+            {
+                "value": 1950000
+            }
+        ],
+        "3720638F": [
+            {
+                "value": 1251000
+            }
+        ],
+        "DBCE2CEC": [
+            {
+                "value": 1590000
+            }
+        ],
+        "EXEC1_OFFICE1_LOMBANK": [
+            {
+                "value": 1860000
+            }
+        ],
+        "EXEC1_OFFICE2_MAZE1": [
+            {
+                "value": 600000
+            }
+        ],
+        "EXEC1_OFFICE3_ARCADIUS": [
+            {
+                "value": 1350000
+            }
+        ],
+        "EXEC1_OFFICE4_MAZE2": [
+            {
+                "value": 2400000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE0": [
+            {
+                "value": 225600
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE1": [
+            {
+                "value": 216000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE2": [
+            {
+                "value": 190800
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE3": [
+            {
+                "value": 150000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE4": [
+            {
+                "value": 240000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE5": [
+            {
+                "value": 1419000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE6": [
+            {
+                "value": 541200
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE7": [
+            {
+                "value": 1695000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE8": [
+            {
+                "value": 235200
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE9": [
+            {
+                "value": 528000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE10": [
+            {
+                "value": 596400
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE11": [
+            {
+                "value": 610200
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE12": [
+            {
+                "value": 555000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE13": [
+            {
+                "value": 582600
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE14": [
+            {
+                "value": 568800
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE15": [
+            {
+                "value": 1560000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE16": [
+            {
+                "value": 2100000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE17": [
+            {
+                "value": 1140000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE18": [
+            {
+                "value": 1959000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE19": [
+            {
+                "value": 1281000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE20": [
+            {
+                "value": 600000
+            }
+        ],
+        "SECUROSERV_WAREHOUSE_WAREHOUSE21": [
+            {
+                "value": 1824000
+            }
+        ],
+        "607E320B": [
+            {
+                "value": 1425000
+            }
+        ],
+        "D5C8AD4": [
+            {
+                "value": 1374000
+            }
+        ],
+        "CDC26B12": [
+            {
+                "value": 1323000
+            }
+        ],
+        "10403C38": [
+            {
+                "value": 1272000
+            }
+        ],
+        "64394471": [
+            {
+                "value": 1221000
+            }
+        ],
+        "6CFDA02F": [
+            {
+                "value": 1170000
+            }
+        ],
+        "BE083224": [
+            {
+                "value": 1050000
+            }
+        ],
+        "F770E070": [
+            {
+                "value": 990000
+            }
+        ],
+        "B18C971F": [
+            {
+                "value": 930000
+            }
+        ],
+        "FF20771": [
+            {
+                "value": 870000
+            }
+        ],
+        "C1771A10": [
+            {
+                "value": 699000
+            }
+        ],
+        "C2AD28AE": [
+            {
+                "value": 297000
+            }
+        ],
+        "84973F26": [
+            {
+                "value": 283200
+            }
+        ],
+        "83F583C9": [
+            {
+                "value": 273000
+            }
+        ],
+        "B88384CB": [
+            {
+                "value": 269400
+            }
+        ],
+        "3C37C762": [
+            {
+                "value": 252000
+            }
+        ],
+        "3BDDBD9C": [
+            {
+                "value": 237000
+            }
+        ],
+        "27772EDF": [
+            {
+                "value": 219000
+            }
+        ],
+        "555B01B0": [
+            {
+                "value": 150000
+            }
+        ],
+        "CC45C5A2": [
+            {
+                "value": 145200
+            }
+        ],
+        "6EE4541C": [
+            {
+                "value": 135000
+            }
+        ],
+        "A201001A": [
             {
                 "value": 126000
             }
         ],
-        "5E176BB0": [
+        "185B2ACE": [
             {
-                "value": 162000
+                "value": 120000
             }
         ],
-        "5C23D5AC": [
+        "BIKER_BUSINESS_PALETO_BAY_DOCUMENT_FORGERY_OFFICE": [
             {
-                "value": 54000
+                "value": 439200
+            }
+        ],
+        "BIKER_BUSINESS_CITY_DOCUMENT_FORGERY_OFFICE": [
+            {
+                "value": 741000
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_DOCUMENT_FORGERY_OFFICE": [
+            {
+                "value": 390000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_DOCUMENT_FORGERY_OFFICE": [
+            {
+                "value": 585000
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 570960
+            }
+        ],
+        "BIKER_BUSINESS_CITY_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 963300
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 507000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_COUNTERFEIT_CASH_FACTOY": [
+            {
+                "value": 760500
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_COCAINE_LOCKUP": [
+            {
+                "value": 658800
+            }
+        ],
+        "BIKER_BUSINESS_CITY_COCAINE_LOCKUP": [
+            {
+                "value": 1111500
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_COCAINE_LOCKUP": [
+            {
+                "value": 585000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_COCAINE_LOCKUP": [
+            {
+                "value": 877500
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_METH_LAB": [
+            {
+                "value": 614880
+            }
+        ],
+        "BIKER_BUSINESS_CITY_METH_LAB": [
+            {
+                "value": 1037400
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_METH_LAB": [
+            {
+                "value": 546000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_METH_LAB": [
+            {
+                "value": 819000
+            }
+        ],
+        "BIKER_BUSINESS_PALETO_BAY_WEED_FARM": [
+            {
+                "value": 483120
+            }
+        ],
+        "BIKER_BUSINESS_CITY_WEED_FARM": [
+            {
+                "value": 815100
+            }
+        ],
+        "BIKER_BUSINESS_COUNTRYSIDE_WEED_FARM": [
+            {
+                "value": 429000
+            }
+        ],
+        "BIKER_BUSINESS_ELYSIAN_WEED_FARM": [
+            {
+                "value": 643500
+            }
+        ],
+        "19B8140D": [
+            {
+                "value": 1020000
+            }
+        ],
+        "A5843EB8": [
+            {
+                "value": 1002000
+            }
+        ],
+        "18A7212E": [
+            {
+                "value": 987000
+            }
+        ],
+        "C5399428": [
+            {
+                "value": 915000
+            }
+        ],
+        "AA5FB3D": [
+            {
+                "value": 900000
+            }
+        ],
+        "2F48D05B": [
+            {
+                "value": 864000
+            }
+        ],
+        "7941F232": [
+            {
+                "value": 822000
+            }
+        ],
+        "DC37F7F7": [
+            {
+                "value": 792000
+            }
+        ],
+        "EB6ABE02": [
+            {
+                "value": 681000
+            }
+        ],
+        "1FBAE496": [
+            {
+                "value": 648000
+            }
+        ],
+        "6637DD2": [
+            {
+                "value": 237000
+            }
+        ],
+        "3C866A17": [
+            {
+                "value": 248850
+            }
+        ],
+        "32435591": [
+            {
+                "value": 261300
+            }
+        ],
+        "D5C39CAF": [
+            {
+                "value": 274380
+            }
+        ],
+        "F0DC6F06": [
+            {
+                "value": 84000
+            }
+        ],
+        "1B0AC362": [
+            {
+                "value": 88200
+            }
+        ],
+        "9AF74339": [
+            {
+                "value": 92610
+            }
+        ],
+        "CFE79873": [
+            {
+                "value": 105000
+            }
+        ],
+        "530A1A0F": [
+            {
+                "value": 135000
+            }
+        ],
+        "FF7172DF": [
+            {
+                "value": 180000
+            }
+        ],
+        "10D88F3C": [
+            {
+                "value": 20100
+            }
+        ],
+        "C5C0161E": [
+            {
+                "value": 20100
+            }
+        ],
+        "75FDBF43": [
+            {
+                "value": 20100
+            }
+        ],
+        "C9C480A7": [
+            {
+                "value": 20100
+            }
+        ],
+        "617042F2": [
+            {
+                "value": 20100
+            }
+        ],
+        "15E49C0F": [
+            {
+                "value": 20100
+            }
+        ],
+        "E3850129": [
+            {
+                "value": 20100
+            }
+        ],
+        "82D4A619": [
+            {
+                "value": 20100
+            }
+        ],
+        "5DCFE5E1": [
+            {
+                "value": 20100
+            }
+        ],
+        "32F983D1": [
+            {
+                "value": 21000
+            }
+        ],
+        "2AA267F": [
+            {
+                "value": 52800
+            }
+        ],
+        "E3265F9C": [
+            {
+                "value": 84000
+            }
+        ],
+        "5D1456F4": [
+            {
+                "value": 130500
+            }
+        ],
+        "3B706B4C": [
+            {
+                "value": 177000
+            }
+        ],
+        "2C24E44F": [
+            {
+                "value": 17100
+            }
+        ],
+        "E87CDD00": [
+            {
+                "value": 21000
+            }
+        ],
+        "B32B725E": [
+            {
+                "value": 30000
+            }
+        ],
+        "B822EEBA": [
+            {
+                "value": 111000
+            }
+        ],
+        "DA9C8037": [
+            {
+                "value": 111000
+            }
+        ],
+        "D1BBE2B4": [
+            {
+                "value": 123000
+            }
+        ],
+        "FAD578D2": [
+            {
+                "value": 207000
+            }
+        ],
+        "6283085E": [
+            {
+                "value": 825000
+            }
+        ],
+        "D12CBA12": [
+            {
+                "value": 3600000
+            }
+        ],
+        "69F75381": [
+            {
+                "value": 300000
+            }
+        ],
+        "C916887B": [
+            {
+                "value": 4200000
+            }
+        ],
+        "6960525B": [
+            {
+                "value": 600000
+            }
+        ],
+        "APARTMENT_PURCHASE_MODEL_THE_AQUARIUS_FIRST_PURCHASE": [
+            {
+                "value": 4800000
+            }
+        ],
+        "APARTMENT_MOD_UPGRADE_MODEL_THE_AQUARIUS_MOD": [
+            {
+                "value": 1200000
+            }
+        ],
+        "18CD2EE9": [
+            {
+                "value": 2334000
+            }
+        ],
+        "D637463C": [
+            {
+                "value": 3104220
+            }
+        ],
+        "81E71D20": [
+            {
+                "value": 537000
+            }
+        ],
+        "35116A7B": [
+            {
+                "value": 714210
+            }
+        ],
+        "72EB696E": [
+            {
+                "value": 831000
+            }
+        ],
+        "718988A2": [
+            {
+                "value": 1105230
+            }
+        ],
+        "FC524990": [
+            {
+                "value": 2088000
+            }
+        ],
+        "B3E60E41": [
+            {
+                "value": 2777040
+            }
+        ],
+        "604B3D23": [
+            {
+                "value": 780000
+            }
+        ],
+        "904C92CA": [
+            {
+                "value": 1915200
+            }
+        ],
+        "2EFA1CDD": [
+            {
+                "value": 1440000
+            }
+        ],
+        "AA42E494": [
+            {
+                "value": 1532160
+            }
+        ],
+        "29C0CE55": [
+            {
+                "value": 1152000
+            }
+        ],
+        "FFD08466": [
+            {
+                "value": 893760
+            }
+        ],
+        "7EF991C2": [
+            {
+                "value": 672000
+            }
+        ],
+        "4F69EBD3": [
+            {
+                "value": 1053360
+            }
+        ],
+        "D1A26649": [
+            {
+                "value": 792000
+            }
+        ],
+        "6983D14F": [
+            {
+                "value": 1755600
+            }
+        ],
+        "9B6285B4": [
+            {
+                "value": 1320000
+            }
+        ],
+        "AD5A27B7": [
+            {
+                "value": 395010
+            }
+        ],
+        "F2E17799": [
+            {
+                "value": 297000
+            }
+        ],
+        "B8E7F3D0": [
+            {
+                "value": 3447360
+            }
+        ],
+        "FA42EF15": [
+            {
+                "value": 2592000
+            }
+        ],
+        "7C54A204": [
+            {
+                "value": 2298240
+            }
+        ],
+        "B57AD397": [
+            {
+                "value": 1728000
+            }
+        ],
+        "E4BC0602": [
+            {
+                "value": true
+            }
+        ],
+        "5DAB965E": [
+            {
+                "value": false
+            }
+        ],
+        "INDEPENDENCE_DAY_DEACTIVATE_FIREWORKS_LAUNCHER": [
+            {
+                "value": false
+            }
+        ],
+        "58D6A10B": [
+            {
+                "value": true
+            }
+        ],
+        "Toggle_activate_Monster_truck": [
+            {
+                "value": true
+            }
+        ],
+        "5D95DE52": [
+            {
+                "value": true
+            }
+        ],
+        "ENABLE_TRAILERLARGE_LIVERIES": [
+            {
+                "value": true
+            }
+        ],
+        "F6833FDB": [
+            {
+                "value": true
+            }
+        ],
+        "iINDIVIDUAL_WEAPON_SALE_HASH_LABELS_7": [
+            {
+                "value": -203767607
+            }
+        ],
+        "iINDIVIDUAL_WEAPON_SALE_HASH_LABELS_4": [
+            {
+                "value": -1576453561
+            }
+        ],
+        "iINDIVIDUAL_WEAPON_SALE_HASH_LABELS_5": [
+            {
+                "value": 1057138672
+            }
+        ],
+        "iINDIVIDUAL_WEAPON_SALE_HASH_LABELS_6": [
+            {
+                "value": -1433665445
+            }
+        ],
+        "599DB59F": [
+            {
+                "value": 1084779582
+            }
+        ],
+        "47D4120C": [
+            {
+                "value": 1229416868
+            }
+        ],
+        "1E9BBFA0": [
+            {
+                "value": -915127147
+            }
+        ],
+        "773DDA20": [
+            {
+                "value": 1779531303
+            }
+        ],
+        "676F3A83": [
+            {
+                "value": -821844677
             }
         ],
         "5589583D": [
@@ -3630,30 +5558,15 @@
         ],
         "CASH_MULTIPLIER": [
             {
-                "value": 3
+                "value": 2
             }
         ],
         "XP_MULTIPLIER": [
             {
-                "value": 3
+                "value": 2
             }
         ],
         "JOB_RP_CAP": [
-            {
-                "value": 15000
-            }
-        ],
-        "F4C18B94": [
-            {
-                "value": 2
-            }
-        ],
-        "42291054": [
-            {
-                "value": 2
-            }
-        ],
-        "EFD68C16": [
             {
                 "value": 10000
             }
