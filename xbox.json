@@ -3,6 +3,11 @@
     "format": 1,
     "poolSize": 2000,
     "tunables": {
+        "A8495E4D": [
+            {
+                "value": 600000
+            }
+        ],
         "243995CE": [
             {
                 "value": 52
